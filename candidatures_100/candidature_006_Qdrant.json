@@ -1,0 +1,22 @@
+{
+  "job_id": 6,
+  "company": "Qdrant",
+  "title": "Business Development Representative (EMEA)",
+  "location": "Paris, A8, FR",
+  "job_url": "",
+  "candidate": {
+    "name": "Jordan LE PRUNENEC",
+    "title": "Business Developer B2B & GTM Engineer / AI Sales",
+    "email": "futuresjordan@gmail.com",
+    "phone": "06 47 80 11 12",
+    "location": "Paris, France / Mobilité Internationale",
+    "linkedin": "https://www.linkedin.com/in/jordan-le-prunenec",
+    "key_achievements": "Prospection multicanale B2B pour GM Capital (fonds d'investissement), déploiement de workflows IA et no-code sur n8n, Lemlist, RocketReach, Sales Navigator. Formation Concepteur Développeur IA chez Alegria.tech.",
+    "salary": "55k€ - 65k€ fixe (+ variable)",
+    "notice": "Immédiat"
+  },
+  "cover_letter": "Madame, Monsieur,\n\nVotre moteur de recherche vectoriel est devenu une brique critique pour les entreprises qui industrialisent leurs applications d'IA. Mon profil se situe exactement à ce croisement : business developer B2B orienté pipeline et GTM Engineer capable de construire des machines de prospection multicanales automatisées.\n\nChez GM Capital, j'ai conçu et opéré des workflows n8n reliant RocketReach, Sales Navigator et Lemlist pour identifier, scorer et engager des décideurs C-Level. J'ai ainsi automatisé l'enrichissement des comptes, la personnalisation des séquences et le suivi des signaux d'intérêt, ce qui a permis de générer un flux constant de rendez-vous qualifiés et de réduire significativement le cycle de prospection.\n\nJe serais ravi d'échanger sur la manière dont je peux transposer cette approche au pipeline EMEA de Qdrant, avec un impact rapide sur la génération de pipeline qualifié. Disponible pour un premier échange à votre convenance.\n\nJordan LE PRUNENEC",
+  "screening_pitch": "Parce que je combine une expérience B2B concrète dans la prospection de décideurs C-Level avec une maîtrise avancée des automatisations IA (n8n, Lemlist, RocketReach, Sales Navigator). J'ai déjà industrialisé des workflows de prospection multicanale chez GM Capital, transformant des signaux de marché en rendez-vous qualifiés. Vendre l'infrastructure vectorielle de Qdrant exige un BDR qui comprend à la fois les enjeux techniques de l'IA et les cycles de vente B2B, et c'est précisément ma zone de performance.",
+  "status": "Candidature Prête & Générée",
+  "timestamp": "2026-08-18 08:12:00"
+}

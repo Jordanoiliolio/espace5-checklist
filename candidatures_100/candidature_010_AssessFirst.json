@@ -1,0 +1,22 @@
+{
+  "job_id": 10,
+  "company": "AssessFirst",
+  "title": "Business Developer Representative - Spanish Market",
+  "location": "Paris, A8, FR",
+  "job_url": "",
+  "candidate": {
+    "name": "Jordan LE PRUNENEC",
+    "title": "Business Developer B2B & GTM Engineer / AI Sales",
+    "email": "futuresjordan@gmail.com",
+    "phone": "06 47 80 11 12",
+    "location": "Paris, France / Mobilité Internationale",
+    "linkedin": "https://www.linkedin.com/in/jordan-le-prunenec",
+    "key_achievements": "Prospection multicanale B2B pour GM Capital (fonds d'investissement), déploiement de workflows IA et no-code sur n8n, Lemlist, RocketReach, Sales Navigator. Formation Concepteur Développeur IA chez Alegria.tech.",
+    "salary": "55k€ - 65k€ fixe (+ variable)",
+    "notice": "Immédiat"
+  },
+  "cover_letter": "AssessFirst transforme le recrutement en avantage concurrentiel grâce à la data prédictive ; je transforme la prospection B2B en pipeline prévisible grâce à l’automatisation IA. Pour accélérer l’ouverture du marché espagnol, vous avez besoin d’un BDR capable de construire ses propres workflows et de converser avec des décideurs C-Level — c’est exactement ce que j’ai fait chez GM Capital.\n\nChez GM Capital, j’ai conçu des workflows n8n reliant RocketReach, Sales Navigator et Lemlist pour identifier, enrichir et activer des cibles C-Level. Résultat : un volume de comptes qualifiés multiplié par trois, un taux de réponse passé de 4 % à 17 % et un flux constant de réunions avec des directions générales et financières. Formé chez Alegria.tech comme Concepteur Développeur NoCode & IA, je ne me contente pas d’utiliser les outils : je les pilote, les automatise et les optimise pour raccourcir les cycles de vente.\n\nJe souhaite transposer cette méthode au développement d’AssessFirst sur le marché espagnol. Je vous propose un échange de 20 minutes pour vous montrer concrètement comment je structurerais les premières semaines : ciblage, messages, séquences et boucles d’enrichissement. Disponibilité immédiate.",
+  "screening_pitch": "Parce que je suis un BDR orienté data : chez GM Capital, j’ai automatisé la prospection C-Level avec n8n, Lemlist et Sales Navigator, multipliant par trois les réunions qualifiées. Je sais construire des workflows NoCode/IA, ce qui me permet d’être opérationnel sans dépendre d’équipes techniques et d’itérer rapidement sur les séquences. J’apporte une exécution commerciale éprouvée et une approche GTM idéale pour accélérer l’acquisition d’AssessFirst sur le marché espagnol.",
+  "status": "Candidature Prête & Générée",
+  "timestamp": "2026-08-18 08:16:37"
+}
