@@ -1,64 +1,281 @@
 [
   {
     "id": 1,
-    "title": "GenAI Sales Specialist, AWS Specialists Team",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Courbevoie, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialists-team-at-amazon-web-services-aws-4446832565",
-    "date": "2 weeks ago",
+    "title": "Technical Customer Support Engineer - EMEA",
+    "company": "clickhouse",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=fa175e607f623b93",
+    "date": "2026-08-17",
     "tags": [
-      "Generative AI",
-      "Sales Specialist"
+      "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
     "id": 2,
-    "title": "GenAI Sales Specialist, AWS Specialist Team France",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Courbevoie, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialist-team-france-at-amazon-web-services-aws-4446162470",
-    "date": "3 weeks ago",
+    "title": "Media Effectiveness Development Lead",
+    "company": "NielsenIQ",
+    "location": "Bezons, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=baf21538bfac0607",
+    "date": "2026-08-17",
     "tags": [
-      "Generative AI",
-      "Sales Specialist"
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
     "id": 3,
-    "title": "Senior Enterprise Account Executive – Robotics & Physical AI",
-    "company": "XXII",
-    "location": "Puteaux, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-enterprise-account-executive-%E2%80%93-robotics-physical-ai-at-xxii-4435038970",
-    "date": "1 month ago",
+    "title": "Consulting Sales Engineer - Expert(e) Avant Vente Ingénieur(e) Systèmes H/F",
+    "company": "Hewlett Packard Enterprise | HPE",
+    "location": "Puteaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=3e9d052bd168695c",
+    "date": "2026-08-14",
     "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Account Executive"
+      "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
     "id": 4,
-    "title": "Account Executive IA",
-    "company": "Craft AI",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-ia-at-craft-ai-4448755686",
-    "date": "3 weeks ago",
+    "title": "Regional Account Executive (Enterprise) (Fluent in French) (Located in France)",
+    "company": "KnowBe4",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=0758edbef0f55c73",
+    "date": "2026-08-12",
     "tags": [
-      "AI / IA",
       "Account Executive"
     ],
     "status": "À postuler"
   },
   {
     "id": 5,
-    "title": "Microsoft Solution Sales Specialist - Data & AI",
-    "company": "SoftwareOne",
+    "title": "Business Development Representative Mid Market - Freelance",
+    "company": "AgoraPulse",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=0175e50b71bba8c5",
+    "date": "2026-08-11",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 6,
+    "title": "Business Development Representative (EMEA)",
+    "company": "Qdrant",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=a3c9cf590de0b46d",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 7,
+    "title": "Channel Sales Representative – Italy, UK & Eastern Europe",
+    "company": "Veesion",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b5dc3c3573e0c5ae",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 8,
+    "title": "Channel Sales Representative – DACH & Nordics",
+    "company": "Veesion",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=5a5a69eac6bd9642",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 9,
+    "title": "Marketing Lead Development Representative French Speaking, MRC - Marketing Response Center",
+    "company": "Amazon Web Services",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=de008b4980e47ee0",
+    "date": "2026-07-30",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 10,
+    "title": "Business Developer Representative - Spanish Market",
+    "company": "AssessFirst",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=03f6d334f1c79481",
+    "date": "2026-07-29",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 11,
+    "title": "Business Development Representative France",
+    "company": "Qevlar AI",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=d7ffc6143ce91442",
+    "date": "2026-07-29",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 12,
+    "title": "Business Development Manager EU (English speaker / Multi-lingual profile)",
+    "company": "Back Market",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=91ad833ed88e4d7e",
+    "date": "2026-07-28",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 13,
+    "title": "Sales Development Representative - France",
+    "company": "YOU Trust",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=72a087c675205d82",
+    "date": "2026-07-27",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 14,
+    "title": "Inside Sales Representative - France",
+    "company": "Palo Alto Networks",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=0a817ec423f40a18",
+    "date": "2026-07-27",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 15,
+    "title": "Inside Sales Representative - Commercial Sédentaire",
+    "company": "Lenovo",
+    "location": "Rueil-Malmaison, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=765611b0e48095d3",
+    "date": "2026-07-27",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 16,
+    "title": "Trade Account Manager",
+    "company": "Waterworks",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=794051f4be5964d3",
+    "date": "2026-07-22",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 17,
+    "title": "VP, Global Developer Relations",
+    "company": "Mistral AI",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2db54e51dcbb0b0a",
+    "date": "2026-07-22",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 18,
+    "title": "Account Executive, French, Italy and Middle- East Markets",
+    "company": "nan",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=9179ae6b9f201d71",
+    "date": "2026-07-21",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 19,
+    "title": "Manager, Sales Development",
+    "company": "Tanium",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8ebd649d3d6de682",
+    "date": "2026-07-20",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 20,
+    "title": "Sr Business Development Representative",
+    "company": "UKG",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=6db5e7e6cdcd5f11",
+    "date": "2026-07-08",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 21,
+    "title": "Business Development Representative - French & Inter Market (F/M)",
+    "company": "Najar",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=23bb912e3bbbfb10",
+    "date": "2026-06-23",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 22,
+    "title": "Sales Specialist AI Business Solutions Microsoft H/F",
+    "company": "Inetum",
+    "location": "St.-Ouen, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4400591201",
+    "date": "2026-08-16",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 23,
+    "title": "Data & AI Technology Sales Specialist",
+    "company": "NTT DATA, Inc.",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/microsoft-solution-sales-specialist-data-ai-at-softwareone-4449764789",
-    "date": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/4426777859",
+    "date": "2026-08-14",
     "tags": [
       "AI / IA",
       "Data",
@@ -67,12 +284,37 @@
     "status": "À postuler"
   },
   {
-    "id": 6,
-    "title": "Sales Specialist AI Business Solutions Microsoft H/F",
-    "company": "Inetum",
-    "location": "St.-Ouen, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-ai-business-solutions-microsoft-h-f-at-inetum-4400591201",
-    "date": "1 day ago",
+    "id": 24,
+    "title": "GenAI Business Development Manager — Paris - Permanent Contract (CDI)",
+    "company": "Sailglobal",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4430410209",
+    "date": "2026-08-14",
+    "tags": [
+      "Generative AI",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 25,
+    "title": "Account Executive Enterprise",
+    "company": "Mayday",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453588506",
+    "date": "2026-08-14",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 26,
+    "title": "AI Sales specialist",
+    "company": "Check Point Software",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4454019214",
+    "date": "2026-08-13",
     "tags": [
       "AI / IA",
       "Sales Specialist"
@@ -80,12 +322,278 @@
     "status": "À postuler"
   },
   {
-    "id": 7,
-    "title": "Senior AI Sales Representative",
+    "id": 27,
+    "title": "Account Executive — AI & Data",
+    "company": "MP DATA",
+    "location": "Boulogne-Billancourt, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4452392928",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 28,
+    "title": "Business Development Associate H/F",
+    "company": "Piano",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4450137804",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 29,
+    "title": "Business Development Representative",
+    "company": "Mayday",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451170362",
+    "date": "2026-08-10",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 30,
+    "title": "Solutions Consultant, Mid-Market, France",
+    "company": "Notion",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4450728155",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 31,
+    "title": "Microsoft Solution Sales Specialist - Data & AI",
+    "company": "SoftwareOne",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4449764789",
+    "date": "2026-08-06",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 32,
+    "title": "Solutions Consultant (French Speaking)",
+    "company": "Synthesia",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4404547243",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 33,
+    "title": "HOW WE HIRE",
+    "company": "SnapGeniX",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4447350288",
+    "date": "2026-08-05",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 34,
+    "title": "Account Executive, SEMEA",
+    "company": "Botify",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4418754763",
+    "date": "2026-08-03",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 35,
+    "title": "Consultative AI Sales Professional",
+    "company": "DXC Technology",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4371314015",
+    "date": "2026-08-01",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 36,
+    "title": "Solution Engineer",
+    "company": "Kili Technology",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445084411",
+    "date": "2026-07-31",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 37,
+    "title": "BDR (F/H)",
+    "company": "ILLUIN Technology",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4447520746",
+    "date": "2026-07-31",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 38,
+    "title": "GenAI Sales Specialist, AWS Specialists Team",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446832565",
+    "date": "2026-07-30",
+    "tags": [
+      "Generative AI",
+      "Cloud",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 39,
+    "title": "Account Manager Specialist AI Solutions (H/F)",
+    "company": "SCC France",
+    "location": "Nanterre, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446728676",
+    "date": "2026-07-30",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 40,
+    "title": "GenAI Sales Specialist, AWS Specialist Team France",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446153517",
+    "date": "2026-07-28",
+    "tags": [
+      "Generative AI",
+      "Cloud",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 41,
+    "title": "Business Development Representative",
+    "company": "Centric Software",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4414680077",
+    "date": "2026-07-28",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 42,
+    "title": "Business Developer – Projets & Innovation IA - F/H",
+    "company": "ATECNA",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445640067",
+    "date": "2026-07-26",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 43,
+    "title": "Sales Executive",
+    "company": "Kleio",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445348102",
+    "date": "2026-07-25",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 44,
+    "title": "Founding Sales - AI for Finance",
+    "company": "Stakha",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444465953",
+    "date": "2026-07-23",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 45,
+    "title": "Account Executive IA",
+    "company": "Craft AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448755686",
+    "date": "2026-07-23",
+    "tags": [
+      "AI / IA",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 46,
+    "title": "Customer Service Analyst",
+    "company": "Corpay",
+    "location": "Saint-Hélier, BFC, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=20720572becd18d6",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 47,
+    "title": "French-Speaking Sales Representative – MENA Market",
+    "company": "Vendogram AI Academy",
+    "location": "Télétravail, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=55890d913edaf5be",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 48,
+    "title": "Senior AI Sales Representative - H/F",
     "company": "Atos",
-    "location": "Bezons, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-ai-sales-representative-at-atos-4446655814",
-    "date": "1 week ago",
+    "location": "Bordeaux, NA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=15e6323518de5397",
+    "date": "2026-08-04",
     "tags": [
       "Senior / Lead",
       "AI / IA",
@@ -94,12 +602,53 @@
     "status": "À postuler"
   },
   {
-    "id": 8,
-    "title": "Consultative AI Sales Professional",
-    "company": "DXC Technology",
+    "id": 49,
+    "title": "Business Development Representative (BDR) Nordics - Apprenticeship",
+    "company": "Kameleoon",
+    "location": "Toulouse, O, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b18305af15a2eaec",
+    "date": "2026-07-29",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 50,
+    "title": "Business Developer - Data, IA, Digital- Paris - CDI",
+    "company": "WOLD",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/consultative-ai-sales-professional-at-dxc-technology-4371314015",
-    "date": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/4453246844",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 51,
+    "title": "DATA & AI Presales Senior Consultant",
+    "company": "SoftwareOne",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4449740580",
+    "date": "2026-08-06",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 52,
+    "title": "Business Development Representative Produit – SaaS, IA & Solutions Microsoft",
+    "company": "Witivio - AI Solutions for Microsoft 365",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4445907049",
+    "date": "2026-07-27",
     "tags": [
       "AI / IA",
       "Tech Sales"
@@ -107,12 +656,2385 @@
     "status": "À postuler"
   },
   {
-    "id": 9,
-    "title": "Data & AI Technology Sales Specialist",
+    "id": 53,
+    "title": "Deployment Strategist - France - Global Expansion",
+    "company": "ElevenLabs",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4455345568",
+    "date": "nan",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 54,
+    "title": "Business Development Specialist",
+    "company": "Crossbeam",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443134480",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 55,
+    "title": "LI Product Specialist",
+    "company": "Agilent Technologies",
+    "location": "Les Ulis, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4434794004",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 56,
+    "title": "Inside Sales Specialist – EMEA",
+    "company": "Malvern Panalytical",
+    "location": "Palaiseau, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4414483951",
+    "date": "2026-08-08",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 57,
+    "title": "CDI : Sales Developer",
+    "company": "Tandem 🚲",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448519142",
+    "date": "2026-08-04",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 58,
+    "title": "Sales Developer Representative (f/h/n)",
+    "company": "Hublo",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4447569489",
+    "date": "2026-07-31",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 59,
+    "title": "Sales Specialist SAP Paris F/H",
+    "company": "VISEO",
+    "location": "Boulogne-Billancourt, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4418275642",
+    "date": "2026-07-30",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 60,
+    "title": "OTC Sales Development Representative",
+    "company": "BTSE",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4369461135",
+    "date": "nan",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 61,
+    "title": "Inside Sales Representative, Flavors Europe",
+    "company": "Sensient Technologies",
+    "location": "Illkirch-Graffenstaden, GE, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b8bfb72df34d607f",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 62,
+    "title": "Business Development Specialist - France",
+    "company": "TUI",
+    "location": "Nice, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4454506581",
+    "date": "2026-08-14",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 63,
+    "title": "Sales Specialist",
+    "company": "ChemScene",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4432614188",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 64,
+    "title": "Business Development Representative - Marché Français",
+    "company": "Amenitiz",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4452966931",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 65,
+    "title": "Growth Sales Executive",
+    "company": "Wallester",
+    "location": "Cannes, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4437277928",
+    "date": "2026-08-12",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 66,
+    "title": "Inside Sales - Europe",
+    "company": "HID",
+    "location": "Beaucouzé, Pays de la Loire, France",
+    "url": "https://www.linkedin.com/jobs/view/4431516659",
+    "date": "2026-08-12",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 67,
+    "title": "Founding Sales Development Representative (SDR)",
+    "company": "Piston",
+    "location": "Biarritz, Nouvelle-Aquitaine, France",
+    "url": "https://www.linkedin.com/jobs/view/4452444183",
+    "date": "2026-08-11",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 68,
+    "title": "Business Developer (H/F)",
+    "company": "UPTOO",
+    "location": "Toulouse, Occitanie, France",
+    "url": "https://www.linkedin.com/jobs/view/4433218898",
+    "date": "2026-08-07",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 69,
+    "title": "Business Developer South of France",
+    "company": "prado",
+    "location": "Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4450327302",
+    "date": "2026-08-07",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 70,
+    "title": "Sales Developer",
+    "company": "Capgemini Engineering",
+    "location": "Isneauville, Normandy, France",
+    "url": "https://www.linkedin.com/jobs/view/4450601059",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 71,
+    "title": "SALES",
+    "company": "Tsukumo",
+    "location": "Sales, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4448985690",
+    "date": "2026-08-05",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 72,
+    "title": "Sales Development Representative",
+    "company": "SAVOYE Italia Srl",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4449477554",
+    "date": "2026-08-05",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 73,
+    "title": "Solution Sales Specialist - Simulation",
+    "company": "GRAITEC Italy",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4448980226",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 74,
+    "title": "Sales Specialist Dynamics 365 Business Central F/H",
+    "company": "isatech",
+    "location": "Vannes, Brittany, France",
+    "url": "https://www.linkedin.com/jobs/view/4449907129",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 75,
+    "title": "Presales Executive",
+    "company": "Bren Corp",
+    "location": "Bren, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4449085898",
+    "date": "2026-08-04",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 76,
+    "title": "Business Development Representative",
+    "company": "Taurify",
+    "location": "Sales, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4448568404",
+    "date": "2026-08-04",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 77,
+    "title": "Business Development Representative F/H",
+    "company": "SEPTEO",
+    "location": "Bouc-Bel-Air, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4448106285",
+    "date": "2026-08-03",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 78,
+    "title": "Un(e) Sales Full Cycle : prospection, cycle de vente, suivi",
+    "company": "Daiteo",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4447896730",
+    "date": "2026-08-02",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 79,
+    "title": "Commercial B2B",
+    "company": "Airnest",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "url": "https://www.linkedin.com/jobs/view/4444152323",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 80,
+    "title": "Inside Sales Representative",
+    "company": "Copeland",
+    "location": "Écully, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4433960800",
+    "date": "2026-07-27",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 81,
+    "title": "Sales Consultant",
+    "company": "Magrey & Sons RETAIL",
+    "location": "Cannes, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4445600130",
+    "date": "2026-07-26",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 82,
+    "title": "Sales Representative",
+    "company": "Swiss Dynamics GmbH",
+    "location": "Sales, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4443838285",
+    "date": "2026-07-23",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 83,
+    "title": "Software Sales Specialist",
+    "company": "Irving Knight Group",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4442591207",
+    "date": "2026-07-20",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 84,
+    "title": "Inside Sales Specialist F/H",
+    "company": "Arthrex GmbH",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4455285374",
+    "date": "nan",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 85,
+    "title": "Senior Consulting Engineer - EMEA",
+    "company": "clickhouse",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=adf33decfbde7c79",
+    "date": "2026-08-17",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 86,
+    "title": "Atlassian Senior Consultant - Cloud Practice",
+    "company": "VALIANTYS",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b481580652c2e869",
+    "date": "2026-08-17",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 87,
+    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+    "company": "Databricks",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=02f82f9eac43b66b",
+    "date": "2026-08-17",
+    "tags": [
+      "Senior / Lead",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 88,
+    "title": "Senior Product Manager (copy)",
+    "company": "Deliverect",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=34ec920e1a47884e",
+    "date": "2026-08-17",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 89,
+    "title": "Customer Success Manager",
+    "company": "Shippeo",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=ce3239a1654d7635",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 90,
+    "title": "Ad operations manager",
+    "company": "GlobalNodes",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=6ea512422e34a7ab",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 91,
+    "title": "Regional Sales Manager",
+    "company": "Cisco",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=d0a266ca8cf5b473",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 92,
+    "title": "Senior Full-stack Engineer",
+    "company": "Prose",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=e21a3facaa57522e",
+    "date": "2026-08-14",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 93,
+    "title": "Senior Independent Sales Consultant - Rokt Ads, France (Independent Con",
+    "company": "mParticle",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=de85c3dc86921504",
+    "date": "2026-08-14",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 94,
+    "title": "Lakebase Sales Associate Director",
+    "company": "Databricks",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=921a62cefd862a51",
+    "date": "2026-08-13",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 95,
+    "title": "Senior Systems Engineer, Global Accounts",
+    "company": "Nutanix",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8d7a0439921c817a",
+    "date": "2026-08-13",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 96,
+    "title": "SRE Engineering Manager",
+    "company": "GitGuardian",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=1aad76afaf811f6e",
+    "date": "2026-08-13",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 97,
+    "title": "Enterprise Architect - Data & AI",
+    "company": "Arago Consulting",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=85d4347f7eb9dbbe",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 98,
+    "title": "Senior Platform Architect",
+    "company": "Zendesk",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=06c39853ac180a4f",
+    "date": "2026-08-13",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 99,
+    "title": "Senior Customer Success Manager - Enterprise",
+    "company": "Gorgias",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=3bec55f1939471e6",
+    "date": "2026-08-12",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 100,
+    "title": "Sales Strategy Analyst",
+    "company": "Salesforce",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2d4dca5389b5a01e",
+    "date": "2026-08-12",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 101,
+    "title": "AI Sales specialist",
+    "company": "Check Point Software Technologies",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=f70c109a29db1f77",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 102,
+    "title": "Sales Enablement Manager",
+    "company": "Mirakl",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=060e2695d7b62a16",
+    "date": "2026-08-12",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 103,
+    "title": "Solutions Engineer, Expert",
+    "company": "Keysight Technologies",
+    "location": "Les Ulis, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=e3201907265e53bd",
+    "date": "2026-08-11",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 104,
+    "title": "Finance and Portfolio Associate",
+    "company": "nan",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=c5e75da4de93733a",
+    "date": "2026-08-11",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 105,
+    "title": "CDI - GLOBAL STRATEGY & INSIGHTS MANAGER - PARIS (M/F)",
+    "company": "Danone",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=ff0090e5b17d172c",
+    "date": "2026-07-21",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 106,
+    "title": "EMEA Strategic AI Ecosystem & NVIDIA Business Development Lead",
+    "company": "DDN",
+    "location": "Meudon, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451898656",
+    "date": "2026-08-14",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 107,
+    "title": "AI-Modernisation - Sales AI Lead - CDI Paris - Theodo",
+    "company": "Theodo",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4368830252",
+    "date": "2026-08-14",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 108,
+    "title": "Sr Account Executive",
+    "company": "Genesys",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4344394130",
+    "date": "2026-08-14",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 109,
+    "title": "Account Executive - France",
+    "company": "Neural Concept",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4385457517",
+    "date": "2026-08-13",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 110,
+    "title": "Account Executive Enterprise, GSI",
+    "company": "Mistral",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453360506",
+    "date": "2026-08-12",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 111,
+    "title": "Enterprise Account Executive, Paris",
+    "company": "Hightouch",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443579293",
+    "date": "2026-08-12",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 112,
+    "title": "Founding Account Executive (M/F)",
+    "company": "Yourban.ai",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451915939",
+    "date": "2026-08-11",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 113,
+    "title": "Director/Senior Director, Strategic Solutions",
+    "company": "C3 AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4430620498",
+    "date": "2026-08-09",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 114,
+    "title": "Senior Client Growth Partner – AI Transformation",
+    "company": "Nagarro",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451015510",
+    "date": "2026-08-08",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 115,
+    "title": "Account Executive (founding team)",
+    "company": "Raison",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448053604",
+    "date": "2026-08-05",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 116,
+    "title": "Regional GM - France",
+    "company": "Unframe",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448837777",
+    "date": "2026-08-04",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 117,
+    "title": "Business Development Manager - EU Market",
+    "company": "SmartDev",
+    "location": "Versailles, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448838876",
+    "date": "2026-08-04",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 118,
+    "title": "Senior AI Sales Representative",
+    "company": "Atos",
+    "location": "Bezons, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446655814",
+    "date": "2026-08-04",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 119,
+    "title": "Senior AI Sales Specialist (F/H)",
+    "company": "Atos",
+    "location": "Bezons, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446237730",
+    "date": "2026-08-03",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 120,
+    "title": "Account Executive - Enterprise",
+    "company": "H Company",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4391090612",
+    "date": "2026-08-01",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 121,
+    "title": "Enterprise Account Executive - France",
+    "company": "Verkada",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4389261738",
+    "date": "2026-07-29",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 122,
+    "title": "Senior Enterprise Account Executive – Robotics & Physical AI",
+    "company": "XXII",
+    "location": "Puteaux, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453901852",
+    "date": "2026-07-21",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 123,
+    "title": "Senior Client Executive - Neo Cloud",
+    "company": "NetApp",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448470087",
+    "date": "nan",
+    "tags": [
+      "Senior / Lead",
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 124,
+    "title": "Installation Engineer - Europe",
+    "company": "Applied Materials",
+    "location": "Bernin, ARA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=c89369a30a897c9e",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 125,
+    "title": "Regional Field Marketing Manager - Southern Europe",
+    "company": "Veeam Software",
+    "location": "Télétravail, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=34daab2ac7546681",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 126,
+    "title": "Senior AI Creative Designer",
+    "company": "CapsLock",
+    "location": "GE, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=6bc82ce8ff44bd6c",
+    "date": "2026-08-13",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 127,
+    "title": "Senior Android Engineer",
+    "company": "IDT Corporation",
+    "location": "GE, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=43cf740e88becf4b",
+    "date": "2026-05-15",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 128,
+    "title": "Lead Data & AI - H/F/X",
+    "company": "delaware France",
+    "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4398274112",
+    "date": "2026-08-14",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 129,
+    "title": "AI & Business Transformation Lead- EMEA",
+    "company": "Boomi",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4449864203",
+    "date": "2026-08-11",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 130,
+    "title": "Principal, Strategic AI Advisory EMEA",
+    "company": "Boomi",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4452402909",
+    "date": "2026-08-11",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 131,
+    "title": "Founder Advocate, EMEA Startup, Google Cloud",
+    "company": "Google",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451402476",
+    "date": "2026-08-10",
+    "tags": [
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 132,
+    "title": "Regional Client Partner, Ads Solutions",
+    "company": "OpenAI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4441109653",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 133,
+    "title": "Strategic Core Account Executive",
+    "company": "Databricks",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445099646",
+    "date": "2026-07-31",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 134,
+    "title": "Account Executive Enterprise, GSI",
+    "company": "Headline - Asia",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4454235591",
+    "date": "nan",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 135,
+    "title": "Applied AI Architect, Partnerships",
+    "company": "Anthropic",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=58cfd295f83fcf43",
+    "date": "2026-08-17",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 136,
+    "title": "Events & Field Marketing Manager",
+    "company": "Toggl",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=84f75ba8bef24b05",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 137,
+    "title": "Senior Technical Success Manager - Enterprise Accounts",
+    "company": "Darktrace",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b1f6e45c93abeb1b",
+    "date": "2026-08-14",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 138,
+    "title": "Global Customer Marketing Manager",
+    "company": "Ivalua",
+    "location": "Massy, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=214af03e01d67b81",
+    "date": "2026-08-12",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 139,
+    "title": "Account Executive Enterprise, GSI",
+    "company": "Mistral AI",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2a45d55c6ed1942a",
+    "date": "2026-08-12",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 140,
+    "title": "Sales Account Executive US & EMEA (F/H)",
+    "company": "Sociabble",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=02688f87e8867bdb",
+    "date": "2026-08-12",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 141,
+    "title": "Account Executive Expansion - CDI - Full Remote - M/F/D",
+    "company": "Partoo",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8ad7e60f6dad8a38",
+    "date": "2026-08-11",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 142,
+    "title": "Go-To-Market Lead (GTM) - Insurance Solutions",
+    "company": "Visa",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b860bb0aa1e81263",
+    "date": "2026-08-11",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 143,
+    "title": "Partner Solutions Engineer, Southern Europe",
+    "company": "Cribl",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8f1a23f3f715c57f",
+    "date": "2026-08-11",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 144,
+    "title": "Sales Engineer - Telco & Media",
+    "company": "Equinix",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2edc6a35c9e6cac1",
+    "date": "2026-08-10",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 145,
+    "title": "Solutions Architect, EMEA Startups — France",
+    "company": "Databricks",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=5d7946089757fb7f",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 146,
+    "title": "Account Executive I",
+    "company": "SBS",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=32c644f98d7243c1",
+    "date": "2026-08-07",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 147,
+    "title": "Account Manager, SME & Growth (French-speaking)",
+    "company": "Airwallex",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=edd30bb408789088",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 148,
+    "title": "ACCOUNT EXECUTIVE ENTERPRISE",
+    "company": "STATION F",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453758584",
+    "date": "2026-08-15",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 149,
+    "title": "Commercial Account Executive, DACH",
+    "company": "Algolia",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4395481944",
+    "date": "2026-08-14",
+    "tags": [
+      "AI / IA",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 150,
+    "title": "Account Executive Enterprise - SaaS B2B",
+    "company": "Stakha",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453126295",
+    "date": "2026-08-12",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 151,
+    "title": "Enterprise Account Executive - France",
+    "company": "Kong",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4423021666",
+    "date": "2026-08-07",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 152,
+    "title": "Enterprise Account Executive",
+    "company": "Qlik",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4381000453",
+    "date": "2026-08-01",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 153,
+    "title": "Account Executive - Agentforce Service",
+    "company": "Salesforce",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4419854722",
+    "date": "2026-08-01",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 154,
+    "title": "Account Executive",
+    "company": "Volta Software",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4447126930",
+    "date": "2026-07-31",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 155,
+    "title": "Account Executive",
+    "company": "Gladia",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444127356",
+    "date": "2026-07-29",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 156,
+    "title": "Account Executive SMB (SaaS B2B)",
+    "company": "Rivage",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443249343",
+    "date": "2026-07-28",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 157,
+    "title": "100k+ OTE Account Executive in B2B SaaS",
+    "company": "DialedIn Recruiting",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4452264445",
+    "date": "nan",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 158,
+    "title": "Customer Retention Manager",
+    "company": "Upsun (via Remote Woman)",
+    "location": "Télétravail, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=da55236b07cd3efd",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 159,
+    "title": "Customer Retention Manager",
+    "company": "Platform.sh",
+    "location": "Télétravail, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b0932ed3e4894b17",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 160,
+    "title": "Account Manager",
+    "company": "PEBL",
+    "location": "Eu, N, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=3cf5385ff692c68a",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 161,
+    "title": "Enterprise Account Executive, Paris France",
+    "company": "Rubrik",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4434001067",
+    "date": "2026-08-08",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 162,
+    "title": "Strategic Account Executive - Paris",
+    "company": "Datadog",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4342684657",
+    "date": "2026-08-04",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 163,
+    "title": "Executive Account Manager – IA, Copilot & Solutions Microsoft",
+    "company": "Witivio - AI Solutions for Microsoft 365",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444943352",
+    "date": "2026-07-24",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 164,
+    "title": "Business Developer Junior (SDR) – Conseil Data & IA",
+    "company": "Saegus",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=4a93173860e2c871",
+    "date": "2026-08-17",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 165,
+    "title": "Stage Assistant Commercial / Business Developer (6 mois)",
+    "company": "studioworks",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8d5c888f21c111bb",
+    "date": "2026-08-17",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 166,
+    "title": "Stage Business Developer",
+    "company": "JuneCare",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=fe4a5585cdac9b4b",
+    "date": "2026-08-15",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 167,
+    "title": "Stage 8 semaines - BDR / Business Developer Junior",
+    "company": "Munemjo Entertainment",
+    "location": "Saint-Denis, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b9877aa502ae8f07",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 168,
+    "title": "[VO2 Finance] - IT QUANT",
+    "company": "VO2 GROUP",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=fa771f771660005a",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 169,
+    "title": "Stage – Business Developer (H/F) – 6 mois",
+    "company": "Crystalchain",
+    "location": "Paris 8e, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=796629bc2c4b1f38",
+    "date": "2026-08-03",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 170,
+    "title": "KERING BI Developer",
+    "company": "Kering",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=ce53f5d5bc9e67dc",
+    "date": "2026-08-03",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 171,
+    "title": "Business Developer – Projets & Innovation IA - F/H - Paris",
+    "company": "PMC LINGERIE",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=f4d4fd9728c6995b",
+    "date": "2026-08-03",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 172,
+    "title": "Business Developer Junior H/F",
+    "company": "Wedocom",
+    "location": "Paris 7e, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2bb6e058c4610d3b",
+    "date": "2026-08-03",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 173,
+    "title": "Commercial / business developer",
+    "company": "BR formations",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=50a9514956e59e39",
+    "date": "2026-07-31",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 174,
+    "title": "Business Developer Data & IA H/F",
+    "company": "Jems Group",
+    "location": "Levallois-Perret, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b8dc923c18f97057",
+    "date": "2026-07-31",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 175,
+    "title": "Business Developer Senior Cloud & Solutions Souveraines F/H",
+    "company": "Outscale",
+    "location": "Saint-Cloud, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=00c9a9ead7564c5f",
+    "date": "2026-07-30",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Cloud",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 176,
+    "title": "KERING Tech Lead",
+    "company": "Kering",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=4675bdf9d37a5501",
+    "date": "2026-07-30",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 177,
+    "title": "KERING Full-Stack Developer",
+    "company": "Kering",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b45e6be37e3b2552",
+    "date": "2026-07-30",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 178,
+    "title": "KERING Integration Streaming Engineer",
+    "company": "Kering",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=fac3aa576560b529",
+    "date": "2026-07-30",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 179,
+    "title": "Business Developer H/F",
+    "company": "DCS EASYWARE",
+    "location": "Ivry-sur-Seine, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=638ccb2fa7dbd06d",
+    "date": "2026-07-29",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 180,
+    "title": "Ingénieure commerciale / Ingénieur commercial aéronautique",
+    "company": "Capgemini",
+    "location": "Issy-les-Moulineaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=c669805592f0c368",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 181,
+    "title": "Incubateur Start-up - Business Developer - Stage de 6 mois (F/H/X)",
+    "company": "Verisure",
+    "location": "Antony, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=4319e8f95efa6302",
+    "date": "2026-07-28",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 182,
+    "title": "Assistant Business developer",
+    "company": "FINANCE INNOVATION",
+    "location": "Paris 2e, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=4ae6c6063bf718ae",
+    "date": "2026-07-28",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 183,
+    "title": "Stage Commercial – Klark",
+    "company": "Klark",
+    "location": "Chessy, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=f581715287d4fc77",
+    "date": "2026-07-27",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 184,
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Salesforce",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=24978c80c994d51a",
+    "date": "2026-07-24",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 185,
+    "title": "Forward Deployed Engineer",
+    "company": "Salesforce",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2667edd3facd727e",
+    "date": "2026-07-23",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 186,
+    "title": "Sr System Program Developer II",
+    "company": "SBS",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=164008e007b4b8dd",
+    "date": "2026-07-23",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 187,
+    "title": "Senior System Program Developer I",
+    "company": "SBS",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=839ce18a1d872ea4",
+    "date": "2026-07-23",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 188,
+    "title": "Business Developer",
+    "company": "Syngenia",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4417147206",
+    "date": "2026-08-15",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 189,
+    "title": "International Business Developer (M/F/D)",
+    "company": "JobTeaser",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453068937",
+    "date": "2026-08-12",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 190,
+    "title": "International Business Developer (H/F)",
+    "company": "Mondassur",
+    "location": "Boulogne-Billancourt, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4301511944",
+    "date": "2026-08-10",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 191,
+    "title": "France Business Developer Defense",
+    "company": "Harmattan AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4392378147",
+    "date": "2026-08-09",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 192,
+    "title": "Business Manager",
+    "company": "Lùkla",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4361832897",
+    "date": "2026-08-07",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 193,
+    "title": "Business Manager (H/F)",
+    "company": "Cellenza",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4447343714",
+    "date": "2026-08-05",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 194,
+    "title": "Business Developper (H/F)",
+    "company": "JPB SYSTEME",
+    "location": "Montereau-sur-le-Jard, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4440585859",
+    "date": "2026-08-05",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 195,
+    "title": "Account Executive, Mid Market, EMEA (Spanish Speaker)",
+    "company": "Harvey",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4430575594",
+    "date": "2026-08-04",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 196,
+    "title": "Business Development Representative - Spanish Speaking",
+    "company": "Prelude",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446594037",
+    "date": "2026-07-29",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 197,
+    "title": "Business Developer - Spanish Market H/F",
+    "company": "Leonar",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445487364",
+    "date": "2026-07-28",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 198,
+    "title": "Business Developer - UK Market",
+    "company": "Leonar",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445478419",
+    "date": "2026-07-28",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 199,
+    "title": "Business Developer B2B (H/F)",
+    "company": "Langano Technologies",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443919381",
+    "date": "2026-07-27",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 200,
+    "title": "Business Developer H/F",
+    "company": "LSA Commerce & Consommation",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4441032906",
+    "date": "2026-07-22",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 201,
+    "title": "Business Developer H/F",
+    "company": "Michael Page",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443331739",
+    "date": "2026-07-21",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 202,
+    "title": "Business Development Manager",
+    "company": "Founders Consulting",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443087379",
+    "date": "2026-07-21",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 203,
+    "title": "Southern Europe Business developer M/F",
+    "company": "TRANSATEL (an NTT company)",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4452242546",
+    "date": "nan",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 204,
+    "title": "Commercial export (H/F)",
+    "company": "UPTOO",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4454273195",
+    "date": "nan",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 205,
+    "title": "Business Manager H/F",
+    "company": "KP2i",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4383711293",
+    "date": "nan",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 206,
+    "title": "CDI Business Developer (H/F) - CDI",
+    "company": "Les Bons Artisans",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4454276510",
+    "date": "nan",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 207,
+    "title": "Account Developer F/H",
+    "company": "APIXIT",
+    "location": "Illkirch-Graffenstaden, GE, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=e50d4fafa8d5a0b1",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 208,
+    "title": "Commercial / Conseiller Relation Client en alternance (BTS NDRC) – H/F",
+    "company": "SPORT 4.0",
+    "location": "Pertuis, B8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=735c37f107a060a5",
+    "date": "2026-08-14",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 209,
+    "title": "Business Developer H/F",
+    "company": "nan",
+    "location": "Toulouse, O, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=f4d338dd76528e04",
+    "date": "2026-08-13",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 210,
+    "title": "Alternant(e) Commercial(e) Sédentaire & Growth / Business Developer (H/F)",
+    "company": "MYALFRED",
+    "location": "Moirans, ARA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=11bba4ad74988589",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 211,
+    "title": "SDR / Business Developer B2B – Prospection, IA et télévente H/F",
+    "company": "DataIPA",
+    "location": "Lyon, ARA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=c2cc6a0983ed93ba",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 212,
+    "title": "Assistant Développement Commercial H/F",
+    "company": "Olga",
+    "location": "Noyal-sur-Vilaine, A2, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=cef3d2ca162a2ca9",
+    "date": "2026-08-03",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 213,
+    "title": "Casino Business Development Expert F/M",
+    "company": "Betclic Group",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "url": "https://www.linkedin.com/jobs/view/4295912106",
+    "date": "2026-08-16",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 214,
+    "title": "Business Developer IT F/H",
+    "company": "AIS",
+    "location": "Toulouse, Occitanie, France",
+    "url": "https://www.linkedin.com/jobs/view/4454397824",
+    "date": "2026-08-14",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 215,
+    "title": "BUSINESS DEVELOPER FLEX H/F",
+    "company": "CNP Assurances Protection Sociale",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448874226",
+    "date": "2026-08-04",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 216,
+    "title": "BUSINESS DEVELOPER EUROPE (H/F)",
+    "company": "FLYING WHALES",
+    "location": "Suresnes, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448863797",
+    "date": "2026-08-04",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 217,
+    "title": "Ingénieur d'affaires H/F",
+    "company": "ACENSI",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4424405502",
+    "date": "2026-07-31",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 218,
+    "title": "Business Development Manager",
+    "company": "Asenium Consulting",
+    "location": "Toulouse, Occitanie, France",
+    "url": "https://www.linkedin.com/jobs/view/4447270931",
+    "date": "2026-07-31",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 219,
+    "title": "Business Developper Manager IA F/H",
+    "company": "Bechtle",
+    "location": "Illkirch-Graffenstaden, Grand Est, France",
+    "url": "https://www.linkedin.com/jobs/view/4443603453",
+    "date": "2026-07-28",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 220,
+    "title": "CDI - Business Developer",
+    "company": "HeadMind Partners",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4406491100",
+    "date": "2026-07-27",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 221,
+    "title": "Chargé de développement commercial spécialisé Immobilier H/F",
+    "company": "VERLINGUE",
+    "location": "Neuilly-sur-Seine, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444951292",
+    "date": "2026-07-24",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 222,
+    "title": "Business Developer (H/F) | Hauts-de-Seine (92)",
+    "company": "MAVEN Recrutement",
+    "location": "Nanterre, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4442221016",
+    "date": "2026-07-20",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 223,
+    "title": "Commercial/Commerciale",
+    "company": "ACCILE",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4455261520",
+    "date": "nan",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 224,
+    "title": "Business Developer / Commercial.e Hôtels (m/f/d)",
+    "company": "Voyage Privé",
+    "location": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4455253867",
+    "date": "nan",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 225,
+    "title": "Go-to-market Enablement Intern",
+    "company": "MAPAL GROUP",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=de45db768130f4e0",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 226,
+    "title": "Product Learning Specialist",
+    "company": "D-EDGE",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=4535c01642496e26",
+    "date": "2026-08-11",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 227,
+    "title": "Renewal Specialist",
+    "company": "NetApp",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=a318e8bad9d693ac",
+    "date": "2026-08-08",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 228,
+    "title": "Freelance Revenue Operations Specialist M/F/Mx",
+    "company": "Trustpair",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=66ba16f8ff7d3117",
+    "date": "2026-08-07",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 229,
+    "title": "Associate Director - Workflow Specialist - Compliance & 3rd Party Risk",
+    "company": "Moody's",
+    "location": "Puteaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=1bd7e74dac544eac",
+    "date": "2026-08-06",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 230,
+    "title": "Sales & Commercial Intern",
+    "company": "Quadpack",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=9b86c842299c3a7a",
+    "date": "2026-08-06",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 231,
+    "title": "Head of Sales IA et Infrastructures Cloud H/F",
+    "company": "Eviden",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=48978f13c8606c22",
+    "date": "2026-08-05",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 232,
+    "title": "Senior Lead Consultant (H/F)",
+    "company": "ADP",
+    "location": "Nanterre, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=905227fcd1c7ec5e",
+    "date": "2026-08-03",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 233,
+    "title": "Manager, Technical Builders",
+    "company": "Salesforce",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=7402bbef78273e5a",
+    "date": "2026-08-03",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 234,
+    "title": "Manager, Strategic Builders",
+    "company": "Salesforce",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=9e53a8bd41741807",
+    "date": "2026-08-03",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 235,
+    "title": "Solutions Architect, Graduate Program",
+    "company": "NVIDIA",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=71e578f2bac649ad",
+    "date": "2026-08-02",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 236,
+    "title": "Customer Intelligence Specialist",
+    "company": "Hager",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=81512f2d2aad9712",
+    "date": "2026-08-01",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 237,
+    "title": "ACCOUNT MANAGER SPECIALIST H/F",
+    "company": "SCC FRANCE",
+    "location": "Nanterre, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=5e5c6f6ae01dcf47",
+    "date": "2026-07-30",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 238,
+    "title": "Digital Marketing Specialist - HVAC Solutions Europe (m/f/d)",
+    "company": "LG Chem",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=045832d8662f0f76",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 239,
+    "title": "Digital Marketing Specialist - HVAC Solutions Europe (m/f/d)",
+    "company": "LG Electronics",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=60156556e49650ad",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 240,
+    "title": "GenAI Sales Specialist, AWS Specialists Team",
+    "company": "Amazon Web Services",
+    "location": "Courbevoie, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=3f316806a112dd47",
+    "date": "2026-07-29",
+    "tags": [
+      "Generative AI",
+      "Cloud",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 241,
+    "title": "CDD - Consultant « Data/IA » F/H",
+    "company": "MasOrange",
+    "location": "Châtillon, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=4003d0c3d83d5cb0",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 242,
+    "title": "Data Centre Technology Sales Specialist",
     "company": "NTT DATA, Inc.",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/data-ai-technology-sales-specialist-at-ntt-data-inc-4426777859",
-    "date": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/4422711369",
+    "date": "2026-08-14",
     "tags": [
       "AI / IA",
       "Data",
@@ -121,19 +3043,1688 @@
     "status": "À postuler"
   },
   {
-    "id": 10,
-    "title": "Account Executive - France",
+    "id": 243,
+    "title": "Solutions Engineer",
+    "company": "Treasure AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4450880005",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 244,
+    "title": "Business Manager — AI & Data — Full-Cycle",
+    "company": "MP DATA",
+    "location": "Boulogne-Billancourt, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453229162",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 245,
+    "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
+    "company": "Scaleway",
+    "location": "Saint-Ouen-l’Aumône, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4420712148",
+    "date": "2026-08-08",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 246,
+    "title": "Enterprise Sales Engineer - Paris",
+    "company": "Datadog",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4378849670",
+    "date": "2026-08-06",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 247,
+    "title": "Account Manager Data & IA(H/F/NB)",
+    "company": "Keyrus",
+    "location": "Levallois-Perret, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4433023063",
+    "date": "2026-07-30",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 248,
+    "title": "HRIS & AI Tech Pre-Sales Specialist",
+    "company": "Arago",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443931983",
+    "date": "2026-07-22",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 249,
+    "title": "Digital Sales Consultant",
+    "company": "SICK Sensor Intelligence",
+    "location": "Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443932984",
+    "date": "2026-07-22",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 250,
+    "title": "Applied AI - Commercial Excellence",
+    "company": "耐克森中国",
+    "location": "Puteaux, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443591672",
+    "date": "2026-07-22",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 251,
+    "title": "Sales Specialist Solutions - Data Center & Hybrid H/F",
+    "company": "Computacenter",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4442723540",
+    "date": "2026-07-20",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 252,
+    "title": "Head of Sales IA et Infrastructures Cloud H/F",
+    "company": "Atos",
+    "location": "Bordeaux, NA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=34b45168452f0914",
+    "date": "2026-08-05",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 253,
+    "title": "Account Manager Specialist AI Infrastructure (H/F)",
+    "company": "SCC France",
+    "location": "Nanterre, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446727850",
+    "date": "2026-07-30",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 254,
+    "title": "Sales Enablement & Data Specialist",
+    "company": "Silk",
+    "location": "Sales, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4446107229",
+    "date": "2026-07-27",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 255,
+    "title": "Forward Deployed Engineer",
+    "company": "Anthropic",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=7ef33790dcf84579",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 256,
+    "title": "Ingénieur commercial(e) vente indirecte IT",
+    "company": "NOWBrains",
+    "location": "Paris 9e, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=a92058b310701cbd",
+    "date": "2026-08-17",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 257,
+    "title": "Ingénieur commercial - Sécurité électronique (H/F)",
+    "company": "DFM",
+    "location": "Créteil, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=602db6e428a5a3a6",
+    "date": "2026-08-14",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 258,
+    "title": "Chargé de compte clients (H/F)",
+    "company": "DFM",
+    "location": "Créteil, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=0f94a9ce68cffe79",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 259,
+    "title": "Program Manager IS IT H/F",
+    "company": "Thales",
+    "location": "Élancourt, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=5ec1f8502fc3f07d",
+    "date": "2026-08-13",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 260,
+    "title": "Consultant Senior en Financement de l'Innovation - Spé IT/Data - H/F",
+    "company": "Visiativ",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b7b38e76372f163a",
+    "date": "2026-08-12",
+    "tags": [
+      "Senior / Lead",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 261,
+    "title": "Associé CTO Développeur et architecte produit/deeptech EXPERIMENTE, IA appliquée, Image, souveraineté, défense informationnelle, communication stratégique",
+    "company": "MUSEIA",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=e766879a67167299",
+    "date": "2026-08-06",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 262,
+    "title": "Gestionnaire de formation F/H",
+    "company": "Ionis Education Group",
+    "location": "Ivry-sur-Seine, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=a19c738e24584ad9",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 263,
+    "title": "Lead Tech Data IA - F/H",
+    "company": "niji",
+    "location": "Issy-les-Moulineaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=efd09452f321d42e",
+    "date": "2026-08-03",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 264,
+    "title": "Responsable Développement Commercial F/H",
+    "company": "EPITA",
+    "location": "Puteaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=95dec4080eaa1dfd",
+    "date": "2026-08-03",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 265,
+    "title": "Responsable Développement Commercial F/H",
+    "company": "Ionis Education Group",
+    "location": "Puteaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=79dd4a60b51e694e",
+    "date": "2026-08-03",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 266,
+    "title": "Spécialiste des ventes – Solutions de conception – France & Espagne (H/F/*)",
+    "company": "3M",
+    "location": "Cergy-Pontoise, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=26561e7af283036d",
+    "date": "2026-07-31",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 267,
+    "title": "Consultant Junior en Systèmes d’Information, IA et transformation numérique territoriale H/F",
+    "company": "TACTIS",
+    "location": "Vincennes, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=1e71999f6073995f",
+    "date": "2026-07-30",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 268,
+    "title": "Ingénieur/Ingénieure d'Affaires IT H/F",
+    "company": "SPIE",
+    "location": "Malakoff, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=665b1815696e7647",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 269,
+    "title": "Responsable d'Offres & Développement Commercial IA",
+    "company": "Capgemini",
+    "location": "Issy-les-Moulineaux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=6e1bf221f4bb6751",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 270,
+    "title": "Ingénieur Commercial Impression (H/F)",
+    "company": "DFM",
+    "location": "Créteil, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=97fe914416f3d7be",
+    "date": "2026-07-29",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 271,
+    "title": "STAGIAIRE Ingénieur - Exploration et prototypage technos IA émergente",
+    "company": "ENGIE",
+    "location": "Stains, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=03807af43aa540e4",
+    "date": "2026-07-28",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 272,
+    "title": "Ingénieur électronique et informatique industrielle",
+    "company": "CRMA Aero Repair",
+    "location": "Élancourt, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=dbeeae426192645c",
+    "date": "2026-07-27",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 273,
+    "title": "Consultant(e) Product Owner - Transport H/F",
+    "company": "MC2I",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=7d32ade9d3bd8c0b",
+    "date": "2026-07-27",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 274,
+    "title": "Consultant Conversion Rate Optimization H/F",
+    "company": "SYD GROUPE",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=db8e674332f1b8a0",
+    "date": "2026-07-24",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 275,
+    "title": "Solution Engineer - France",
     "company": "Neural Concept",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-france-at-neural-concept-4385457517",
-    "date": "4 days ago",
+    "url": "https://www.linkedin.com/jobs/view/4441517706",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 276,
+    "title": "Machine Learning Engineer",
+    "company": "WHIZE",
+    "location": "Neuilly-sur-Seine, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4453587455",
+    "date": "2026-08-14",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 277,
+    "title": "AI Engineer Expert",
+    "company": "AXA Group Operations",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444453470",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 278,
+    "title": "Applied AI - Commercial Excellence",
+    "company": "Nexans",
+    "location": "Puteaux, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443728236",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 279,
+    "title": "AI Solutions engineer",
+    "company": "Novaspace",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451834015",
+    "date": "2026-08-10",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 280,
+    "title": "AI Engineer",
+    "company": "Mayday",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4451157437",
+    "date": "2026-08-10",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 281,
+    "title": "AI Product Engineer",
+    "company": "Evaneos",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4426236433",
+    "date": "2026-08-07",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 282,
+    "title": "AI Business Strategy Manager",
+    "company": "Nexans",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448415361",
+    "date": "2026-08-06",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 283,
+    "title": "Ingénieur IA - H/F",
+    "company": "ATEXIS",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4450205713",
+    "date": "2026-08-06",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 284,
+    "title": "Forward Deployed Engineer",
+    "company": "Beamy",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448305389",
+    "date": "2026-08-03",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 285,
+    "title": "KERING AI Engineer",
+    "company": "Kering",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4447548330",
+    "date": "2026-07-31",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 286,
+    "title": "Forward Deployed Engineer",
+    "company": "H Company",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4407761868",
+    "date": "2026-07-29",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 287,
+    "title": "AI & Digital Innovation Specialist",
+    "company": "HADDAD BRANDS EUROPE",
+    "location": "St.-Denis, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445752649",
+    "date": "2026-07-28",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 288,
+    "title": "AI Engineer",
+    "company": "Pixid",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444316506",
+    "date": "2026-07-24",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 289,
+    "title": "Artificial Intelligence Engineer",
+    "company": "Pixid",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4444921884",
+    "date": "2026-07-24",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 290,
+    "title": "AI Engineer",
+    "company": "Galadrim",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4454254272",
+    "date": "2026-07-23",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 291,
+    "title": "Applied AI Engineer",
+    "company": "Beamy",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4442719887",
+    "date": "2026-07-20",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 292,
+    "title": "Applied AI Engineer",
+    "company": "Sia",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4442594238",
+    "date": "2026-07-20",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 293,
+    "title": "CDI - IA Solution Engineer (H/F)",
+    "company": "Hermès",
+    "location": "Pantin, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4407698236",
+    "date": "nan",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 294,
+    "title": "Ingénieur solutions/Ingénieure solutions",
+    "company": "M ALMATECH",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4455281036",
+    "date": "nan",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 295,
+    "title": "MANAGER R&D et INNOVATION H/F",
+    "company": "L'industrie recrute",
+    "location": "Veurey-Voroize, ARA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=0ed3f1661ea9a37c",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 296,
+    "title": "Responsable process F/H",
+    "company": "KERMENÉ",
+    "location": "Trélivan, A2, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=67f5a98b85795fad",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 297,
+    "title": "PMO Infrastructure & Réseaux H/F",
+    "company": "SYD GROUPE",
+    "location": "Caen, N, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=48a980233e3f3d25",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 298,
+    "title": "Chef de Projet Technique Infrastructure & Réseaux H/F",
+    "company": "SYD GROUPE",
+    "location": "Caen, N, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=a599e7cd6dcf129c",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 299,
+    "title": "Manager Régional – Conseil en Performance des Entreprises F/H",
+    "company": "Visiativ",
+    "location": "Lyon, ARA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=bfd81cbf22d875d6",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 300,
+    "title": "Administrateur Systèmes Linux Confirmé / Expert Linux Workplace H/F",
+    "company": "SYD GROUPE",
+    "location": "Nantes, B5, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=54824b3f49496afd",
+    "date": "2026-08-13",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 301,
+    "title": "Alternant Cybersécurité IA générative H/F à Lille",
+    "company": "iQanto",
+    "location": "Villeneuve-d'Ascq, HDF, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=be0eec8c8c403f2e",
+    "date": "2026-08-13",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 302,
+    "title": "Responsable R&D Cosmétique H/F",
+    "company": "EA PHARMA",
+    "location": "Mougins, B8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b6891f1a7db91a9e",
+    "date": "2026-08-12",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 303,
+    "title": "Ingénieur commercial en Sécurité électronique (H/F)",
+    "company": "DFM",
+    "location": "Saint-Priest, ARA, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=77e2bb95aca047b5",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 304,
+    "title": "Ingénieur(e) IA Appliquée & Enablement (H/F)",
+    "company": "DENTALSOFT",
+    "location": "Dijon, BFC, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=678166728fa60eb3",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 305,
+    "title": "Ingénieur commercial (IT-Télécom-Impression) (H/F) - Lille",
+    "company": "DFM",
+    "location": "Villeneuve-d'Ascq, HDF, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8866abadcdae69f7",
+    "date": "2026-08-10",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 306,
+    "title": "Responsable planification semences commerciales France FR/ENG (H/F) - CDI",
+    "company": "Syngenta",
+    "location": "Saint-Sauveur, O, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=c171b4353b97e0e8",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 307,
+    "title": "Product builder IA",
+    "company": "DIGITALISIM",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4452737870",
+    "date": "2026-08-12",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 308,
+    "title": "CONSULTANT IA & PORTEUR D’OFFRE (H/F)",
+    "company": "Next Décision",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4452110464",
+    "date": "2026-08-11",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 309,
+    "title": "Ingénieur(e) IA générative",
+    "company": "Innova Solutions",
+    "location": "Valbonne, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://www.linkedin.com/jobs/view/4448434538",
+    "date": "2026-08-06",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 310,
+    "title": "Ingénieur IA",
+    "company": "CEVA SANTE ANIMALE",
+    "location": "Libourne, Nouvelle-Aquitaine, France",
+    "url": "https://www.linkedin.com/jobs/view/4448948047",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 311,
+    "title": "AI Consultant H/F/NB",
+    "company": "Keyrus",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "url": "https://www.linkedin.com/jobs/view/4439986587",
+    "date": "2026-08-05",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 312,
+    "title": "Ingénieur IA F/H",
+    "company": "GROUPE PIERREVAL",
+    "location": "Plérin, Brittany, France",
+    "url": "https://www.linkedin.com/jobs/view/4446641963",
+    "date": "2026-08-04",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 313,
+    "title": "Strategic Partnership Manager",
+    "company": "BCIHC Inc.",
+    "location": "Le Tech, Occitanie, France",
+    "url": "https://www.linkedin.com/jobs/view/4448811681",
+    "date": "2026-08-04",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 314,
+    "title": "AI Engineer (H/F/NB)",
+    "company": "Keyrus",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "url": "https://www.linkedin.com/jobs/view/4437560092",
+    "date": "2026-07-31",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 315,
+    "title": "Forward Deployed Engineer",
+    "company": "Kleio",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445333545",
+    "date": "2026-07-25",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 316,
+    "title": "Ingénieur IA (H/F)",
+    "company": "ASI ®",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "url": "https://www.linkedin.com/jobs/view/4440191242",
+    "date": "2026-07-21",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 317,
+    "title": "Customer Marketing Manager",
+    "company": "Pigment",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=2f0e2112654e8b62",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 318,
+    "title": "Sales Regional Manager",
+    "company": "ASSA ABLOY Group",
+    "location": "Suresnes, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8d9fdb5abb492856",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 319,
+    "title": "IT Support Analyst",
+    "company": "Trainline",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=fe5a876ce671a60d",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 320,
+    "title": "Staff Corporate Application Engineer H/F",
+    "company": "ARTERIS",
+    "location": "Montigny-le-Bretonneux, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8b54870c331628ba",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 321,
+    "title": "Business Developer - French fluent",
+    "company": "Paradox",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=9c3c8b4c3b8779e9",
+    "date": "2026-08-17",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 322,
+    "title": "Legal Intern",
+    "company": "PHOTOROOM",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=230ca1d13ec5763a",
+    "date": "2026-08-11",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 323,
+    "title": "Data Strategy Director - CDI - F/H",
+    "company": "WPP Media",
+    "location": "Levallois-Perret, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=340c6fa75e7049b8",
+    "date": "2026-08-11",
+    "tags": [
+      "Senior / Lead",
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 324,
+    "title": "Associate Director Analytics - CDI - F/H",
+    "company": "WPP Media",
+    "location": "Levallois-Perret, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=9a149d12cadbe9ac",
+    "date": "2026-08-11",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 325,
+    "title": "GTM Data & Automation Intern",
+    "company": "Greenly",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=23abe3121af7fef3",
+    "date": "2026-08-10",
+    "tags": [
+      "Data",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 326,
+    "title": "Team Lead Customer Onboarding",
+    "company": "tellent",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=c62a6cf7fc5a22e4",
+    "date": "2026-08-10",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 327,
+    "title": "Product Strategist (ex-Product Designer)",
+    "company": "SKELLO",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=28656adac9a2f061",
+    "date": "2026-08-10",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 328,
+    "title": "Field Marketing Manager - France",
+    "company": "Verkada",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=469ce1be11925bee",
+    "date": "2026-08-10",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 329,
+    "title": "Human Design Program Lead (f/m/d)",
+    "company": "Kraken",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=3d1329b444eb879f",
+    "date": "2026-08-09",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 330,
+    "title": "AI & Ops Automation",
+    "company": "Pennylane",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4407458746",
+    "date": "2026-08-15",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 331,
+    "title": "AI Strategist, Generative AI Innovation Center",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Courbevoie, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4443050030",
+    "date": "2026-08-11",
+    "tags": [
+      "Generative AI",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 332,
+    "title": "Solution Architect AI",
+    "company": "GALILEO RH",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4448556108",
+    "date": "2026-08-04",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 333,
+    "title": "Technical Pre-Sales (Europe) H/F",
+    "company": "Pasqal",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4420988476",
+    "date": "2026-08-02",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 334,
+    "title": "Technology Enablement Manager",
+    "company": "Supermicro",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4430136090",
+    "date": "2026-07-30",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 335,
+    "title": "Forward Deployed Engineer",
+    "company": "Albatross",
+    "location": "FR",
+    "url": "https://fr.indeed.com/viewjob?jk=80d85bdd8460095b",
+    "date": "2026-08-17",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 336,
+    "title": "Key Account Manager (H/F) Client unique - Thizay (36)",
+    "company": "Gojob",
+    "location": "Thizay, CVL, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=e63f357cd5a1a93c",
+    "date": "2026-08-13",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 337,
+    "title": "Senior Fullstack Engineer - Core Branding Team",
+    "company": "Teads",
+    "location": "Montpellier, O, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=b70ae2621509e304",
+    "date": "2026-08-11",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 338,
+    "title": "Founding Forward Deployed Engineer France (up to 100k€ OTE + Equity)",
+    "company": "Bonx",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445341299",
+    "date": "2026-08-16",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 339,
+    "title": "AI Agent Orchestration Specialist",
+    "company": "Edflex",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4452416595",
+    "date": "2026-08-11",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 340,
+    "title": "Sales Director - AI Business Process (CRM)",
+    "company": "Microsoft",
+    "location": "Issy-les-Moulineaux, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4434481341",
+    "date": "2026-08-10",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 341,
+    "title": "Forward Deployed Engineer",
+    "company": "Lithosquare",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4417098641",
+    "date": "2026-08-08",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 342,
+    "title": "Applied AI Architect, Digital Natives",
+    "company": "OpenAI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4424349901",
+    "date": "2026-08-07",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 343,
+    "title": "Manager, Solutions Consultants, France",
+    "company": "Notion",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4449917031",
+    "date": "2026-08-05",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 344,
+    "title": "Senior Sales Engineer - Strategic AI",
+    "company": "DDN",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4449012501",
+    "date": "2026-08-04",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 345,
+    "title": "AI Automation Engineer",
+    "company": "C12",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4455535327",
+    "date": "nan",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 346,
+    "title": "Senior Software Engineer (Backend)",
+    "company": "GitGuardian",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=ac56128b1315d25e",
+    "date": "2026-08-06",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 347,
+    "title": "Enterprise Account Executive",
+    "company": "Illumio",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=d1ae8bd93e9c743b",
+    "date": "2026-08-05",
     "tags": [
       "Account Executive"
     ],
     "status": "À postuler"
   },
   {
-    "id": 11,
+    "id": 348,
+    "title": "Senior Sales Engineer",
+    "company": "DDN",
+    "location": "Meudon, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=61f7ee8e0526696b",
+    "date": "2026-08-04",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 349,
+    "title": "Director, Professional Services",
+    "company": "CliniSys",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=59aee1a24f72ca4a",
+    "date": "2026-08-04",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 350,
+    "title": "Product Marketing Manager, Science",
+    "company": "Mistral AI",
+    "location": "Paris, A8, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=ce23bc848cb9f718",
+    "date": "2026-08-03",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 351,
+    "title": "Territory Account Executive",
+    "company": "Cloudflare",
+    "location": "Île-de-France / France",
+    "url": "https://www.linkedin.com/jobs/view/4119908599",
+    "date": "2026-08-05",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 352,
+    "title": "Enterprise Account Executive, Growth",
+    "company": "MongoDB",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4302023702",
+    "date": "2026-08-04",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 353,
+    "title": "Senior Sales Executive",
+    "company": "Diabolocom",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4265408704",
+    "date": "2026-08-04",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 354,
+    "title": "Enterprise Account Executive",
+    "company": "Keepit",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4431761771",
+    "date": "2026-08-04",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 355,
+    "title": "Enterprise Account Executive",
+    "company": "MongoDB",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4342228878",
+    "date": "2026-07-29",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 356,
+    "title": "Director, SaaS Migration Program Execution",
+    "company": "Wolters Kluwer",
+    "location": "Rue, HDF, FR",
+    "url": "https://fr.indeed.com/viewjob?jk=8b04e681cfddf497",
+    "date": "2026-08-07",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 357,
+    "title": "Account Executive",
+    "company": "Oodrive",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4437457937",
+    "date": "2026-08-14",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 358,
+    "title": "Account Executive, Enterprise (Paris, France)",
+    "company": "Figma",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4137437500",
+    "date": "2026-08-06",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 359,
+    "title": "Enterprise Sales Executive",
+    "company": "Riverbed Technology",
+    "location": "Puteaux, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4402978288",
+    "date": "2026-08-02",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 360,
+    "title": "Mid Market Account Executive - English Speaking",
+    "company": "Prelude",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4446581631",
+    "date": "2026-07-29",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 361,
+    "title": "Customer Engineer, Google Distributed Cloud, EMEA",
+    "company": "Google",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://www.linkedin.com/jobs/view/4445744699",
+    "date": "2026-07-28",
+    "tags": [
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 362,
+    "title": "Senior AI Account Executive – Nordics & UK (M/F)",
+    "company": "MyTraffic",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-nordics-uk-m-f-at-mytraffic-4426379136",
+    "date": "2 months ago",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 363,
+    "title": "Business Development Rep (AI Cloud)",
+    "company": "Featherless AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/business-development-rep-ai-cloud-at-featherless-ai-4415386101",
+    "date": "3 months ago",
+    "tags": [
+      "AI / IA",
+      "Cloud",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 364,
+    "title": "Sales Executive",
+    "company": "Galadrim",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/sales-executive-at-galadrim-4440677016",
+    "date": "1 month ago",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 365,
+    "title": "Account Executive [Opening soon]",
+    "company": "Botify",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-opening-soon-at-botify-4415215809",
+    "date": "2 months ago",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 366,
+    "title": "Inside Sales Specialist - Paris",
+    "company": "Ajax Systems",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/inside-sales-specialist-paris-at-ajax-systems-4427991975",
+    "date": "2 months ago",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 367,
+    "title": "Sales Specialist, Cash Management",
+    "company": "Sage",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-cash-management-at-sage-4433352641",
+    "date": "1 week ago",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 368,
+    "title": "Sales Specialist LowCode/NoCode F/H",
+    "company": "Atos",
+    "location": "Bezons, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-lowcode-nocode-f-h-at-atos-4397029922",
+    "date": "1 week ago",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 369,
+    "title": "Cyber Sales Specialist",
+    "company": "Cyberr",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/cyber-sales-specialist-at-cyberr-4447118863",
+    "date": "2 weeks ago",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 370,
+    "title": "Area Sales Specialist",
+    "company": "Waters Corporation",
+    "location": "Guyancourt, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/area-sales-specialist-at-waters-corporation-4429565432",
+    "date": "1 month ago",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 371,
+    "title": "Spécialiste Sales (H/F)",
+    "company": "Pagestreet",
+    "location": "Valbonne, Provence-Alpes-Côte d'Azur, France",
+    "url": "https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-sales-h-f-at-pagestreet-4400831539",
+    "date": "4 months ago",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 372,
+    "title": "Sales Representative - US",
+    "company": "SLY",
+    "location": "Sales, Auvergne-Rhône-Alpes, France",
+    "url": "https://fr.linkedin.com/jobs/view/sales-representative-us-at-sly-4438450178",
+    "date": "1 month ago",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 373,
+    "title": "> Sales Specialist – GMP Services",
+    "company": "Cleanroom Technology Austria",
+    "location": "Sales, Auvergne-Rhône-Alpes, France",
+    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-%E2%80%93-gmp-services-at-cleanroom-technology-austria-4450910731",
+    "date": "1 week ago",
+    "tags": [
+      "AI / IA",
+      "Sales Specialist"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 374,
+    "title": "Senior Sales Manager - SaaS / AI / Video",
+    "company": "Aive",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/senior-sales-manager-saas-ai-video-at-aive-4438927169",
+    "date": "1 month ago",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 375,
     "title": "Senior Account Executive | Enterprise & AI Solutions (F/H)",
     "company": "ILLUIN Technology",
     "location": "Paris, Île-de-France, France",
@@ -147,72 +4738,24 @@
     "status": "À postuler"
   },
   {
-    "id": 12,
-    "title": "Account Manager Specialist AI Solutions (H/F)",
-    "company": "SCC France",
-    "location": "Nanterre, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-manager-specialist-ai-solutions-h-f-at-scc-france-4446728676",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 13,
-    "title": "Account Executive [Opening soon]",
-    "company": "Botify",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-opening-soon-at-botify-4415215809",
-    "date": "2 months ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 14,
-    "title": "Enterprise Account Executive - France",
-    "company": "Arango",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/enterprise-account-executive-france-at-arango-4419475881",
-    "date": "2 months ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 15,
-    "title": "Account Executive, SEMEA",
-    "company": "Botify",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-semea-at-botify-4418754763",
-    "date": "2 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 16,
-    "title": "Business Development Representative (EMEA)",
-    "company": "Qdrant",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-development-representative-emea-at-qdrant-4448483858",
+    "id": 376,
+    "title": "Regional GTM Director, France",
+    "company": "Higgsfield AI",
+    "location": "France",
+    "url": "https://fr.linkedin.com/jobs/view/regional-gtm-director-france-at-higgsfield-ai-4450667937",
     "date": "1 week ago",
     "tags": [
+      "Senior / Lead",
       "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
-    "id": 17,
-    "title": "Founding Account Executive - DACH",
-    "company": "DeepIP",
+    "id": 377,
+    "title": "Account Executive, Enterprise",
+    "company": "Mistral",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/founding-account-executive-dach-at-deepip-4435975133",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-mistral-4439512156",
     "date": "1 month ago",
     "tags": [
       "Account Executive"
@@ -220,35 +4763,19 @@
     "status": "À postuler"
   },
   {
-    "id": 18,
-    "title": "Senior Client Growth Partner – AI Transformation",
-    "company": "Nagarro",
+    "id": 378,
+    "title": "Account Executive Enterprise, FSI",
+    "company": "Mistral",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-client-growth-partner-%E2%80%93-ai-transformation-at-nagarro-4451015510",
-    "date": "1 week ago",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-fsi-at-mistral-4441986767",
+    "date": "1 month ago",
     "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
+      "Account Executive"
     ],
     "status": "À postuler"
   },
   {
-    "id": 19,
-    "title": "Lakebase Sales Associate Director",
-    "company": "Databricks",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/lakebase-sales-associate-director-at-databricks-4419283665",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 20,
+    "id": 379,
     "title": "Account Executive Mid-Market / Enterprise",
     "company": "Doctrine",
     "location": "Paris, Île-de-France, France",
@@ -260,35 +4787,268 @@
     "status": "À postuler"
   },
   {
-    "id": 21,
-    "title": "100k+ OTE Account Executive in B2B SaaS",
-    "company": "DialedIn Recruiting",
-    "location": "Greater Paris Metropolitan Region",
-    "url": "https://fr.linkedin.com/jobs/view/100k%2B-ote-account-executive-in-b2b-saas-at-dialedin-recruiting-4452264445",
-    "date": "16 hours ago",
+    "id": 380,
+    "title": "Account Executive IA / Commercial(e) H/F - Typix H/F",
+    "company": "PIXALIONE | SEO, PAID, IA, DATA & CRO",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-ia-commercial-e-h-f-typix-h-f-at-pixalione-seo-paid-ia-data-cro-4444422011",
+    "date": "3 weeks ago",
+    "tags": [
+      "AI / IA",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 381,
+    "title": "Senior AI Account Executive – France (M/F)",
+    "company": "MyTraffic",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-france-m-f-at-mytraffic-4426384100",
+    "date": "2 months ago",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 382,
+    "title": "Account Executive EMEA",
+    "company": "DataDome",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-emea-at-datadome-4443176723",
+    "date": "3 weeks ago",
     "tags": [
       "Account Executive"
     ],
     "status": "À postuler"
   },
   {
-    "id": 22,
-    "title": "Account Executive",
-    "company": "Parallel",
+    "id": 383,
+    "title": "Senior Account Executive - Data Foundation (MuleSoft + Informatica)",
+    "company": "Salesforce",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-parallel-4434251234",
+    "url": "https://fr.linkedin.com/jobs/view/senior-account-executive-data-foundation-mulesoft-%2B-informatica-at-salesforce-4436771884",
+    "date": "1 day ago",
+    "tags": [
+      "Senior / Lead",
+      "Data",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 384,
+    "title": "Enterprise Account Executive - France",
+    "company": "Arango",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/enterprise-account-executive-france-at-arango-4419475881",
+    "date": "2 months ago",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 385,
+    "title": "Account Executive",
+    "company": "Massive",
+    "location": "France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-massive-4449573456",
+    "date": "1 week ago",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 386,
+    "title": "Enterprise Acount Executive",
+    "company": "Anaplan",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/enterprise-acount-executive-at-anaplan-4440973625",
+    "date": "1 week ago",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 387,
+    "title": "Account Excecutive F/H",
+    "company": "Datacend",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-excecutive-f-h-at-datacend-4422411211",
+    "date": "2 months ago",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 388,
+    "title": "Account Executive Confirmé - Data & IA (CDI) - Paris / Remote",
+    "company": "JobEgo",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-confirm%C3%A9-data-ia-cdi-paris-remote-at-jobego-4449102747",
+    "date": "1 week ago",
+    "tags": [
+      "AI / IA",
+      "Data",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 389,
+    "title": "Account Executive Senior Saas H/F",
+    "company": "SP SEARCH",
+    "location": "Guyancourt, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-senior-saas-h-f-at-sp-search-4454358843",
+    "date": "3 days ago",
+    "tags": [
+      "Senior / Lead",
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 390,
+    "title": "BUSINESS DEVELOPER INDIA",
+    "company": "FLYING WHALES",
+    "location": "Suresnes, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/business-developer-india-at-flying-whales-4422687756",
+    "date": "2 weeks ago",
+    "tags": [
+      "AI / IA",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 391,
+    "title": "Business Developer (H/F)",
+    "company": "CesGensLaB",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/business-developer-h-f-at-cesgenslab-4451296659",
+    "date": "2 days ago",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 392,
+    "title": "Business Developer - Paris - CDI - Digital, Data, IA",
+    "company": "WOLD",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/business-developer-paris-cdi-digital-data-ia-at-wold-4432320794",
     "date": "1 month ago",
     "tags": [
+      "AI / IA",
+      "Data",
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 393,
+    "title": "Business developer H/F",
+    "company": "AIRRIA",
+    "location": "Meylan, Auvergne-Rhône-Alpes, France",
+    "url": "https://fr.linkedin.com/jobs/view/business-developer-h-f-at-airria-4426972453",
+    "date": "2 months ago",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 394,
+    "title": "Business Developer Grand OUEST H/F",
+    "company": "IQVIA",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "url": "https://fr.linkedin.com/jobs/view/business-developer-grand-ouest-h-f-at-iqvia-4443340931",
+    "date": "3 weeks ago",
+    "tags": [
+      "BizDev"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 395,
+    "title": "AI Engineer / Sales Engineer",
+    "company": "The QA Company",
+    "location": "St-Étienne, Auvergne-Rhône-Alpes, France",
+    "url": "https://fr.linkedin.com/jobs/view/ai-engineer-sales-engineer-at-the-qa-company-4412764273",
+    "date": "3 months ago",
+    "tags": [
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 396,
+    "title": "Senior AI Account Executive – US Retail Market (M/F)",
+    "company": "MyTraffic",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-us-retail-market-m-f-at-mytraffic-4426382097",
+    "date": "2 months ago",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
       "Account Executive"
     ],
     "status": "À postuler"
   },
   {
-    "id": 23,
-    "title": "GTM Lead",
-    "company": "Model ML",
+    "id": 397,
+    "title": "Head of AI Enablement",
+    "company": "Bigblue",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/gtm-lead-at-model-ml-4450088584",
+    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-bigblue-4429980993",
+    "date": "2 months ago",
+    "tags": [
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 398,
+    "title": "Country Manager - France Market Launcher 🇫🇷",
+    "company": "Murphy AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/country-manager-france-market-launcher-%F0%9F%87%AB%F0%9F%87%B7-at-murphy-ai-4440776948",
+    "date": "1 month ago",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 399,
+    "title": "Global Senior Director, RevOps & GTM Operations",
+    "company": "Botify",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/global-senior-director-revops-gtm-operations-at-botify-4418773590",
+    "date": "2 months ago",
+    "tags": [
+      "Senior / Lead",
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 400,
+    "title": "Global Head of Engagement",
+    "company": "Harmattan AI",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/global-head-of-engagement-at-harmattan-ai-4397379301",
     "date": "1 week ago",
     "tags": [
       "Senior / Lead",
@@ -297,56 +5057,49 @@
     "status": "À postuler"
   },
   {
-    "id": 24,
-    "title": "Account Executive",
-    "company": "Doctrine",
+    "id": 401,
+    "title": "Head of AI Ops",
+    "company": "Pelico",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-doctrine-4432965238",
-    "date": "1 month ago",
+    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-ops-at-pelico-4446573481",
+    "date": "2 weeks ago",
     "tags": [
-      "Account Executive"
+      "Senior / Lead",
+      "AI / IA",
+      "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
-    "id": 25,
-    "title": "Strategic Account Manager",
-    "company": "Cognite",
+    "id": 402,
+    "title": "Head of AI - Healthtech Scale up",
+    "company": "Lifen",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/strategic-account-manager-at-cognite-4369214679",
+    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-healthtech-scale-up-at-lifen-4455197480",
     "date": "1 day ago",
     "tags": [
+      "Senior / Lead",
+      "AI / IA",
       "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
-    "id": 26,
-    "title": "Founder Advocate, EMEA Startup, Google Cloud",
-    "company": "Google",
+    "id": 403,
+    "title": "Head of AI Enablement",
+    "company": "UpSlide",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/founder-advocate-emea-startup-google-cloud-at-google-4451402476",
+    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-upslide-4451133130",
     "date": "1 week ago",
     "tags": [
-      "Cloud",
+      "Senior / Lead",
+      "AI / IA",
       "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
-    "id": 27,
-    "title": "Account Executive",
-    "company": "Mendo",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-mendo-4325776621",
-    "date": "8 months ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 28,
+    "id": 404,
     "title": "Senior Strategic Sales Manager, Cloud & AI",
     "company": "Tencent",
     "location": "Paris, Île-de-France, France",
@@ -361,128 +5114,80 @@
     "status": "À postuler"
   },
   {
-    "id": 29,
-    "title": "Account Executive - Agentforce Service",
-    "company": "Salesforce",
+    "id": 405,
+    "title": "Founding Account Executive - DACH",
+    "company": "DeepIP",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-agentforce-service-at-salesforce-4419854722",
-    "date": "2 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 30,
-    "title": "Senior AI Sales Specialist (F/H)",
-    "company": "Atos",
-    "location": "Bezons, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-ai-sales-specialist-f-h-at-atos-4446237730",
-    "date": "2 weeks ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 31,
-    "title": "AI-Modernisation - Sales AI Lead - CDI Paris - Theodo",
-    "company": "Theodo",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-modernisation-sales-ai-lead-cdi-paris-theodo-at-theodo-4368830252",
-    "date": "3 days ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 32,
-    "title": "Founding Sales - AI for Finance",
-    "company": "Stakha",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/founding-sales-ai-for-finance-at-stakha-4444465953",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 33,
-    "title": "Senior Sales Manager - SaaS / AI / Video",
-    "company": "Aive",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-sales-manager-saas-ai-video-at-aive-4438927169",
+    "url": "https://fr.linkedin.com/jobs/view/founding-account-executive-dach-at-deepip-4435975133",
     "date": "1 month ago",
     "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 34,
-    "title": "Senior AI Account Executive – US Retail Market (M/F)",
-    "company": "MyTraffic",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-us-retail-market-m-f-at-mytraffic-4426382097",
-    "date": "2 months ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
       "Account Executive"
     ],
     "status": "À postuler"
   },
   {
-    "id": 35,
-    "title": "AI & Business Transformation Lead- EMEA",
-    "company": "Boomi",
+    "id": 406,
+    "title": "Account Executive",
+    "company": "Parallel",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-business-transformation-lead-emea-at-boomi-4449864203",
-    "date": "6 days ago",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-parallel-4434251234",
+    "date": "1 month ago",
     "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
+      "Account Executive"
     ],
     "status": "À postuler"
   },
   {
-    "id": 36,
-    "title": "Regional Client Partner, Ads Solutions",
-    "company": "OpenAI",
+    "id": 407,
+    "title": "GTM Lead",
+    "company": "Model ML",
     "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/regional-client-partner-ads-solutions-at-openai-4441109653",
+    "url": "https://fr.linkedin.com/jobs/view/gtm-lead-at-model-ml-4450088584",
     "date": "1 week ago",
     "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 37,
-    "title": "EMEA Strategic AI Ecosystem & NVIDIA Business Development Lead",
-    "company": "DDN",
-    "location": "Meudon, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/emea-strategic-ai-ecosystem-nvidia-business-development-lead-at-ddn-4451898656",
-    "date": "3 days ago",
-    "tags": [
       "Senior / Lead",
-      "AI / IA",
       "Tech Sales"
     ],
     "status": "À postuler"
   },
   {
-    "id": 38,
+    "id": 408,
+    "title": "Account Executive",
+    "company": "Doctrine",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-doctrine-4432965238",
+    "date": "1 month ago",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 409,
+    "title": "Strategic Account Manager",
+    "company": "Cognite",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/strategic-account-manager-at-cognite-4369214679",
+    "date": "1 day ago",
+    "tags": [
+      "Tech Sales"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 410,
+    "title": "Account Executive",
+    "company": "Mendo",
+    "location": "Paris, Île-de-France, France",
+    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-mendo-4325776621",
+    "date": "8 months ago",
+    "tags": [
+      "Account Executive"
+    ],
+    "status": "À postuler"
+  },
+  {
+    "id": 411,
     "title": "Senior Enterprise Account Executive - Public Sector",
     "company": "ServiceNow",
     "location": "Issy-les-Moulineaux, Île-de-France, France",
@@ -495,19 +5200,7 @@
     "status": "À postuler"
   },
   {
-    "id": 39,
-    "title": "Account Executive (founding team)",
-    "company": "Raison",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-founding-team-at-raison-4448053604",
-    "date": "1 week ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 40,
+    "id": 412,
     "title": "Account Executive - Core - Mid-market",
     "company": "Salesforce",
     "location": "Paris, Île-de-France, France",
@@ -519,60 +5212,7 @@
     "status": "À postuler"
   },
   {
-    "id": 41,
-    "title": "Executive Account Manager – IA, Copilot & Solutions Microsoft",
-    "company": "Witivio - AI Solutions for Microsoft 365",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/executive-account-manager-%E2%80%93-ia-copilot-solutions-microsoft-at-witivio-ai-solutions-for-microsoft-365-4444943352",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 42,
-    "title": "Strategic Core Account Executive",
-    "company": "Databricks",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/strategic-core-account-executive-at-databricks-4445099646",
-    "date": "2 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 43,
-    "title": "Senior Client Executive - Neo Cloud",
-    "company": "NetApp",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-client-executive-neo-cloud-at-netapp-4448470087",
-    "date": "14 hours ago",
-    "tags": [
-      "Senior / Lead",
-      "Cloud",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 44,
-    "title": "Business Manager — AI & Data — Full-Cycle",
-    "company": "MP DATA",
-    "location": "Boulogne-Billancourt, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-manager-%E2%80%94-ai-data-%E2%80%94-full-cycle-at-mp-data-4453229162",
-    "date": "4 days ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 45,
+    "id": 413,
     "title": "Startup Partnerships - France & Southern Europe",
     "company": "Anthropic",
     "location": "Paris, Île-de-France, France",
@@ -584,32 +5224,7 @@
     "status": "À postuler"
   },
   {
-    "id": 46,
-    "title": "Sr Account Executive",
-    "company": "Genesys",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sr-account-executive-at-genesys-4344394130",
-    "date": "3 days ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 47,
-    "title": "Applied AI Architect, Partnerships",
-    "company": "Anthropic",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/applied-ai-architect-partnerships-at-anthropic-4454419424",
-    "date": "9 hours ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 48,
+    "id": 414,
     "title": "Senior Key Account Manager – Robotics & Industrial AI Solutions (f/m/d)",
     "company": "MINTH GROUP",
     "location": "Paris, Île-de-France, France",
@@ -623,33 +5238,7 @@
     "status": "À postuler"
   },
   {
-    "id": 49,
-    "title": "HRIS & AI Tech Pre-Sales Specialist",
-    "company": "Arago",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/hris-ai-tech-pre-sales-specialist-at-arago-4443931983",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 50,
-    "title": "Business Developer – Projets & Innovation IA - F/H",
-    "company": "ATECNA",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-%E2%80%93-projets-innovation-ia-f-h-at-atecna-4445640067",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 51,
+    "id": 415,
     "title": "Senior Account Executive",
     "company": "RAISE Summit",
     "location": "Paris, Île-de-France, France",
@@ -662,70 +5251,7 @@
     "status": "À postuler"
   },
   {
-    "id": 52,
-    "title": "Business Development Manager - EU Market",
-    "company": "SmartDev",
-    "location": "Versailles, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-development-manager-eu-market-at-smartdev-4448838876",
-    "date": "1 week ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 53,
-    "title": "Account Executive, Enterprise",
-    "company": "Mistral",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-mistral-4439512156",
-    "date": "1 month ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 54,
-    "title": "Account Executive Enterprise, FSI",
-    "company": "Mistral",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-fsi-at-mistral-4441986767",
-    "date": "1 month ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 55,
-    "title": "Account Executive IA / Commercial(e) H/F - Typix H/F",
-    "company": "PIXALIONE | SEO, PAID, IA, DATA & CRO",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-ia-commercial-e-h-f-typix-h-f-at-pixalione-seo-paid-ia-data-cro-4444422011",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 56,
-    "title": "Senior AI Account Executive – France (M/F)",
-    "company": "MyTraffic",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-france-m-f-at-mytraffic-4426384100",
-    "date": "2 months ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 57,
+    "id": 416,
     "title": "Account Executive / Responsable commercial grands comptes - Transformation IA - F/H",
     "company": "Rocket4Sales",
     "location": "Boulogne-Billancourt, Île-de-France, France",
@@ -738,44 +5264,7 @@
     "status": "À postuler"
   },
   {
-    "id": 58,
-    "title": "ACCOUNT EXECUTIVE ENTERPRISE",
-    "company": "STATION F",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-station-f-4453758584",
-    "date": "3 days ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 59,
-    "title": "Account Executive Enterprise, GSI",
-    "company": "Headline - Asia",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-gsi-at-headline-asia-4454235591",
-    "date": "20 hours ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 60,
-    "title": "GenAI Business Development Manager — Paris - Permanent Contract (CDI)",
-    "company": "Sailglobal",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/genai-business-development-manager-%E2%80%94-paris-permanent-contract-cdi-at-sailglobal-4430410209",
-    "date": "4 days ago",
-    "tags": [
-      "Generative AI",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 61,
+    "id": 417,
     "title": "Account Executive Commercial",
     "company": "Genesys",
     "location": "Paris, Île-de-France, France",
@@ -788,19 +5277,7 @@
     "status": "À postuler"
   },
   {
-    "id": 62,
-    "title": "Account Executive",
-    "company": "Gladia",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-gladia-4444127356",
-    "date": "2 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 63,
+    "id": 418,
     "title": "ACCOUNT EXECUTIVE - ENTERPRISE",
     "company": "STATION F",
     "location": "Paris, Île-de-France, France",
@@ -812,113 +5289,7 @@
     "status": "À postuler"
   },
   {
-    "id": 64,
-    "title": "Business Development Rep (AI Cloud)",
-    "company": "Featherless AI",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-development-rep-ai-cloud-at-featherless-ai-4415386101",
-    "date": "3 months ago",
-    "tags": [
-      "AI / IA",
-      "Cloud",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 65,
-    "title": "Business Developer - Spanish Market H/F",
-    "company": "Leonar",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-spanish-market-h-f-at-leonar-4445487364",
-    "date": "2 weeks ago",
-    "tags": [
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 66,
-    "title": "Business Developer - Data, IA, Digital- Paris - CDI",
-    "company": "WOLD",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-data-ia-digital-paris-cdi-at-wold-4405992759",
-    "date": "3 months ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 67,
-    "title": "BUSINESS DEVELOPER INDIA",
-    "company": "FLYING WHALES",
-    "location": "Suresnes, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-india-at-flying-whales-4422687756",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 68,
-    "title": "Business Developer (H/F)",
-    "company": "CesGensLaB",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-h-f-at-cesgenslab-4451296659",
-    "date": "2 days ago",
-    "tags": [
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 69,
-    "title": "Business Developer - Paris - CDI - Digital, Data, IA",
-    "company": "WOLD",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-paris-cdi-digital-data-ia-at-wold-4432320794",
-    "date": "1 month ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 70,
-    "title": "Business Development Specialist",
-    "company": "Crossbeam",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-development-specialist-at-crossbeam-4443134480",
-    "date": "5 days ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 71,
-    "title": "Business Developer Data & IA H/F",
-    "company": "Jems Group",
-    "location": "Levallois-Perret, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-data-ia-h-f-at-jems-group-4447542671",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 72,
+    "id": 419,
     "title": "Sales Specialist Dématérialisation & Facture Électronique",
     "company": "Sage",
     "location": "Paris, Île-de-France, France",
@@ -931,7 +5302,7 @@
     "status": "À postuler"
   },
   {
-    "id": 73,
+    "id": 420,
     "title": "Founding SDR",
     "company": "Windmill",
     "location": "Paris, Île-de-France, France",
@@ -943,7 +5314,7 @@
     "status": "À postuler"
   },
   {
-    "id": 74,
+    "id": 421,
     "title": "Senior Security Sales Specialist (Cybersecurity) - Paris",
     "company": "Myn",
     "location": "Paris, Île-de-France, France",
@@ -957,7 +5328,7 @@
     "status": "À postuler"
   },
   {
-    "id": 75,
+    "id": 422,
     "title": "LIMS/ELN application sales specialist (Paris)",
     "company": "AgileBio",
     "location": "Paris, Île-de-France, France",
@@ -970,7 +5341,7 @@
     "status": "À postuler"
   },
   {
-    "id": 76,
+    "id": 423,
     "title": "Senior Sales Specialist",
     "company": "BASSETTI France",
     "location": "Paris, Île-de-France, France",
@@ -984,19 +5355,7 @@
     "status": "À postuler"
   },
   {
-    "id": 77,
-    "title": "CDI : Sales Developer",
-    "company": "Tandem 🚲",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/cdi-sales-developer-at-tandem-%F0%9F%9A%B2-4448519142",
-    "date": "1 week ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 78,
+    "id": 424,
     "title": "leads generation specialist",
     "company": "REECHO Solutions",
     "location": "Paris, Île-de-France, France",
@@ -1010,7 +5369,7 @@
     "status": "À postuler"
   },
   {
-    "id": 79,
+    "id": 425,
     "title": "Specialist Account Executive, ZT Branch",
     "company": "Zscaler",
     "location": "Paris, Île-de-France, France",
@@ -1023,7 +5382,7 @@
     "status": "À postuler"
   },
   {
-    "id": 80,
+    "id": 426,
     "title": "Sales Manager/Specialist",
     "company": "AUX",
     "location": "Paris, Île-de-France, France",
@@ -1036,32 +5395,7 @@
     "status": "À postuler"
   },
   {
-    "id": 81,
-    "title": "Customer Engineer, Google Distributed Cloud, EMEA",
-    "company": "Google",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/customer-engineer-google-distributed-cloud-emea-at-google-4445744699",
-    "date": "2 weeks ago",
-    "tags": [
-      "Cloud",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 82,
-    "title": "Business Developer - UK Market",
-    "company": "Leonar",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-uk-market-at-leonar-4445478419",
-    "date": "2 weeks ago",
-    "tags": [
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 83,
+    "id": 427,
     "title": "Defense Sales FR - H/F",
     "company": "Alta Ares",
     "location": "Paris, Île-de-France, France",
@@ -1073,7 +5407,7 @@
     "status": "À postuler"
   },
   {
-    "id": 84,
+    "id": 428,
     "title": "Consultant Entrepreneur",
     "company": "JAB - Sales Performance.",
     "location": "Paris, Île-de-France, France",
@@ -1085,19 +5419,7 @@
     "status": "À postuler"
   },
   {
-    "id": 85,
-    "title": "Technical Pre-Sales (Europe) H/F",
-    "company": "Pasqal",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/technical-pre-sales-europe-h-f-at-pasqal-4420988476",
-    "date": "2 weeks ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 86,
+    "id": 429,
     "title": "Sales Specialist Dynamics 365 Business Central",
     "company": "isatech",
     "location": "Paris, Île-de-France, France",
@@ -1110,7 +5432,7 @@
     "status": "À postuler"
   },
   {
-    "id": 87,
+    "id": 430,
     "title": "Sales Development Representative - Enterprise",
     "company": "Malt",
     "location": "Paris, Île-de-France, France",
@@ -1122,7 +5444,7 @@
     "status": "À postuler"
   },
   {
-    "id": 88,
+    "id": 431,
     "title": "Sales Specialist - Confirmé - Hybride - CDI",
     "company": "Kiiro",
     "location": "Paris, Île-de-France, France",
@@ -1135,19 +5457,7 @@
     "status": "À postuler"
   },
   {
-    "id": 89,
-    "title": "Business Development Representative",
-    "company": "Centric Software",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-development-representative-at-centric-software-4414680077",
-    "date": "3 weeks ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 90,
+    "id": 432,
     "title": "Sales Development Representative 🇫🇷",
     "company": "Bigblue",
     "location": "Paris, Île-de-France, France",
@@ -1159,7 +5469,7 @@
     "status": "À postuler"
   },
   {
-    "id": 91,
+    "id": 433,
     "title": "Sales Specialist",
     "company": "OVHcloud",
     "location": "Paris, Île-de-France, France",
@@ -1172,35 +5482,7 @@
     "status": "À postuler"
   },
   {
-    "id": 92,
-    "title": "Data Centre Technology Sales Specialist",
-    "company": "NTT DATA, Inc.",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/data-centre-technology-sales-specialist-at-ntt-data-inc-4422711369",
-    "date": "3 days ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 93,
-    "title": "Sales Specialist Solutions - Data Center & Hybrid H/F",
-    "company": "Computacenter",
-    "location": "Greater Paris Metropolitan Region",
-    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-solutions-data-center-hybrid-h-f-at-computacenter-4442723540",
-    "date": "4 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 94,
+    "id": 434,
     "title": "UiPath Test Cloud Sales Specialist South Europe",
     "company": "UiPath",
     "location": "Paris, Île-de-France, France",
@@ -1214,7 +5496,7 @@
     "status": "À postuler"
   },
   {
-    "id": 95,
+    "id": 435,
     "title": "AWS Channel Specialist",
     "company": "SoftwareOne",
     "location": "Paris, Île-de-France, France",
@@ -1222,25 +5504,13 @@
     "date": "2 weeks ago",
     "tags": [
       "AI / IA",
+      "Cloud",
       "Sales Specialist"
     ],
     "status": "À postuler"
   },
   {
-    "id": 96,
-    "title": "Sales Specialist LowCode/NoCode F/H",
-    "company": "Atos",
-    "location": "Bezons, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-lowcode-nocode-f-h-at-atos-4397029922",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 97,
+    "id": 436,
     "title": "Technical Sales Specialist h/f/d",
     "company": "Hornetsecurity",
     "location": "Greater Lyon Area",
@@ -1253,7 +5523,7 @@
     "status": "À postuler"
   },
   {
-    "id": 98,
+    "id": 437,
     "title": "Sales Specialist Patient Data",
     "company": "IQVIA",
     "location": "Courbevoie, Île-de-France, France",
@@ -1267,7 +5537,7 @@
     "status": "À postuler"
   },
   {
-    "id": 99,
+    "id": 438,
     "title": "Sales Specialist Dématérialisation & Facture Électronique – ETI",
     "company": "Sage",
     "location": "Paris, Île-de-France, France",
@@ -1280,7 +5550,7 @@
     "status": "À postuler"
   },
   {
-    "id": 100,
+    "id": 439,
     "title": "Chargé de clientèle IT H/F",
     "company": "Heliaq",
     "location": "Reims, Grand Est, France",
@@ -1292,7 +5562,7 @@
     "status": "À postuler"
   },
   {
-    "id": 101,
+    "id": 440,
     "title": "Solution Sales Specialist, Machine Identity - France",
     "company": "Palo Alto Networks",
     "location": "Paris, Île-de-France, France",
@@ -1305,7 +5575,7 @@
     "status": "À postuler"
   },
   {
-    "id": 102,
+    "id": 441,
     "title": "Account Manager Specialist – Assistance Technique & Infogérance (H/F)",
     "company": "SCC France",
     "location": "Strasbourg, Grand Est, France",
@@ -1318,33 +5588,7 @@
     "status": "À postuler"
   },
   {
-    "id": 103,
-    "title": "Enterprise Account Executive, Paris",
-    "company": "Hightouch",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/enterprise-account-executive-paris-at-hightouch-4443579293",
-    "date": "5 days ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 104,
-    "title": "Senior AI Account Executive – Nordics & UK (M/F)",
-    "company": "MyTraffic",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-nordics-uk-m-f-at-mytraffic-4426379136",
-    "date": "2 months ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 105,
+    "id": 442,
     "title": "Enablement Manager, Sales & AI transformation",
     "company": "Mirakl",
     "location": "Paris, Île-de-France, France",
@@ -1357,7 +5601,7 @@
     "status": "À postuler"
   },
   {
-    "id": 106,
+    "id": 443,
     "title": "Account Executive - EU",
     "company": "DeepIP",
     "location": "Paris, Île-de-France, France",
@@ -1369,21 +5613,7 @@
     "status": "À postuler"
   },
   {
-    "id": 107,
-    "title": "Senior Sales Engineer - Strategic AI",
-    "company": "DDN",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-sales-engineer-strategic-ai-at-ddn-4449012501",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 108,
+    "id": 444,
     "title": "Product Manager - Sales AI",
     "company": "Alan",
     "location": "Paris, Île-de-France, France",
@@ -1396,20 +5626,7 @@
     "status": "À postuler"
   },
   {
-    "id": 109,
-    "title": "Applied AI - Commercial Excellence",
-    "company": "耐克森中国",
-    "location": "Puteaux, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/applied-ai-commercial-excellence-at-%E8%80%90%E5%85%8B%E6%A3%AE%E4%B8%AD%E5%9B%BD-4443591672",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 110,
+    "id": 445,
     "title": "Senior Data Center, AI Software Product Strategy & Go-To-Market Lead  — Qualcomm - Europe",
     "company": "Qualcomm",
     "location": "Issy-les-Moulineaux, Île-de-France, France",
@@ -1419,788 +5636,6 @@
       "Senior / Lead",
       "AI / IA",
       "Data",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 111,
-    "title": "Enterprise Account Executive",
-    "company": "Qlik",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/enterprise-account-executive-at-qlik-4381000453",
-    "date": "2 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 112,
-    "title": "Sales Executive",
-    "company": "Kleio",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-executive-at-kleio-4445348102",
-    "date": "3 weeks ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 113,
-    "title": "Sales Executive",
-    "company": "Galadrim",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-executive-at-galadrim-4440677016",
-    "date": "1 month ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 114,
-    "title": "Inside Sales Specialist – EMEA",
-    "company": "Malvern Panalytical",
-    "location": "Palaiseau, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/inside-sales-specialist-%E2%80%93-emea-at-malvern-panalytical-4414483951",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 115,
-    "title": "Sales Specialist SAP Paris F/H",
-    "company": "VISEO",
-    "location": "Boulogne-Billancourt, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-sap-paris-f-h-at-viseo-4418275642",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 116,
-    "title": "Inside Sales Specialist - Paris",
-    "company": "Ajax Systems",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/inside-sales-specialist-paris-at-ajax-systems-4427991975",
-    "date": "2 months ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 117,
-    "title": "LI Product Specialist",
-    "company": "Agilent Technologies",
-    "location": "Les Ulis, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/li-product-specialist-at-agilent-technologies-4434794004",
-    "date": "5 days ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 118,
-    "title": "Sales Specialist, Cash Management",
-    "company": "Sage",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-cash-management-at-sage-4433352641",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 119,
-    "title": "Cyber Sales Specialist",
-    "company": "Cyberr",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/cyber-sales-specialist-at-cyberr-4447118863",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 120,
-    "title": "Area Sales Specialist",
-    "company": "Waters Corporation",
-    "location": "Guyancourt, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/area-sales-specialist-at-waters-corporation-4429565432",
-    "date": "1 month ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 121,
-    "title": "AI Sales specialist",
-    "company": "Check Point Software",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-sales-specialist-at-check-point-software-4454019214",
-    "date": "4 days ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 122,
-    "title": "Spécialiste Sales (H/F)",
-    "company": "Pagestreet",
-    "location": "Valbonne, Provence-Alpes-Côte d'Azur, France",
-    "url": "https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-sales-h-f-at-pagestreet-4400831539",
-    "date": "4 months ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 123,
-    "title": "Software Sales Specialist",
-    "company": "Irving Knight Group",
-    "location": "France",
-    "url": "https://fr.linkedin.com/jobs/view/software-sales-specialist-at-irving-knight-group-4442591207",
-    "date": "4 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 124,
-    "title": "Inside Sales Specialist F/H",
-    "company": "Arthrex GmbH",
-    "location": "Lyon, Auvergne-Rhône-Alpes, France",
-    "url": "https://fr.linkedin.com/jobs/view/inside-sales-specialist-f-h-at-arthrex-gmbh-4455285374",
-    "date": "16 hours ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 125,
-    "title": "Sales Representative - US",
-    "company": "SLY",
-    "location": "Sales, Auvergne-Rhône-Alpes, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-representative-us-at-sly-4438450178",
-    "date": "1 month ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 126,
-    "title": "Solution Sales Specialist - Simulation",
-    "company": "GRAITEC Italy",
-    "location": "Greater Toulouse Metropolitan Area",
-    "url": "https://fr.linkedin.com/jobs/view/solution-sales-specialist-simulation-at-graitec-italy-4448980226",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 127,
-    "title": "> Sales Specialist – GMP Services",
-    "company": "Cleanroom Technology Austria",
-    "location": "Sales, Auvergne-Rhône-Alpes, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-specialist-%E2%80%93-gmp-services-at-cleanroom-technology-austria-4450910731",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 128,
-    "title": "Director/Senior Director, Strategic Solutions",
-    "company": "C3 AI",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/director-senior-director-strategic-solutions-at-c3-ai-4430620498",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 129,
-    "title": "Regional GTM Director, France",
-    "company": "Higgsfield AI",
-    "location": "France",
-    "url": "https://fr.linkedin.com/jobs/view/regional-gtm-director-france-at-higgsfield-ai-4450667937",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 130,
-    "title": "Regional GM - France",
-    "company": "Unframe",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/regional-gm-france-at-unframe-4448837777",
-    "date": "1 week ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 131,
-    "title": "Account Executive — AI & Data",
-    "company": "MP DATA",
-    "location": "Boulogne-Billancourt, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-%E2%80%94-ai-data-at-mp-data-4422819634",
-    "date": "2 months ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 132,
-    "title": "Founding Account Executive (M/F)",
-    "company": "Yourban.ai",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/founding-account-executive-m-f-at-yourban-ai-4451915939",
-    "date": "6 days ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 133,
-    "title": "Account Executive Enterprise - SaaS B2B",
-    "company": "Stakha",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-saas-b2b-at-stakha-4453126295",
-    "date": "5 days ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 134,
-    "title": "Account Executive - Enterprise",
-    "company": "H Company",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-h-company-4391090612",
-    "date": "2 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 135,
-    "title": "Account Executive EMEA",
-    "company": "DataDome",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-emea-at-datadome-4443176723",
-    "date": "3 weeks ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 136,
-    "title": "Senior Account Executive - Data Foundation (MuleSoft + Informatica)",
-    "company": "Salesforce",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/senior-account-executive-data-foundation-mulesoft-%2B-informatica-at-salesforce-4436771884",
-    "date": "1 day ago",
-    "tags": [
-      "Senior / Lead",
-      "Data",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 137,
-    "title": "Account Manager Data & IA(H/F/NB)",
-    "company": "Keyrus",
-    "location": "Levallois-Perret, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-manager-data-ia-h-f-nb-at-keyrus-4433023063",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 138,
-    "title": "Account Executive Enterprise",
-    "company": "Mayday",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-mayday-4453588506",
-    "date": "3 days ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 139,
-    "title": "Strategic Account Executive - Paris",
-    "company": "Datadog",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/strategic-account-executive-paris-at-datadog-4342684657",
-    "date": "1 week ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 140,
-    "title": "Account Executive",
-    "company": "Massive",
-    "location": "France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-at-massive-4449573456",
-    "date": "1 week ago",
-    "tags": [
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 141,
-    "title": "Enterprise Acount Executive",
-    "company": "Anaplan",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/enterprise-acount-executive-at-anaplan-4440973625",
-    "date": "1 week ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 142,
-    "title": "Account Excecutive F/H",
-    "company": "Datacend",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-excecutive-f-h-at-datacend-4422411211",
-    "date": "2 months ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 143,
-    "title": "Account Executive Confirmé - Data & IA (CDI) - Paris / Remote",
-    "company": "JobEgo",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-confirm%C3%A9-data-ia-cdi-paris-remote-at-jobego-4449102747",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Data",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 144,
-    "title": "Account Executive Senior Saas H/F",
-    "company": "SP SEARCH",
-    "location": "Guyancourt, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-executive-senior-saas-h-f-at-sp-search-4454358843",
-    "date": "3 days ago",
-    "tags": [
-      "Senior / Lead",
-      "Account Executive"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 145,
-    "title": "Business developer H/F",
-    "company": "AIRRIA",
-    "location": "Meylan, Auvergne-Rhône-Alpes, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-h-f-at-airria-4426972453",
-    "date": "2 months ago",
-    "tags": [
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 146,
-    "title": "Business Developer Grand OUEST H/F",
-    "company": "IQVIA",
-    "location": "Bordeaux, Nouvelle-Aquitaine, France",
-    "url": "https://fr.linkedin.com/jobs/view/business-developer-grand-ouest-h-f-at-iqvia-4443340931",
-    "date": "3 weeks ago",
-    "tags": [
-      "BizDev"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 147,
-    "title": "Account Manager Specialist AI Infrastructure (H/F)",
-    "company": "SCC France",
-    "location": "Nanterre, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/account-manager-specialist-ai-infrastructure-h-f-at-scc-france-4446727850",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Sales Specialist"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 148,
-    "title": "Applied AI - Commercial Excellence",
-    "company": "Nexans",
-    "location": "Puteaux, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/applied-ai-commercial-excellence-at-nexans-4443728236",
-    "date": "5 days ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 149,
-    "title": "Solution Engineer",
-    "company": "Kili Technology",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/solution-engineer-at-kili-technology-4445084411",
-    "date": "2 weeks ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 150,
-    "title": "Applied AI Engineer",
-    "company": "Sia",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/applied-ai-engineer-at-sia-4442594238",
-    "date": "4 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 151,
-    "title": "KERING AI Engineer",
-    "company": "Kering",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/kering-ai-engineer-at-kering-4447548330",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 152,
-    "title": "AI Solutions engineer",
-    "company": "Novaspace",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-solutions-engineer-at-novaspace-4451834015",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 153,
-    "title": "Applied AI Engineer",
-    "company": "Beamy",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/applied-ai-engineer-at-beamy-4442719887",
-    "date": "4 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 154,
-    "title": "AI Business Strategy Manager",
-    "company": "Nexans",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-business-strategy-manager-at-nexans-4448415361",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 155,
-    "title": "AI Engineer",
-    "company": "Pixid",
-    "location": "Courbevoie, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-engineer-at-pixid-4444316506",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 156,
-    "title": "HOW WE HIRE",
-    "company": "SnapGeniX",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/how-we-hire-at-snapgenix-4447350288",
-    "date": "1 week ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 157,
-    "title": "AI Engineer / Sales Engineer",
-    "company": "The QA Company",
-    "location": "St-Étienne, Auvergne-Rhône-Alpes, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-engineer-sales-engineer-at-the-qa-company-4412764273",
-    "date": "3 months ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 158,
-    "title": "Ingénieur IA F/H",
-    "company": "GROUPE PIERREVAL",
-    "location": "Plérin, Brittany, France",
-    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-f-h-at-groupe-pierreval-4446641963",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 159,
-    "title": "Ingénieur IA",
-    "company": "CEVA SANTE ANIMALE",
-    "location": "Libourne, Nouvelle-Aquitaine, France",
-    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-at-ceva-sante-animale-4448948047",
-    "date": "1 week ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 160,
-    "title": "AI Engineer (H/F/NB)",
-    "company": "Keyrus",
-    "location": "Bordeaux, Nouvelle-Aquitaine, France",
-    "url": "https://fr.linkedin.com/jobs/view/ai-engineer-h-f-nb-at-keyrus-4437560092",
-    "date": "2 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 161,
-    "title": "Deployment Strategist - France - Global Expansion",
-    "company": "ElevenLabs",
-    "location": "France",
-    "url": "https://fr.linkedin.com/jobs/view/deployment-strategist-france-global-expansion-at-elevenlabs-4455345568",
-    "date": "10 hours ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 162,
-    "title": "Ingénieur IA (H/F)",
-    "company": "ASI ®",
-    "location": "Lyon, Auvergne-Rhône-Alpes, France",
-    "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-h-f-at-asi-%C2%AE-4440191242",
-    "date": "3 weeks ago",
-    "tags": [
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 163,
-    "title": "Head of AI Enablement",
-    "company": "Bigblue",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-bigblue-4429980993",
-    "date": "2 months ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 164,
-    "title": "Country Manager - France Market Launcher 🇫🇷",
-    "company": "Murphy AI",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/country-manager-france-market-launcher-%F0%9F%87%AB%F0%9F%87%B7-at-murphy-ai-4440776948",
-    "date": "1 month ago",
-    "tags": [
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 165,
-    "title": "Global Senior Director, RevOps & GTM Operations",
-    "company": "Botify",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/global-senior-director-revops-gtm-operations-at-botify-4418773590",
-    "date": "2 months ago",
-    "tags": [
-      "Senior / Lead",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 166,
-    "title": "Sales Director - AI Business Process (CRM)",
-    "company": "Microsoft",
-    "location": "Issy-les-Moulineaux, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/sales-director-ai-business-process-crm-at-microsoft-4434481341",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 167,
-    "title": "Global Head of Engagement",
-    "company": "Harmattan AI",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/global-head-of-engagement-at-harmattan-ai-4397379301",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 168,
-    "title": "Head of AI Ops",
-    "company": "Pelico",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-ops-at-pelico-4446573481",
-    "date": "2 weeks ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 169,
-    "title": "Head of AI - Healthtech Scale up",
-    "company": "Lifen",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-healthtech-scale-up-at-lifen-4455197480",
-    "date": "1 day ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 170,
-    "title": "Head of AI Enablement",
-    "company": "UpSlide",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-upslide-4451133130",
-    "date": "1 week ago",
-    "tags": [
-      "Senior / Lead",
-      "AI / IA",
-      "Tech Sales"
-    ],
-    "status": "À postuler"
-  },
-  {
-    "id": 171,
-    "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
-    "company": "Scaleway",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://fr.linkedin.com/jobs/view/pre-sales-solutions-architect-ai-gpu-infrastructure-at-scaleway-4452546481",
-    "date": "1 hour ago",
-    "tags": [
-      "AI / IA",
       "Tech Sales"
     ],
     "status": "À postuler"

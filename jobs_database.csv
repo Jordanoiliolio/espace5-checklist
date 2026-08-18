@@ -1,172 +1,446 @@
 id,title,company,location,url,date,tags,status
-1,"GenAI Sales Specialist, AWS Specialists Team",Amazon Web Services (AWS),"Courbevoie, Île-de-France, France",https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialists-team-at-amazon-web-services-aws-4446832565,2 weeks ago,"Generative AI, Sales Specialist",À postuler
-2,"GenAI Sales Specialist, AWS Specialist Team France",Amazon Web Services (AWS),"Courbevoie, Île-de-France, France",https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialist-team-france-at-amazon-web-services-aws-4446162470,3 weeks ago,"Generative AI, Sales Specialist",À postuler
-3,Senior Enterprise Account Executive – Robotics & Physical AI,XXII,"Puteaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-enterprise-account-executive-%E2%80%93-robotics-physical-ai-at-xxii-4435038970,1 month ago,"Senior / Lead, AI / IA, Account Executive",À postuler
-4,Account Executive IA,Craft AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-ia-at-craft-ai-4448755686,3 weeks ago,"AI / IA, Account Executive",À postuler
-5,Microsoft Solution Sales Specialist - Data & AI,SoftwareOne,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/microsoft-solution-sales-specialist-data-ai-at-softwareone-4449764789,1 week ago,"AI / IA, Data, Sales Specialist",À postuler
-6,Sales Specialist AI Business Solutions Microsoft H/F,Inetum,"St.-Ouen, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-ai-business-solutions-microsoft-h-f-at-inetum-4400591201,1 day ago,"AI / IA, Sales Specialist",À postuler
-7,Senior AI Sales Representative,Atos,"Bezons, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-sales-representative-at-atos-4446655814,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-8,Consultative AI Sales Professional,DXC Technology,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/consultative-ai-sales-professional-at-dxc-technology-4371314015,2 weeks ago,"AI / IA, Tech Sales",À postuler
-9,Data & AI Technology Sales Specialist,"NTT DATA, Inc.","Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/data-ai-technology-sales-specialist-at-ntt-data-inc-4426777859,3 days ago,"AI / IA, Data, Sales Specialist",À postuler
-10,Account Executive - France,Neural Concept,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-france-at-neural-concept-4385457517,4 days ago,Account Executive,À postuler
-11,Senior Account Executive | Enterprise & AI Solutions (F/H),ILLUIN Technology,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-account-executive-enterprise-ai-solutions-f-h-at-illuin-technology-4413985792,3 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
-12,Account Manager Specialist AI Solutions (H/F),SCC France,"Nanterre, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-manager-specialist-ai-solutions-h-f-at-scc-france-4446728676,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-13,Account Executive [Opening soon],Botify,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-opening-soon-at-botify-4415215809,2 months ago,Account Executive,À postuler
-14,Enterprise Account Executive - France,Arango,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enterprise-account-executive-france-at-arango-4419475881,2 months ago,Account Executive,À postuler
-15,"Account Executive, SEMEA",Botify,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-semea-at-botify-4418754763,2 weeks ago,Account Executive,À postuler
-16,Business Development Representative (EMEA),Qdrant,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-development-representative-emea-at-qdrant-4448483858,1 week ago,Tech Sales,À postuler
-17,Founding Account Executive - DACH,DeepIP,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founding-account-executive-dach-at-deepip-4435975133,1 month ago,Account Executive,À postuler
-18,Senior Client Growth Partner – AI Transformation,Nagarro,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-client-growth-partner-%E2%80%93-ai-transformation-at-nagarro-4451015510,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-19,Lakebase Sales Associate Director,Databricks,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/lakebase-sales-associate-director-at-databricks-4419283665,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-20,Account Executive Mid-Market / Enterprise,Doctrine,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-mid-market-enterprise-at-doctrine-4436387379,1 month ago,Account Executive,À postuler
-21,100k+ OTE Account Executive in B2B SaaS,DialedIn Recruiting,Greater Paris Metropolitan Region,https://fr.linkedin.com/jobs/view/100k%2B-ote-account-executive-in-b2b-saas-at-dialedin-recruiting-4452264445,16 hours ago,Account Executive,À postuler
-22,Account Executive,Parallel,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-parallel-4434251234,1 month ago,Account Executive,À postuler
-23,GTM Lead,Model ML,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/gtm-lead-at-model-ml-4450088584,1 week ago,"Senior / Lead, Tech Sales",À postuler
-24,Account Executive,Doctrine,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-doctrine-4432965238,1 month ago,Account Executive,À postuler
-25,Strategic Account Manager,Cognite,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/strategic-account-manager-at-cognite-4369214679,1 day ago,Tech Sales,À postuler
-26,"Founder Advocate, EMEA Startup, Google Cloud",Google,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founder-advocate-emea-startup-google-cloud-at-google-4451402476,1 week ago,"Cloud, Tech Sales",À postuler
-27,Account Executive,Mendo,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-mendo-4325776621,8 months ago,Account Executive,À postuler
-28,"Senior Strategic Sales Manager, Cloud & AI",Tencent,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-strategic-sales-manager-cloud-ai-at-tencent-4424703907,2 months ago,"Senior / Lead, AI / IA, Cloud, Tech Sales",À postuler
-29,Account Executive - Agentforce Service,Salesforce,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-agentforce-service-at-salesforce-4419854722,2 weeks ago,Account Executive,À postuler
-30,Senior AI Sales Specialist (F/H),Atos,"Bezons, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-sales-specialist-f-h-at-atos-4446237730,2 weeks ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
-31,AI-Modernisation - Sales AI Lead - CDI Paris - Theodo,Theodo,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/ai-modernisation-sales-ai-lead-cdi-paris-theodo-at-theodo-4368830252,3 days ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-32,Founding Sales - AI for Finance,Stakha,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founding-sales-ai-for-finance-at-stakha-4444465953,3 weeks ago,"AI / IA, Tech Sales",À postuler
-33,Senior Sales Manager - SaaS / AI / Video,Aive,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-sales-manager-saas-ai-video-at-aive-4438927169,1 month ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-34,Senior AI Account Executive – US Retail Market (M/F),MyTraffic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-us-retail-market-m-f-at-mytraffic-4426382097,2 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
-35,AI & Business Transformation Lead- EMEA,Boomi,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/ai-business-transformation-lead-emea-at-boomi-4449864203,6 days ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-36,"Regional Client Partner, Ads Solutions",OpenAI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/regional-client-partner-ads-solutions-at-openai-4441109653,1 week ago,Tech Sales,À postuler
-37,EMEA Strategic AI Ecosystem & NVIDIA Business Development Lead,DDN,"Meudon, Île-de-France, France",https://fr.linkedin.com/jobs/view/emea-strategic-ai-ecosystem-nvidia-business-development-lead-at-ddn-4451898656,3 days ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-38,Senior Enterprise Account Executive - Public Sector,ServiceNow,"Issy-les-Moulineaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-enterprise-account-executive-public-sector-at-servicenow-4389205028,2 weeks ago,"Senior / Lead, Account Executive",À postuler
-39,Account Executive (founding team),Raison,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-founding-team-at-raison-4448053604,1 week ago,Account Executive,À postuler
-40,Account Executive - Core - Mid-market,Salesforce,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-core-mid-market-at-salesforce-4419947007,2 weeks ago,Account Executive,À postuler
-41,"Executive Account Manager – IA, Copilot & Solutions Microsoft",Witivio - AI Solutions for Microsoft 365,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/executive-account-manager-%E2%80%93-ia-copilot-solutions-microsoft-at-witivio-ai-solutions-for-microsoft-365-4444943352,3 weeks ago,"AI / IA, Tech Sales",À postuler
-42,Strategic Core Account Executive,Databricks,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/strategic-core-account-executive-at-databricks-4445099646,2 weeks ago,Account Executive,À postuler
-43,Senior Client Executive - Neo Cloud,NetApp,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-client-executive-neo-cloud-at-netapp-4448470087,14 hours ago,"Senior / Lead, Cloud, Tech Sales",À postuler
-44,Business Manager — AI & Data — Full-Cycle,MP DATA,"Boulogne-Billancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-manager-%E2%80%94-ai-data-%E2%80%94-full-cycle-at-mp-data-4453229162,4 days ago,"AI / IA, Data, Tech Sales",À postuler
-45,Startup Partnerships - France & Southern Europe,Anthropic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/startup-partnerships-france-southern-europe-at-anthropic-4439468131,1 week ago,Tech Sales,À postuler
-46,Sr Account Executive,Genesys,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sr-account-executive-at-genesys-4344394130,3 days ago,Account Executive,À postuler
-47,"Applied AI Architect, Partnerships",Anthropic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/applied-ai-architect-partnerships-at-anthropic-4454419424,9 hours ago,"AI / IA, Tech Sales",À postuler
-48,Senior Key Account Manager – Robotics & Industrial AI Solutions (f/m/d),MINTH GROUP,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-key-account-manager-%E2%80%93-robotics-industrial-ai-solutions-f-m-d-at-minth-group-4438204944,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-49,HRIS & AI Tech Pre-Sales Specialist,Arago,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/hris-ai-tech-pre-sales-specialist-at-arago-4443931983,3 weeks ago,"AI / IA, Sales Specialist",À postuler
-50,Business Developer – Projets & Innovation IA - F/H,ATECNA,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-%E2%80%93-projets-innovation-ia-f-h-at-atecna-4445640067,3 weeks ago,"AI / IA, BizDev",À postuler
-51,Senior Account Executive,RAISE Summit,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-account-executive-at-raise-summit-4432371648,2 weeks ago,"Senior / Lead, Account Executive",À postuler
-52,Business Development Manager - EU Market,SmartDev,"Versailles, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-development-manager-eu-market-at-smartdev-4448838876,1 week ago,Tech Sales,À postuler
-53,"Account Executive, Enterprise",Mistral,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-mistral-4439512156,1 month ago,Account Executive,À postuler
-54,"Account Executive Enterprise, FSI",Mistral,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-fsi-at-mistral-4441986767,1 month ago,Account Executive,À postuler
-55,Account Executive IA / Commercial(e) H/F - Typix H/F,"PIXALIONE | SEO, PAID, IA, DATA & CRO","Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-ia-commercial-e-h-f-typix-h-f-at-pixalione-seo-paid-ia-data-cro-4444422011,3 weeks ago,"AI / IA, Account Executive",À postuler
-56,Senior AI Account Executive – France (M/F),MyTraffic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-france-m-f-at-mytraffic-4426384100,2 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
-57,Account Executive / Responsable commercial grands comptes - Transformation IA - F/H,Rocket4Sales,"Boulogne-Billancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-responsable-commercial-grands-comptes-transformation-ia-f-h-at-rocket4sales-4443814807,2 weeks ago,"AI / IA, Account Executive",À postuler
-58,ACCOUNT EXECUTIVE ENTERPRISE,STATION F,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-station-f-4453758584,3 days ago,Account Executive,À postuler
-59,"Account Executive Enterprise, GSI",Headline - Asia,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-gsi-at-headline-asia-4454235591,20 hours ago,Account Executive,À postuler
-60,GenAI Business Development Manager — Paris - Permanent Contract (CDI),Sailglobal,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/genai-business-development-manager-%E2%80%94-paris-permanent-contract-cdi-at-sailglobal-4430410209,4 days ago,"Generative AI, Tech Sales",À postuler
-61,Account Executive Commercial,Genesys,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-commercial-at-genesys-4447677610,1 week ago,"AI / IA, Account Executive",À postuler
-62,Account Executive,Gladia,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-gladia-4444127356,2 weeks ago,Account Executive,À postuler
-63,ACCOUNT EXECUTIVE - ENTERPRISE,STATION F,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-station-f-4451489316,1 week ago,Account Executive,À postuler
-64,Business Development Rep (AI Cloud),Featherless AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-development-rep-ai-cloud-at-featherless-ai-4415386101,3 months ago,"AI / IA, Cloud, Tech Sales",À postuler
-65,Business Developer - Spanish Market H/F,Leonar,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-spanish-market-h-f-at-leonar-4445487364,2 weeks ago,BizDev,À postuler
-66,"Business Developer - Data, IA, Digital- Paris - CDI",WOLD,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-data-ia-digital-paris-cdi-at-wold-4405992759,3 months ago,"AI / IA, Data, BizDev",À postuler
-67,BUSINESS DEVELOPER INDIA,FLYING WHALES,"Suresnes, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-india-at-flying-whales-4422687756,2 weeks ago,"AI / IA, BizDev",À postuler
-68,Business Developer (H/F),CesGensLaB,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-h-f-at-cesgenslab-4451296659,2 days ago,BizDev,À postuler
-69,"Business Developer - Paris - CDI - Digital, Data, IA",WOLD,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-paris-cdi-digital-data-ia-at-wold-4432320794,1 month ago,"AI / IA, Data, BizDev",À postuler
-70,Business Development Specialist,Crossbeam,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-development-specialist-at-crossbeam-4443134480,5 days ago,"AI / IA, Sales Specialist",À postuler
-71,Business Developer Data & IA H/F,Jems Group,"Levallois-Perret, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-data-ia-h-f-at-jems-group-4447542671,2 weeks ago,"AI / IA, Data, BizDev",À postuler
-72,Sales Specialist Dématérialisation & Facture Électronique,Sage,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-d%C3%A9mat%C3%A9rialisation-facture-%C3%A9lectronique-at-sage-4405636709,1 week ago,"AI / IA, Sales Specialist",À postuler
-73,Founding SDR,Windmill,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founding-sdr-at-windmill-4408952345,3 months ago,Tech Sales,À postuler
-74,Senior Security Sales Specialist (Cybersecurity) - Paris,Myn,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-security-sales-specialist-cybersecurity-paris-at-myn-4440015229,1 month ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
-75,LIMS/ELN application sales specialist (Paris),AgileBio,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/lims-eln-application-sales-specialist-paris-at-agilebio-4390822660,4 months ago,"AI / IA, Sales Specialist",À postuler
-76,Senior Sales Specialist,BASSETTI France,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-sales-specialist-at-bassetti-france-4441469950,5 days ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
-77,CDI : Sales Developer,Tandem 🚲,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/cdi-sales-developer-at-tandem-%F0%9F%9A%B2-4448519142,1 week ago,Tech Sales,À postuler
-78,leads generation specialist,REECHO Solutions,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/leads-generation-specialist-at-reecho-solutions-4341234073,8 months ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
-79,"Specialist Account Executive, ZT Branch",Zscaler,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/specialist-account-executive-zt-branch-at-zscaler-4410772272,2 weeks ago,"AI / IA, Account Executive",À postuler
-80,Sales Manager/Specialist,AUX,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-manager-specialist-at-aux-4452261569,15 hours ago,"AI / IA, Sales Specialist",À postuler
-81,"Customer Engineer, Google Distributed Cloud, EMEA",Google,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/customer-engineer-google-distributed-cloud-emea-at-google-4445744699,2 weeks ago,"Cloud, Tech Sales",À postuler
-82,Business Developer - UK Market,Leonar,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-uk-market-at-leonar-4445478419,2 weeks ago,BizDev,À postuler
-83,Defense Sales FR - H/F,Alta Ares,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/defense-sales-fr-h-f-at-alta-ares-4425620370,2 months ago,Tech Sales,À postuler
-84,Consultant Entrepreneur,JAB - Sales Performance.,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/consultant-entrepreneur-at-jab-sales-performance-4432805290,4 weeks ago,Tech Sales,À postuler
-85,Technical Pre-Sales (Europe) H/F,Pasqal,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/technical-pre-sales-europe-h-f-at-pasqal-4420988476,2 weeks ago,Tech Sales,À postuler
-86,Sales Specialist Dynamics 365 Business Central,isatech,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-dynamics-365-business-central-at-isatech-4450233118,1 week ago,"AI / IA, Sales Specialist",À postuler
-87,Sales Development Representative - Enterprise,Malt,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-development-representative-enterprise-at-malt-4436899968,2 weeks ago,Tech Sales,À postuler
-88,Sales Specialist - Confirmé - Hybride - CDI,Kiiro,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-confirm%C3%A9-hybride-cdi-at-kiiro-4428736073,2 months ago,"AI / IA, Sales Specialist",À postuler
-89,Business Development Representative,Centric Software,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-development-representative-at-centric-software-4414680077,3 weeks ago,Tech Sales,À postuler
-90,Sales Development Representative 🇫🇷,Bigblue,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-development-representative-%F0%9F%87%AB%F0%9F%87%B7-at-bigblue-4428102156,2 months ago,Tech Sales,À postuler
-91,Sales Specialist,OVHcloud,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-at-ovhcloud-4446614076,1 week ago,"AI / IA, Sales Specialist",À postuler
-92,Data Centre Technology Sales Specialist,"NTT DATA, Inc.","Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/data-centre-technology-sales-specialist-at-ntt-data-inc-4422711369,3 days ago,"AI / IA, Data, Sales Specialist",À postuler
-93,Sales Specialist Solutions - Data Center & Hybrid H/F,Computacenter,Greater Paris Metropolitan Region,https://fr.linkedin.com/jobs/view/sales-specialist-solutions-data-center-hybrid-h-f-at-computacenter-4442723540,4 weeks ago,"AI / IA, Data, Sales Specialist",À postuler
-94,UiPath Test Cloud Sales Specialist South Europe,UiPath,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/uipath-test-cloud-sales-specialist-south-europe-at-uipath-4448449113,1 week ago,"AI / IA, Cloud, Sales Specialist",À postuler
-95,AWS Channel Specialist,SoftwareOne,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/aws-channel-specialist-at-softwareone-4447645791,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-96,Sales Specialist LowCode/NoCode F/H,Atos,"Bezons, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-lowcode-nocode-f-h-at-atos-4397029922,1 week ago,"AI / IA, Sales Specialist",À postuler
-97,Technical Sales Specialist h/f/d,Hornetsecurity,Greater Lyon Area,https://fr.linkedin.com/jobs/view/technical-sales-specialist-h-f-d-at-hornetsecurity-4446559623,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-98,Sales Specialist Patient Data,IQVIA,"Courbevoie, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-patient-data-at-iqvia-4428053465,2 months ago,"AI / IA, Data, Sales Specialist",À postuler
-99,Sales Specialist Dématérialisation & Facture Électronique – ETI,Sage,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-d%C3%A9mat%C3%A9rialisation-facture-%C3%A9lectronique-%E2%80%93-eti-at-sage-4405654301,1 week ago,"AI / IA, Sales Specialist",À postuler
-100,Chargé de clientèle IT H/F,Heliaq,"Reims, Grand Est, France",https://fr.linkedin.com/jobs/view/charg%C3%A9-de-client%C3%A8le-it-h-f-at-heliaq-4446081109,2 weeks ago,Tech Sales,À postuler
-101,"Solution Sales Specialist, Machine Identity - France",Palo Alto Networks,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/solution-sales-specialist-machine-identity-france-at-palo-alto-networks-4418761580,1 week ago,"AI / IA, Sales Specialist",À postuler
-102,Account Manager Specialist – Assistance Technique & Infogérance (H/F),SCC France,"Strasbourg, Grand Est, France",https://fr.linkedin.com/jobs/view/account-manager-specialist-%E2%80%93-assistance-technique-infog%C3%A9rance-h-f-at-scc-france-4446839936,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-103,"Enterprise Account Executive, Paris",Hightouch,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enterprise-account-executive-paris-at-hightouch-4443579293,5 days ago,Account Executive,À postuler
-104,Senior AI Account Executive – Nordics & UK (M/F),MyTraffic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-nordics-uk-m-f-at-mytraffic-4426379136,2 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
-105,"Enablement Manager, Sales & AI transformation",Mirakl,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enablement-manager-sales-ai-transformation-at-mirakl-4435675531,2 weeks ago,"AI / IA, Tech Sales",À postuler
-106,Account Executive - EU,DeepIP,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-eu-at-deepip-4414031778,2 months ago,Account Executive,À postuler
-107,Senior Sales Engineer - Strategic AI,DDN,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-sales-engineer-strategic-ai-at-ddn-4449012501,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-108,Product Manager - Sales AI,Alan,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/product-manager-sales-ai-at-alan-4442700126,4 weeks ago,"AI / IA, Tech Sales",À postuler
-109,Applied AI - Commercial Excellence,耐克森中国,"Puteaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/applied-ai-commercial-excellence-at-%E8%80%90%E5%85%8B%E6%A3%AE%E4%B8%AD%E5%9B%BD-4443591672,3 weeks ago,"AI / IA, Tech Sales",À postuler
-110,"Senior Data Center, AI Software Product Strategy & Go-To-Market Lead  — Qualcomm - Europe",Qualcomm,"Issy-les-Moulineaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-data-center-ai-software-product-strategy-go-to-market-lead-%E2%80%94-qualcomm-europe-at-qualcomm-4435213454,3 days ago,"Senior / Lead, AI / IA, Data, Tech Sales",À postuler
-111,Enterprise Account Executive,Qlik,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enterprise-account-executive-at-qlik-4381000453,2 weeks ago,Account Executive,À postuler
-112,Sales Executive,Kleio,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-executive-at-kleio-4445348102,3 weeks ago,Tech Sales,À postuler
-113,Sales Executive,Galadrim,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-executive-at-galadrim-4440677016,1 month ago,Tech Sales,À postuler
-114,Inside Sales Specialist – EMEA,Malvern Panalytical,"Palaiseau, Île-de-France, France",https://fr.linkedin.com/jobs/view/inside-sales-specialist-%E2%80%93-emea-at-malvern-panalytical-4414483951,1 week ago,"AI / IA, Sales Specialist",À postuler
-115,Sales Specialist SAP Paris F/H,VISEO,"Boulogne-Billancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-sap-paris-f-h-at-viseo-4418275642,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-116,Inside Sales Specialist - Paris,Ajax Systems,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/inside-sales-specialist-paris-at-ajax-systems-4427991975,2 months ago,"AI / IA, Sales Specialist",À postuler
-117,LI Product Specialist,Agilent Technologies,"Les Ulis, Île-de-France, France",https://fr.linkedin.com/jobs/view/li-product-specialist-at-agilent-technologies-4434794004,5 days ago,"AI / IA, Sales Specialist",À postuler
-118,"Sales Specialist, Cash Management",Sage,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-cash-management-at-sage-4433352641,1 week ago,"AI / IA, Sales Specialist",À postuler
-119,Cyber Sales Specialist,Cyberr,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/cyber-sales-specialist-at-cyberr-4447118863,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-120,Area Sales Specialist,Waters Corporation,"Guyancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/area-sales-specialist-at-waters-corporation-4429565432,1 month ago,"AI / IA, Sales Specialist",À postuler
-121,AI Sales specialist,Check Point Software,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/ai-sales-specialist-at-check-point-software-4454019214,4 days ago,"AI / IA, Sales Specialist",À postuler
-122,Spécialiste Sales (H/F),Pagestreet,"Valbonne, Provence-Alpes-Côte d'Azur, France",https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-sales-h-f-at-pagestreet-4400831539,4 months ago,"AI / IA, Tech Sales",À postuler
-123,Software Sales Specialist,Irving Knight Group,France,https://fr.linkedin.com/jobs/view/software-sales-specialist-at-irving-knight-group-4442591207,4 weeks ago,"AI / IA, Sales Specialist",À postuler
-124,Inside Sales Specialist F/H,Arthrex GmbH,"Lyon, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/inside-sales-specialist-f-h-at-arthrex-gmbh-4455285374,16 hours ago,"AI / IA, Sales Specialist",À postuler
-125,Sales Representative - US,SLY,"Sales, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/sales-representative-us-at-sly-4438450178,1 month ago,Tech Sales,À postuler
-126,Solution Sales Specialist - Simulation,GRAITEC Italy,Greater Toulouse Metropolitan Area,https://fr.linkedin.com/jobs/view/solution-sales-specialist-simulation-at-graitec-italy-4448980226,1 week ago,"AI / IA, Sales Specialist",À postuler
-127,> Sales Specialist – GMP Services,Cleanroom Technology Austria,"Sales, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/sales-specialist-%E2%80%93-gmp-services-at-cleanroom-technology-austria-4450910731,1 week ago,"AI / IA, Sales Specialist",À postuler
-128,"Director/Senior Director, Strategic Solutions",C3 AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/director-senior-director-strategic-solutions-at-c3-ai-4430620498,1 week ago,"Senior / Lead, Tech Sales",À postuler
-129,"Regional GTM Director, France",Higgsfield AI,France,https://fr.linkedin.com/jobs/view/regional-gtm-director-france-at-higgsfield-ai-4450667937,1 week ago,"Senior / Lead, Tech Sales",À postuler
-130,Regional GM - France,Unframe,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/regional-gm-france-at-unframe-4448837777,1 week ago,Tech Sales,À postuler
-131,Account Executive — AI & Data,MP DATA,"Boulogne-Billancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-%E2%80%94-ai-data-at-mp-data-4422819634,2 months ago,"AI / IA, Data, Account Executive",À postuler
-132,Founding Account Executive (M/F),Yourban.ai,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founding-account-executive-m-f-at-yourban-ai-4451915939,6 days ago,Account Executive,À postuler
-133,Account Executive Enterprise - SaaS B2B,Stakha,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-saas-b2b-at-stakha-4453126295,5 days ago,Account Executive,À postuler
-134,Account Executive - Enterprise,H Company,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-h-company-4391090612,2 weeks ago,Account Executive,À postuler
-135,Account Executive EMEA,DataDome,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-emea-at-datadome-4443176723,3 weeks ago,Account Executive,À postuler
-136,Senior Account Executive - Data Foundation (MuleSoft + Informatica),Salesforce,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-account-executive-data-foundation-mulesoft-%2B-informatica-at-salesforce-4436771884,1 day ago,"Senior / Lead, Data, Account Executive",À postuler
-137,Account Manager Data & IA(H/F/NB),Keyrus,"Levallois-Perret, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-manager-data-ia-h-f-nb-at-keyrus-4433023063,2 weeks ago,"AI / IA, Data, Tech Sales",À postuler
-138,Account Executive Enterprise,Mayday,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-mayday-4453588506,3 days ago,Account Executive,À postuler
-139,Strategic Account Executive - Paris,Datadog,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/strategic-account-executive-paris-at-datadog-4342684657,1 week ago,Account Executive,À postuler
-140,Account Executive,Massive,France,https://fr.linkedin.com/jobs/view/account-executive-at-massive-4449573456,1 week ago,Account Executive,À postuler
-141,Enterprise Acount Executive,Anaplan,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enterprise-acount-executive-at-anaplan-4440973625,1 week ago,Tech Sales,À postuler
-142,Account Excecutive F/H,Datacend,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-excecutive-f-h-at-datacend-4422411211,2 months ago,Tech Sales,À postuler
-143,Account Executive Confirmé - Data & IA (CDI) - Paris / Remote,JobEgo,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-confirm%C3%A9-data-ia-cdi-paris-remote-at-jobego-4449102747,1 week ago,"AI / IA, Data, Account Executive",À postuler
-144,Account Executive Senior Saas H/F,SP SEARCH,"Guyancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-senior-saas-h-f-at-sp-search-4454358843,3 days ago,"Senior / Lead, Account Executive",À postuler
-145,Business developer H/F,AIRRIA,"Meylan, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/business-developer-h-f-at-airria-4426972453,2 months ago,BizDev,À postuler
-146,Business Developer Grand OUEST H/F,IQVIA,"Bordeaux, Nouvelle-Aquitaine, France",https://fr.linkedin.com/jobs/view/business-developer-grand-ouest-h-f-at-iqvia-4443340931,3 weeks ago,BizDev,À postuler
-147,Account Manager Specialist AI Infrastructure (H/F),SCC France,"Nanterre, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-manager-specialist-ai-infrastructure-h-f-at-scc-france-4446727850,2 weeks ago,"AI / IA, Sales Specialist",À postuler
-148,Applied AI - Commercial Excellence,Nexans,"Puteaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/applied-ai-commercial-excellence-at-nexans-4443728236,5 days ago,"AI / IA, Tech Sales",À postuler
-149,Solution Engineer,Kili Technology,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/solution-engineer-at-kili-technology-4445084411,2 weeks ago,Tech Sales,À postuler
-150,Applied AI Engineer,Sia,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/applied-ai-engineer-at-sia-4442594238,4 weeks ago,"AI / IA, Tech Sales",À postuler
-151,KERING AI Engineer,Kering,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/kering-ai-engineer-at-kering-4447548330,2 weeks ago,"AI / IA, Tech Sales",À postuler
-152,AI Solutions engineer,Novaspace,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/ai-solutions-engineer-at-novaspace-4451834015,1 week ago,"AI / IA, Tech Sales",À postuler
-153,Applied AI Engineer,Beamy,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/applied-ai-engineer-at-beamy-4442719887,4 weeks ago,"AI / IA, Tech Sales",À postuler
-154,AI Business Strategy Manager,Nexans,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/ai-business-strategy-manager-at-nexans-4448415361,1 week ago,"AI / IA, Tech Sales",À postuler
-155,AI Engineer,Pixid,"Courbevoie, Île-de-France, France",https://fr.linkedin.com/jobs/view/ai-engineer-at-pixid-4444316506,3 weeks ago,"AI / IA, Tech Sales",À postuler
-156,HOW WE HIRE,SnapGeniX,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/how-we-hire-at-snapgenix-4447350288,1 week ago,Tech Sales,À postuler
-157,AI Engineer / Sales Engineer,The QA Company,"St-Étienne, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/ai-engineer-sales-engineer-at-the-qa-company-4412764273,3 months ago,"AI / IA, Tech Sales",À postuler
-158,Ingénieur IA F/H,GROUPE PIERREVAL,"Plérin, Brittany, France",https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-f-h-at-groupe-pierreval-4446641963,1 week ago,"AI / IA, Tech Sales",À postuler
-159,Ingénieur IA,CEVA SANTE ANIMALE,"Libourne, Nouvelle-Aquitaine, France",https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-at-ceva-sante-animale-4448948047,1 week ago,"AI / IA, Tech Sales",À postuler
-160,AI Engineer (H/F/NB),Keyrus,"Bordeaux, Nouvelle-Aquitaine, France",https://fr.linkedin.com/jobs/view/ai-engineer-h-f-nb-at-keyrus-4437560092,2 weeks ago,"AI / IA, Tech Sales",À postuler
-161,Deployment Strategist - France - Global Expansion,ElevenLabs,France,https://fr.linkedin.com/jobs/view/deployment-strategist-france-global-expansion-at-elevenlabs-4455345568,10 hours ago,Tech Sales,À postuler
-162,Ingénieur IA (H/F),ASI ®,"Lyon, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-h-f-at-asi-%C2%AE-4440191242,3 weeks ago,"AI / IA, Tech Sales",À postuler
-163,Head of AI Enablement,Bigblue,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-bigblue-4429980993,2 months ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-164,Country Manager - France Market Launcher 🇫🇷,Murphy AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/country-manager-france-market-launcher-%F0%9F%87%AB%F0%9F%87%B7-at-murphy-ai-4440776948,1 month ago,Tech Sales,À postuler
-165,"Global Senior Director, RevOps & GTM Operations",Botify,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/global-senior-director-revops-gtm-operations-at-botify-4418773590,2 months ago,"Senior / Lead, Tech Sales",À postuler
-166,Sales Director - AI Business Process (CRM),Microsoft,"Issy-les-Moulineaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-director-ai-business-process-crm-at-microsoft-4434481341,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-167,Global Head of Engagement,Harmattan AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/global-head-of-engagement-at-harmattan-ai-4397379301,1 week ago,"Senior / Lead, Tech Sales",À postuler
-168,Head of AI Ops,Pelico,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-ops-at-pelico-4446573481,2 weeks ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-169,Head of AI - Healthtech Scale up,Lifen,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-healthtech-scale-up-at-lifen-4455197480,1 day ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-170,Head of AI Enablement,UpSlide,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-upslide-4451133130,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
-171,Pre-Sales Solutions Architect - AI & GPU Infrastructure,Scaleway,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/pre-sales-solutions-architect-ai-gpu-infrastructure-at-scaleway-4452546481,1 hour ago,"AI / IA, Tech Sales",À postuler
+1,Technical Customer Support Engineer - EMEA,clickhouse,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=fa175e607f623b93,2026-08-17,Tech Sales,À postuler
+2,Media Effectiveness Development Lead,NielsenIQ,"Bezons, A8, FR",https://fr.indeed.com/viewjob?jk=baf21538bfac0607,2026-08-17,"Senior / Lead, AI / IA, Tech Sales",À postuler
+3,Consulting Sales Engineer - Expert(e) Avant Vente Ingénieur(e) Systèmes H/F,Hewlett Packard Enterprise | HPE,"Puteaux, A8, FR",https://fr.indeed.com/viewjob?jk=3e9d052bd168695c,2026-08-14,Tech Sales,À postuler
+4,Regional Account Executive (Enterprise) (Fluent in French) (Located in France),KnowBe4,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=0758edbef0f55c73,2026-08-12,Account Executive,À postuler
+5,Business Development Representative Mid Market - Freelance,AgoraPulse,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=0175e50b71bba8c5,2026-08-11,Tech Sales,À postuler
+6,Business Development Representative (EMEA),Qdrant,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=a3c9cf590de0b46d,2026-08-06,Tech Sales,À postuler
+7,"Channel Sales Representative – Italy, UK & Eastern Europe",Veesion,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=b5dc3c3573e0c5ae,2026-08-06,Tech Sales,À postuler
+8,Channel Sales Representative – DACH & Nordics,Veesion,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=5a5a69eac6bd9642,2026-08-06,Tech Sales,À postuler
+9,"Marketing Lead Development Representative French Speaking, MRC - Marketing Response Center",Amazon Web Services,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=de008b4980e47ee0,2026-07-30,"Senior / Lead, Tech Sales",À postuler
+10,Business Developer Representative - Spanish Market,AssessFirst,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=03f6d334f1c79481,2026-07-29,BizDev,À postuler
+11,Business Development Representative France,Qevlar AI,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=d7ffc6143ce91442,2026-07-29,Tech Sales,À postuler
+12,Business Development Manager EU (English speaker / Multi-lingual profile),Back Market,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=91ad833ed88e4d7e,2026-07-28,Tech Sales,À postuler
+13,Sales Development Representative - France,YOU Trust,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=72a087c675205d82,2026-07-27,Tech Sales,À postuler
+14,Inside Sales Representative - France,Palo Alto Networks,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=0a817ec423f40a18,2026-07-27,Tech Sales,À postuler
+15,Inside Sales Representative - Commercial Sédentaire,Lenovo,"Rueil-Malmaison, A8, FR",https://fr.indeed.com/viewjob?jk=765611b0e48095d3,2026-07-27,"AI / IA, Tech Sales",À postuler
+16,Trade Account Manager,Waterworks,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=794051f4be5964d3,2026-07-22,Tech Sales,À postuler
+17,"VP, Global Developer Relations",Mistral AI,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=2db54e51dcbb0b0a,2026-07-22,"Senior / Lead, Tech Sales",À postuler
+18,"Account Executive, French, Italy and Middle- East Markets",nan,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=9179ae6b9f201d71,2026-07-21,Account Executive,À postuler
+19,"Manager, Sales Development",Tanium,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=8ebd649d3d6de682,2026-07-20,Tech Sales,À postuler
+20,Sr Business Development Representative,UKG,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=6db5e7e6cdcd5f11,2026-07-08,Tech Sales,À postuler
+21,Business Development Representative - French & Inter Market (F/M),Najar,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=23bb912e3bbbfb10,2026-06-23,Tech Sales,À postuler
+22,Sales Specialist AI Business Solutions Microsoft H/F,Inetum,"St.-Ouen, Île-de-France, France",https://www.linkedin.com/jobs/view/4400591201,2026-08-16,"AI / IA, Sales Specialist",À postuler
+23,Data & AI Technology Sales Specialist,"NTT DATA, Inc.","Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4426777859,2026-08-14,"AI / IA, Data, Sales Specialist",À postuler
+24,GenAI Business Development Manager — Paris - Permanent Contract (CDI),Sailglobal,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4430410209,2026-08-14,"Generative AI, Tech Sales",À postuler
+25,Account Executive Enterprise,Mayday,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4453588506,2026-08-14,Account Executive,À postuler
+26,AI Sales specialist,Check Point Software,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4454019214,2026-08-13,"AI / IA, Sales Specialist",À postuler
+27,Account Executive — AI & Data,MP DATA,"Boulogne-Billancourt, Île-de-France, France",https://www.linkedin.com/jobs/view/4452392928,2026-08-12,"AI / IA, Data, Account Executive",À postuler
+28,Business Development Associate H/F,Piano,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4450137804,2026-08-12,"AI / IA, Tech Sales",À postuler
+29,Business Development Representative,Mayday,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4451170362,2026-08-10,Tech Sales,À postuler
+30,"Solutions Consultant, Mid-Market, France",Notion,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4450728155,2026-08-07,Tech Sales,À postuler
+31,Microsoft Solution Sales Specialist - Data & AI,SoftwareOne,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4449764789,2026-08-06,"AI / IA, Data, Sales Specialist",À postuler
+32,Solutions Consultant (French Speaking),Synthesia,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4404547243,2026-08-06,Tech Sales,À postuler
+33,HOW WE HIRE,SnapGeniX,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4447350288,2026-08-05,Tech Sales,À postuler
+34,"Account Executive, SEMEA",Botify,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4418754763,2026-08-03,Account Executive,À postuler
+35,Consultative AI Sales Professional,DXC Technology,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4371314015,2026-08-01,"AI / IA, Tech Sales",À postuler
+36,Solution Engineer,Kili Technology,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445084411,2026-07-31,Tech Sales,À postuler
+37,BDR (F/H),ILLUIN Technology,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4447520746,2026-07-31,Tech Sales,À postuler
+38,"GenAI Sales Specialist, AWS Specialists Team",Amazon Web Services (AWS),"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4446832565,2026-07-30,"Generative AI, Cloud, Sales Specialist",À postuler
+39,Account Manager Specialist AI Solutions (H/F),SCC France,"Nanterre, Île-de-France, France",https://www.linkedin.com/jobs/view/4446728676,2026-07-30,"AI / IA, Sales Specialist",À postuler
+40,"GenAI Sales Specialist, AWS Specialist Team France",Amazon Web Services (AWS),"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4446153517,2026-07-28,"Generative AI, Cloud, Sales Specialist",À postuler
+41,Business Development Representative,Centric Software,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4414680077,2026-07-28,Tech Sales,À postuler
+42,Business Developer – Projets & Innovation IA - F/H,ATECNA,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445640067,2026-07-26,"AI / IA, BizDev",À postuler
+43,Sales Executive,Kleio,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445348102,2026-07-25,Tech Sales,À postuler
+44,Founding Sales - AI for Finance,Stakha,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4444465953,2026-07-23,"AI / IA, Tech Sales",À postuler
+45,Account Executive IA,Craft AI,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448755686,2026-07-23,"AI / IA, Account Executive",À postuler
+46,Customer Service Analyst,Corpay,"Saint-Hélier, BFC, FR",https://fr.indeed.com/viewjob?jk=20720572becd18d6,2026-08-17,Tech Sales,À postuler
+47,French-Speaking Sales Representative – MENA Market,Vendogram AI Academy,"Télétravail, FR",https://fr.indeed.com/viewjob?jk=55890d913edaf5be,2026-08-14,Tech Sales,À postuler
+48,Senior AI Sales Representative - H/F,Atos,"Bordeaux, NA, FR",https://fr.indeed.com/viewjob?jk=15e6323518de5397,2026-08-04,"Senior / Lead, AI / IA, Tech Sales",À postuler
+49,Business Development Representative (BDR) Nordics - Apprenticeship,Kameleoon,"Toulouse, O, FR",https://fr.indeed.com/viewjob?jk=b18305af15a2eaec,2026-07-29,Tech Sales,À postuler
+50,"Business Developer - Data, IA, Digital- Paris - CDI",WOLD,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4453246844,2026-08-13,"AI / IA, Data, BizDev",À postuler
+51,DATA & AI Presales Senior Consultant,SoftwareOne,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4449740580,2026-08-06,"Senior / Lead, AI / IA, Data, Tech Sales",À postuler
+52,"Business Development Representative Produit – SaaS, IA & Solutions Microsoft",Witivio - AI Solutions for Microsoft 365,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4445907049,2026-07-27,"AI / IA, Tech Sales",À postuler
+53,Deployment Strategist - France - Global Expansion,ElevenLabs,Île-de-France / France,https://www.linkedin.com/jobs/view/4455345568,nan,Tech Sales,À postuler
+54,Business Development Specialist,Crossbeam,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443134480,2026-08-12,"AI / IA, Sales Specialist",À postuler
+55,LI Product Specialist,Agilent Technologies,"Les Ulis, Île-de-France, France",https://www.linkedin.com/jobs/view/4434794004,2026-08-12,"AI / IA, Sales Specialist",À postuler
+56,Inside Sales Specialist – EMEA,Malvern Panalytical,"Palaiseau, Île-de-France, France",https://www.linkedin.com/jobs/view/4414483951,2026-08-08,"AI / IA, Sales Specialist",À postuler
+57,CDI : Sales Developer,Tandem 🚲,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448519142,2026-08-04,Tech Sales,À postuler
+58,Sales Developer Representative (f/h/n),Hublo,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4447569489,2026-07-31,Tech Sales,À postuler
+59,Sales Specialist SAP Paris F/H,VISEO,"Boulogne-Billancourt, Île-de-France, France",https://www.linkedin.com/jobs/view/4418275642,2026-07-30,"AI / IA, Sales Specialist",À postuler
+60,OTC Sales Development Representative,BTSE,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4369461135,nan,Tech Sales,À postuler
+61,"Inside Sales Representative, Flavors Europe",Sensient Technologies,"Illkirch-Graffenstaden, GE, FR",https://fr.indeed.com/viewjob?jk=b8bfb72df34d607f,2026-08-14,Tech Sales,À postuler
+62,Business Development Specialist - France,TUI,"Nice, Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4454506581,2026-08-14,"AI / IA, Sales Specialist",À postuler
+63,Sales Specialist,ChemScene,Île-de-France / France,https://www.linkedin.com/jobs/view/4432614188,2026-08-13,"AI / IA, Sales Specialist",À postuler
+64,Business Development Representative - Marché Français,Amenitiz,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4452966931,2026-08-13,"AI / IA, Tech Sales",À postuler
+65,Growth Sales Executive,Wallester,"Cannes, Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4437277928,2026-08-12,Tech Sales,À postuler
+66,Inside Sales - Europe,HID,"Beaucouzé, Pays de la Loire, France",https://www.linkedin.com/jobs/view/4431516659,2026-08-12,Tech Sales,À postuler
+67,Founding Sales Development Representative (SDR),Piston,"Biarritz, Nouvelle-Aquitaine, France",https://www.linkedin.com/jobs/view/4452444183,2026-08-11,Tech Sales,À postuler
+68,Business Developer (H/F),UPTOO,"Toulouse, Occitanie, France",https://www.linkedin.com/jobs/view/4433218898,2026-08-07,BizDev,À postuler
+69,Business Developer South of France,prado,"Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4450327302,2026-08-07,BizDev,À postuler
+70,Sales Developer,Capgemini Engineering,"Isneauville, Normandy, France",https://www.linkedin.com/jobs/view/4450601059,2026-08-06,Tech Sales,À postuler
+71,SALES,Tsukumo,"Sales, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4448985690,2026-08-05,Tech Sales,À postuler
+72,Sales Development Representative,SAVOYE Italia Srl,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4449477554,2026-08-05,Tech Sales,À postuler
+73,Solution Sales Specialist - Simulation,GRAITEC Italy,Île-de-France / France,https://www.linkedin.com/jobs/view/4448980226,2026-08-05,"AI / IA, Sales Specialist",À postuler
+74,Sales Specialist Dynamics 365 Business Central F/H,isatech,"Vannes, Brittany, France",https://www.linkedin.com/jobs/view/4449907129,2026-08-05,"AI / IA, Sales Specialist",À postuler
+75,Presales Executive,Bren Corp,"Bren, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4449085898,2026-08-04,Tech Sales,À postuler
+76,Business Development Representative,Taurify,"Sales, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4448568404,2026-08-04,Tech Sales,À postuler
+77,Business Development Representative F/H,SEPTEO,"Bouc-Bel-Air, Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4448106285,2026-08-03,Tech Sales,À postuler
+78,"Un(e) Sales Full Cycle : prospection, cycle de vente, suivi",Daiteo,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4447896730,2026-08-02,Tech Sales,À postuler
+79,Commercial B2B,Airnest,"Bordeaux, Nouvelle-Aquitaine, France",https://www.linkedin.com/jobs/view/4444152323,2026-07-29,"AI / IA, Tech Sales",À postuler
+80,Inside Sales Representative,Copeland,"Écully, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4433960800,2026-07-27,Tech Sales,À postuler
+81,Sales Consultant,Magrey & Sons RETAIL,"Cannes, Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4445600130,2026-07-26,Tech Sales,À postuler
+82,Sales Representative,Swiss Dynamics GmbH,"Sales, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4443838285,2026-07-23,Tech Sales,À postuler
+83,Software Sales Specialist,Irving Knight Group,Île-de-France / France,https://www.linkedin.com/jobs/view/4442591207,2026-07-20,"AI / IA, Sales Specialist",À postuler
+84,Inside Sales Specialist F/H,Arthrex GmbH,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4455285374,nan,"AI / IA, Sales Specialist",À postuler
+85,Senior Consulting Engineer - EMEA,clickhouse,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=adf33decfbde7c79,2026-08-17,"Senior / Lead, Tech Sales",À postuler
+86,Atlassian Senior Consultant - Cloud Practice,VALIANTYS,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=b481580652c2e869,2026-08-17,"Senior / Lead, AI / IA, Cloud, Tech Sales",À postuler
+87,Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations),Databricks,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=02f82f9eac43b66b,2026-08-17,"Senior / Lead, Data, Tech Sales",À postuler
+88,Senior Product Manager (copy),Deliverect,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=34ec920e1a47884e,2026-08-17,"Senior / Lead, Tech Sales",À postuler
+89,Customer Success Manager,Shippeo,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=ce3239a1654d7635,2026-08-17,Tech Sales,À postuler
+90,Ad operations manager,GlobalNodes,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=6ea512422e34a7ab,2026-08-17,Tech Sales,À postuler
+91,Regional Sales Manager,Cisco,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=d0a266ca8cf5b473,2026-08-17,Tech Sales,À postuler
+92,Senior Full-stack Engineer,Prose,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=e21a3facaa57522e,2026-08-14,"Senior / Lead, Tech Sales",À postuler
+93,"Senior Independent Sales Consultant - Rokt Ads, France (Independent Con",mParticle,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=de85c3dc86921504,2026-08-14,"Senior / Lead, Tech Sales",À postuler
+94,Lakebase Sales Associate Director,Databricks,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=921a62cefd862a51,2026-08-13,"Senior / Lead, AI / IA, Tech Sales",À postuler
+95,"Senior Systems Engineer, Global Accounts",Nutanix,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=8d7a0439921c817a,2026-08-13,"Senior / Lead, Tech Sales",À postuler
+96,SRE Engineering Manager,GitGuardian,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=1aad76afaf811f6e,2026-08-13,Tech Sales,À postuler
+97,Enterprise Architect - Data & AI,Arago Consulting,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=85d4347f7eb9dbbe,2026-08-13,"AI / IA, Data, Tech Sales",À postuler
+98,Senior Platform Architect,Zendesk,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=06c39853ac180a4f,2026-08-13,"Senior / Lead, Tech Sales",À postuler
+99,Senior Customer Success Manager - Enterprise,Gorgias,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=3bec55f1939471e6,2026-08-12,"Senior / Lead, Tech Sales",À postuler
+100,Sales Strategy Analyst,Salesforce,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=2d4dca5389b5a01e,2026-08-12,Tech Sales,À postuler
+101,AI Sales specialist,Check Point Software Technologies,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=f70c109a29db1f77,2026-08-12,"AI / IA, Sales Specialist",À postuler
+102,Sales Enablement Manager,Mirakl,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=060e2695d7b62a16,2026-08-12,Tech Sales,À postuler
+103,"Solutions Engineer, Expert",Keysight Technologies,"Les Ulis, A8, FR",https://fr.indeed.com/viewjob?jk=e3201907265e53bd,2026-08-11,Tech Sales,À postuler
+104,Finance and Portfolio Associate,nan,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=c5e75da4de93733a,2026-08-11,"AI / IA, Tech Sales",À postuler
+105,CDI - GLOBAL STRATEGY & INSIGHTS MANAGER - PARIS (M/F),Danone,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=ff0090e5b17d172c,2026-07-21,Tech Sales,À postuler
+106,EMEA Strategic AI Ecosystem & NVIDIA Business Development Lead,DDN,"Meudon, Île-de-France, France",https://www.linkedin.com/jobs/view/4451898656,2026-08-14,"Senior / Lead, AI / IA, Tech Sales",À postuler
+107,AI-Modernisation - Sales AI Lead - CDI Paris - Theodo,Theodo,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4368830252,2026-08-14,"Senior / Lead, AI / IA, Tech Sales",À postuler
+108,Sr Account Executive,Genesys,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4344394130,2026-08-14,Account Executive,À postuler
+109,Account Executive - France,Neural Concept,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4385457517,2026-08-13,Account Executive,À postuler
+110,"Account Executive Enterprise, GSI",Mistral,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4453360506,2026-08-12,Account Executive,À postuler
+111,"Enterprise Account Executive, Paris",Hightouch,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443579293,2026-08-12,Account Executive,À postuler
+112,Founding Account Executive (M/F),Yourban.ai,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4451915939,2026-08-11,Account Executive,À postuler
+113,"Director/Senior Director, Strategic Solutions",C3 AI,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4430620498,2026-08-09,"Senior / Lead, Tech Sales",À postuler
+114,Senior Client Growth Partner – AI Transformation,Nagarro,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4451015510,2026-08-08,"Senior / Lead, AI / IA, Tech Sales",À postuler
+115,Account Executive (founding team),Raison,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448053604,2026-08-05,Account Executive,À postuler
+116,Regional GM - France,Unframe,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448837777,2026-08-04,Tech Sales,À postuler
+117,Business Development Manager - EU Market,SmartDev,"Versailles, Île-de-France, France",https://www.linkedin.com/jobs/view/4448838876,2026-08-04,Tech Sales,À postuler
+118,Senior AI Sales Representative,Atos,"Bezons, Île-de-France, France",https://www.linkedin.com/jobs/view/4446655814,2026-08-04,"Senior / Lead, AI / IA, Tech Sales",À postuler
+119,Senior AI Sales Specialist (F/H),Atos,"Bezons, Île-de-France, France",https://www.linkedin.com/jobs/view/4446237730,2026-08-03,"Senior / Lead, AI / IA, Sales Specialist",À postuler
+120,Account Executive - Enterprise,H Company,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4391090612,2026-08-01,Account Executive,À postuler
+121,Enterprise Account Executive - France,Verkada,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4389261738,2026-07-29,Account Executive,À postuler
+122,Senior Enterprise Account Executive – Robotics & Physical AI,XXII,"Puteaux, Île-de-France, France",https://www.linkedin.com/jobs/view/4453901852,2026-07-21,"Senior / Lead, AI / IA, Account Executive",À postuler
+123,Senior Client Executive - Neo Cloud,NetApp,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448470087,nan,"Senior / Lead, Cloud, Tech Sales",À postuler
+124,Installation Engineer - Europe,Applied Materials,"Bernin, ARA, FR",https://fr.indeed.com/viewjob?jk=c89369a30a897c9e,2026-08-17,Tech Sales,À postuler
+125,Regional Field Marketing Manager - Southern Europe,Veeam Software,"Télétravail, FR",https://fr.indeed.com/viewjob?jk=34daab2ac7546681,2026-08-14,Tech Sales,À postuler
+126,Senior AI Creative Designer,CapsLock,"GE, FR",https://fr.indeed.com/viewjob?jk=6bc82ce8ff44bd6c,2026-08-13,"Senior / Lead, AI / IA, Tech Sales",À postuler
+127,Senior Android Engineer,IDT Corporation,"GE, FR",https://fr.indeed.com/viewjob?jk=43cf740e88becf4b,2026-05-15,"Senior / Lead, Tech Sales",À postuler
+128,Lead Data & AI - H/F/X,delaware France,"Villeurbanne, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4398274112,2026-08-14,"Senior / Lead, AI / IA, Data, Tech Sales",À postuler
+129,AI & Business Transformation Lead- EMEA,Boomi,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4449864203,2026-08-11,"Senior / Lead, AI / IA, Tech Sales",À postuler
+130,"Principal, Strategic AI Advisory EMEA",Boomi,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4452402909,2026-08-11,"AI / IA, Tech Sales",À postuler
+131,"Founder Advocate, EMEA Startup, Google Cloud",Google,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4451402476,2026-08-10,"Cloud, Tech Sales",À postuler
+132,"Regional Client Partner, Ads Solutions",OpenAI,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4441109653,2026-08-07,Tech Sales,À postuler
+133,Strategic Core Account Executive,Databricks,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445099646,2026-07-31,Account Executive,À postuler
+134,"Account Executive Enterprise, GSI",Headline - Asia,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4454235591,nan,Account Executive,À postuler
+135,"Applied AI Architect, Partnerships",Anthropic,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=58cfd295f83fcf43,2026-08-17,"AI / IA, Tech Sales",À postuler
+136,Events & Field Marketing Manager,Toggl,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=84f75ba8bef24b05,2026-08-17,Tech Sales,À postuler
+137,Senior Technical Success Manager - Enterprise Accounts,Darktrace,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=b1f6e45c93abeb1b,2026-08-14,"Senior / Lead, Tech Sales",À postuler
+138,Global Customer Marketing Manager,Ivalua,"Massy, A8, FR",https://fr.indeed.com/viewjob?jk=214af03e01d67b81,2026-08-12,Tech Sales,À postuler
+139,"Account Executive Enterprise, GSI",Mistral AI,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=2a45d55c6ed1942a,2026-08-12,Account Executive,À postuler
+140,Sales Account Executive US & EMEA (F/H),Sociabble,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=02688f87e8867bdb,2026-08-12,Account Executive,À postuler
+141,Account Executive Expansion - CDI - Full Remote - M/F/D,Partoo,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=8ad7e60f6dad8a38,2026-08-11,Account Executive,À postuler
+142,Go-To-Market Lead (GTM) - Insurance Solutions,Visa,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=b860bb0aa1e81263,2026-08-11,"Senior / Lead, Tech Sales",À postuler
+143,"Partner Solutions Engineer, Southern Europe",Cribl,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=8f1a23f3f715c57f,2026-08-11,Tech Sales,À postuler
+144,Sales Engineer - Telco & Media,Equinix,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=2edc6a35c9e6cac1,2026-08-10,"AI / IA, Tech Sales",À postuler
+145,"Solutions Architect, EMEA Startups — France",Databricks,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=5d7946089757fb7f,2026-08-07,Tech Sales,À postuler
+146,Account Executive I,SBS,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=32c644f98d7243c1,2026-08-07,Account Executive,À postuler
+147,"Account Manager, SME & Growth (French-speaking)",Airwallex,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=edd30bb408789088,2026-08-07,Tech Sales,À postuler
+148,ACCOUNT EXECUTIVE ENTERPRISE,STATION F,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4453758584,2026-08-15,Account Executive,À postuler
+149,"Commercial Account Executive, DACH",Algolia,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4395481944,2026-08-14,"AI / IA, Account Executive",À postuler
+150,Account Executive Enterprise - SaaS B2B,Stakha,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4453126295,2026-08-12,Account Executive,À postuler
+151,Enterprise Account Executive - France,Kong,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4423021666,2026-08-07,Account Executive,À postuler
+152,Enterprise Account Executive,Qlik,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4381000453,2026-08-01,Account Executive,À postuler
+153,Account Executive - Agentforce Service,Salesforce,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4419854722,2026-08-01,Account Executive,À postuler
+154,Account Executive,Volta Software,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4447126930,2026-07-31,Account Executive,À postuler
+155,Account Executive,Gladia,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4444127356,2026-07-29,Account Executive,À postuler
+156,Account Executive SMB (SaaS B2B),Rivage,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443249343,2026-07-28,Account Executive,À postuler
+157,100k+ OTE Account Executive in B2B SaaS,DialedIn Recruiting,Île-de-France / France,https://www.linkedin.com/jobs/view/4452264445,nan,Account Executive,À postuler
+158,Customer Retention Manager,Upsun (via Remote Woman),"Télétravail, FR",https://fr.indeed.com/viewjob?jk=da55236b07cd3efd,2026-08-07,Tech Sales,À postuler
+159,Customer Retention Manager,Platform.sh,"Télétravail, FR",https://fr.indeed.com/viewjob?jk=b0932ed3e4894b17,2026-08-07,Tech Sales,À postuler
+160,Account Manager,PEBL,"Eu, N, FR",https://fr.indeed.com/viewjob?jk=3cf5385ff692c68a,2026-08-07,Tech Sales,À postuler
+161,"Enterprise Account Executive, Paris France",Rubrik,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4434001067,2026-08-08,Account Executive,À postuler
+162,Strategic Account Executive - Paris,Datadog,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4342684657,2026-08-04,Account Executive,À postuler
+163,"Executive Account Manager – IA, Copilot & Solutions Microsoft",Witivio - AI Solutions for Microsoft 365,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4444943352,2026-07-24,"AI / IA, Tech Sales",À postuler
+164,Business Developer Junior (SDR) – Conseil Data & IA,Saegus,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=4a93173860e2c871,2026-08-17,"AI / IA, Data, BizDev",À postuler
+165,Stage Assistant Commercial / Business Developer (6 mois),studioworks,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=8d5c888f21c111bb,2026-08-17,"AI / IA, BizDev",À postuler
+166,Stage Business Developer,JuneCare,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=fe4a5585cdac9b4b,2026-08-15,BizDev,À postuler
+167,Stage 8 semaines - BDR / Business Developer Junior,Munemjo Entertainment,"Saint-Denis, A8, FR",https://fr.indeed.com/viewjob?jk=b9877aa502ae8f07,2026-08-13,"AI / IA, BizDev",À postuler
+168,[VO2 Finance] - IT QUANT,VO2 GROUP,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=fa771f771660005a,2026-08-06,Tech Sales,À postuler
+169,Stage – Business Developer (H/F) – 6 mois,Crystalchain,"Paris 8e, A8, FR",https://fr.indeed.com/viewjob?jk=796629bc2c4b1f38,2026-08-03,BizDev,À postuler
+170,KERING BI Developer,Kering,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=ce53f5d5bc9e67dc,2026-08-03,Tech Sales,À postuler
+171,Business Developer – Projets & Innovation IA - F/H - Paris,PMC LINGERIE,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=f4d4fd9728c6995b,2026-08-03,"AI / IA, BizDev",À postuler
+172,Business Developer Junior H/F,Wedocom,"Paris 7e, A8, FR",https://fr.indeed.com/viewjob?jk=2bb6e058c4610d3b,2026-08-03,BizDev,À postuler
+173,Commercial / business developer,BR formations,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=50a9514956e59e39,2026-07-31,"AI / IA, BizDev",À postuler
+174,Business Developer Data & IA H/F,Jems Group,"Levallois-Perret, A8, FR",https://fr.indeed.com/viewjob?jk=b8dc923c18f97057,2026-07-31,"AI / IA, Data, BizDev",À postuler
+175,Business Developer Senior Cloud & Solutions Souveraines F/H,Outscale,"Saint-Cloud, A8, FR",https://fr.indeed.com/viewjob?jk=00c9a9ead7564c5f,2026-07-30,"Senior / Lead, AI / IA, Cloud, BizDev",À postuler
+176,KERING Tech Lead,Kering,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=4675bdf9d37a5501,2026-07-30,"Senior / Lead, Tech Sales",À postuler
+177,KERING Full-Stack Developer,Kering,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=b45e6be37e3b2552,2026-07-30,Tech Sales,À postuler
+178,KERING Integration Streaming Engineer,Kering,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=fac3aa576560b529,2026-07-30,Tech Sales,À postuler
+179,Business Developer H/F,DCS EASYWARE,"Ivry-sur-Seine, A8, FR",https://fr.indeed.com/viewjob?jk=638ccb2fa7dbd06d,2026-07-29,BizDev,À postuler
+180,Ingénieure commerciale / Ingénieur commercial aéronautique,Capgemini,"Issy-les-Moulineaux, A8, FR",https://fr.indeed.com/viewjob?jk=c669805592f0c368,2026-07-29,"AI / IA, Tech Sales",À postuler
+181,Incubateur Start-up - Business Developer - Stage de 6 mois (F/H/X),Verisure,"Antony, A8, FR",https://fr.indeed.com/viewjob?jk=4319e8f95efa6302,2026-07-28,BizDev,À postuler
+182,Assistant Business developer,FINANCE INNOVATION,"Paris 2e, A8, FR",https://fr.indeed.com/viewjob?jk=4ae6c6063bf718ae,2026-07-28,BizDev,À postuler
+183,Stage Commercial – Klark,Klark,"Chessy, A8, FR",https://fr.indeed.com/viewjob?jk=f581715287d4fc77,2026-07-27,"AI / IA, Tech Sales",À postuler
+184,Senior Forward Deployed Engineer,Salesforce,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=24978c80c994d51a,2026-07-24,"Senior / Lead, Tech Sales",À postuler
+185,Forward Deployed Engineer,Salesforce,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=2667edd3facd727e,2026-07-23,Tech Sales,À postuler
+186,Sr System Program Developer II,SBS,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=164008e007b4b8dd,2026-07-23,Tech Sales,À postuler
+187,Senior System Program Developer I,SBS,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=839ce18a1d872ea4,2026-07-23,"Senior / Lead, Tech Sales",À postuler
+188,Business Developer,Syngenia,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4417147206,2026-08-15,BizDev,À postuler
+189,International Business Developer (M/F/D),JobTeaser,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4453068937,2026-08-12,BizDev,À postuler
+190,International Business Developer (H/F),Mondassur,"Boulogne-Billancourt, Île-de-France, France",https://www.linkedin.com/jobs/view/4301511944,2026-08-10,BizDev,À postuler
+191,France Business Developer Defense,Harmattan AI,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4392378147,2026-08-09,BizDev,À postuler
+192,Business Manager,Lùkla,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4361832897,2026-08-07,Tech Sales,À postuler
+193,Business Manager (H/F),Cellenza,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4447343714,2026-08-05,Tech Sales,À postuler
+194,Business Developper (H/F),JPB SYSTEME,"Montereau-sur-le-Jard, Île-de-France, France",https://www.linkedin.com/jobs/view/4440585859,2026-08-05,Tech Sales,À postuler
+195,"Account Executive, Mid Market, EMEA (Spanish Speaker)",Harvey,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4430575594,2026-08-04,Account Executive,À postuler
+196,Business Development Representative - Spanish Speaking,Prelude,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4446594037,2026-07-29,Tech Sales,À postuler
+197,Business Developer - Spanish Market H/F,Leonar,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445487364,2026-07-28,BizDev,À postuler
+198,Business Developer - UK Market,Leonar,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445478419,2026-07-28,BizDev,À postuler
+199,Business Developer B2B (H/F),Langano Technologies,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443919381,2026-07-27,BizDev,À postuler
+200,Business Developer H/F,LSA Commerce & Consommation,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4441032906,2026-07-22,BizDev,À postuler
+201,Business Developer H/F,Michael Page,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443331739,2026-07-21,BizDev,À postuler
+202,Business Development Manager,Founders Consulting,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443087379,2026-07-21,Tech Sales,À postuler
+203,Southern Europe Business developer M/F,TRANSATEL (an NTT company),"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4452242546,nan,BizDev,À postuler
+204,Commercial export (H/F),UPTOO,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4454273195,nan,"AI / IA, Tech Sales",À postuler
+205,Business Manager H/F,KP2i,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4383711293,nan,Tech Sales,À postuler
+206,CDI Business Developer (H/F) - CDI,Les Bons Artisans,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4454276510,nan,BizDev,À postuler
+207,Account Developer F/H,APIXIT,"Illkirch-Graffenstaden, GE, FR",https://fr.indeed.com/viewjob?jk=e50d4fafa8d5a0b1,2026-08-14,Tech Sales,À postuler
+208,Commercial / Conseiller Relation Client en alternance (BTS NDRC) – H/F,SPORT 4.0,"Pertuis, B8, FR",https://fr.indeed.com/viewjob?jk=735c37f107a060a5,2026-08-14,"AI / IA, Tech Sales",À postuler
+209,Business Developer H/F,nan,"Toulouse, O, FR",https://fr.indeed.com/viewjob?jk=f4d338dd76528e04,2026-08-13,BizDev,À postuler
+210,Alternant(e) Commercial(e) Sédentaire & Growth / Business Developer (H/F),MYALFRED,"Moirans, ARA, FR",https://fr.indeed.com/viewjob?jk=11bba4ad74988589,2026-08-13,"AI / IA, BizDev",À postuler
+211,"SDR / Business Developer B2B – Prospection, IA et télévente H/F",DataIPA,"Lyon, ARA, FR",https://fr.indeed.com/viewjob?jk=c2cc6a0983ed93ba,2026-08-05,"AI / IA, BizDev",À postuler
+212,Assistant Développement Commercial H/F,Olga,"Noyal-sur-Vilaine, A2, FR",https://fr.indeed.com/viewjob?jk=cef3d2ca162a2ca9,2026-08-03,"AI / IA, Tech Sales",À postuler
+213,Casino Business Development Expert F/M,Betclic Group,"Bordeaux, Nouvelle-Aquitaine, France",https://www.linkedin.com/jobs/view/4295912106,2026-08-16,Tech Sales,À postuler
+214,Business Developer IT F/H,AIS,"Toulouse, Occitanie, France",https://www.linkedin.com/jobs/view/4454397824,2026-08-14,BizDev,À postuler
+215,BUSINESS DEVELOPER FLEX H/F,CNP Assurances Protection Sociale,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448874226,2026-08-04,BizDev,À postuler
+216,BUSINESS DEVELOPER EUROPE (H/F),FLYING WHALES,"Suresnes, Île-de-France, France",https://www.linkedin.com/jobs/view/4448863797,2026-08-04,BizDev,À postuler
+217,Ingénieur d'affaires H/F,ACENSI,"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4424405502,2026-07-31,"AI / IA, Tech Sales",À postuler
+218,Business Development Manager,Asenium Consulting,"Toulouse, Occitanie, France",https://www.linkedin.com/jobs/view/4447270931,2026-07-31,Tech Sales,À postuler
+219,Business Developper Manager IA F/H,Bechtle,"Illkirch-Graffenstaden, Grand Est, France",https://www.linkedin.com/jobs/view/4443603453,2026-07-28,"AI / IA, Tech Sales",À postuler
+220,CDI - Business Developer,HeadMind Partners,Île-de-France / France,https://www.linkedin.com/jobs/view/4406491100,2026-07-27,BizDev,À postuler
+221,Chargé de développement commercial spécialisé Immobilier H/F,VERLINGUE,"Neuilly-sur-Seine, Île-de-France, France",https://www.linkedin.com/jobs/view/4444951292,2026-07-24,"AI / IA, Tech Sales",À postuler
+222,Business Developer (H/F) | Hauts-de-Seine (92),MAVEN Recrutement,"Nanterre, Île-de-France, France",https://www.linkedin.com/jobs/view/4442221016,2026-07-20,BizDev,À postuler
+223,Commercial/Commerciale,ACCILE,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4455261520,nan,"AI / IA, Tech Sales",À postuler
+224,Business Developer / Commercial.e Hôtels (m/f/d),Voyage Privé,"Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4455253867,nan,"AI / IA, BizDev",À postuler
+225,Go-to-market Enablement Intern,MAPAL GROUP,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=de45db768130f4e0,2026-08-14,Tech Sales,À postuler
+226,Product Learning Specialist,D-EDGE,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=4535c01642496e26,2026-08-11,"AI / IA, Sales Specialist",À postuler
+227,Renewal Specialist,NetApp,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=a318e8bad9d693ac,2026-08-08,"AI / IA, Sales Specialist",À postuler
+228,Freelance Revenue Operations Specialist M/F/Mx,Trustpair,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=66ba16f8ff7d3117,2026-08-07,"AI / IA, Sales Specialist",À postuler
+229,Associate Director - Workflow Specialist - Compliance & 3rd Party Risk,Moody's,"Puteaux, A8, FR",https://fr.indeed.com/viewjob?jk=1bd7e74dac544eac,2026-08-06,"Senior / Lead, AI / IA, Sales Specialist",À postuler
+230,Sales & Commercial Intern,Quadpack,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=9b86c842299c3a7a,2026-08-06,"AI / IA, Tech Sales",À postuler
+231,Head of Sales IA et Infrastructures Cloud H/F,Eviden,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=48978f13c8606c22,2026-08-05,"Senior / Lead, AI / IA, Cloud, Tech Sales",À postuler
+232,Senior Lead Consultant (H/F),ADP,"Nanterre, A8, FR",https://fr.indeed.com/viewjob?jk=905227fcd1c7ec5e,2026-08-03,"Senior / Lead, Tech Sales",À postuler
+233,"Manager, Technical Builders",Salesforce,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=7402bbef78273e5a,2026-08-03,Tech Sales,À postuler
+234,"Manager, Strategic Builders",Salesforce,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=9e53a8bd41741807,2026-08-03,Tech Sales,À postuler
+235,"Solutions Architect, Graduate Program",NVIDIA,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=71e578f2bac649ad,2026-08-02,Tech Sales,À postuler
+236,Customer Intelligence Specialist,Hager,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=81512f2d2aad9712,2026-08-01,"AI / IA, Sales Specialist",À postuler
+237,ACCOUNT MANAGER SPECIALIST H/F,SCC FRANCE,"Nanterre, A8, FR",https://fr.indeed.com/viewjob?jk=5e5c6f6ae01dcf47,2026-07-30,"AI / IA, Sales Specialist",À postuler
+238,Digital Marketing Specialist - HVAC Solutions Europe (m/f/d),LG Chem,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=045832d8662f0f76,2026-07-29,"AI / IA, Sales Specialist",À postuler
+239,Digital Marketing Specialist - HVAC Solutions Europe (m/f/d),LG Electronics,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=60156556e49650ad,2026-07-29,"AI / IA, Sales Specialist",À postuler
+240,"GenAI Sales Specialist, AWS Specialists Team",Amazon Web Services,"Courbevoie, A8, FR",https://fr.indeed.com/viewjob?jk=3f316806a112dd47,2026-07-29,"Generative AI, Cloud, Sales Specialist",À postuler
+241,CDD - Consultant « Data/IA » F/H,MasOrange,"Châtillon, A8, FR",https://fr.indeed.com/viewjob?jk=4003d0c3d83d5cb0,2026-07-29,"AI / IA, Data, Tech Sales",À postuler
+242,Data Centre Technology Sales Specialist,"NTT DATA, Inc.","Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4422711369,2026-08-14,"AI / IA, Data, Sales Specialist",À postuler
+243,Solutions Engineer,Treasure AI,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4450880005,2026-08-14,Tech Sales,À postuler
+244,Business Manager — AI & Data — Full-Cycle,MP DATA,"Boulogne-Billancourt, Île-de-France, France",https://www.linkedin.com/jobs/view/4453229162,2026-08-13,"AI / IA, Data, Tech Sales",À postuler
+245,Pre-Sales Solutions Architect - AI & GPU Infrastructure,Scaleway,"Saint-Ouen-l’Aumône, Île-de-France, France",https://www.linkedin.com/jobs/view/4420712148,2026-08-08,"AI / IA, Tech Sales",À postuler
+246,Enterprise Sales Engineer - Paris,Datadog,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4378849670,2026-08-06,Tech Sales,À postuler
+247,Account Manager Data & IA(H/F/NB),Keyrus,"Levallois-Perret, Île-de-France, France",https://www.linkedin.com/jobs/view/4433023063,2026-07-30,"AI / IA, Data, Tech Sales",À postuler
+248,HRIS & AI Tech Pre-Sales Specialist,Arago,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4443931983,2026-07-22,"AI / IA, Sales Specialist",À postuler
+249,Digital Sales Consultant,SICK Sensor Intelligence,"Île-de-France, France",https://www.linkedin.com/jobs/view/4443932984,2026-07-22,Tech Sales,À postuler
+250,Applied AI - Commercial Excellence,耐克森中国,"Puteaux, Île-de-France, France",https://www.linkedin.com/jobs/view/4443591672,2026-07-22,"AI / IA, Tech Sales",À postuler
+251,Sales Specialist Solutions - Data Center & Hybrid H/F,Computacenter,Île-de-France / France,https://www.linkedin.com/jobs/view/4442723540,2026-07-20,"AI / IA, Data, Sales Specialist",À postuler
+252,Head of Sales IA et Infrastructures Cloud H/F,Atos,"Bordeaux, NA, FR",https://fr.indeed.com/viewjob?jk=34b45168452f0914,2026-08-05,"Senior / Lead, AI / IA, Cloud, Tech Sales",À postuler
+253,Account Manager Specialist AI Infrastructure (H/F),SCC France,"Nanterre, Île-de-France, France",https://www.linkedin.com/jobs/view/4446727850,2026-07-30,"AI / IA, Sales Specialist",À postuler
+254,Sales Enablement & Data Specialist,Silk,"Sales, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4446107229,2026-07-27,"AI / IA, Data, Sales Specialist",À postuler
+255,Forward Deployed Engineer,Anthropic,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=7ef33790dcf84579,2026-08-17,Tech Sales,À postuler
+256,Ingénieur commercial(e) vente indirecte IT,NOWBrains,"Paris 9e, A8, FR",https://fr.indeed.com/viewjob?jk=a92058b310701cbd,2026-08-17,"AI / IA, Tech Sales",À postuler
+257,Ingénieur commercial - Sécurité électronique (H/F),DFM,"Créteil, A8, FR",https://fr.indeed.com/viewjob?jk=602db6e428a5a3a6,2026-08-14,"AI / IA, Tech Sales",À postuler
+258,Chargé de compte clients (H/F),DFM,"Créteil, A8, FR",https://fr.indeed.com/viewjob?jk=0f94a9ce68cffe79,2026-08-14,Tech Sales,À postuler
+259,Program Manager IS IT H/F,Thales,"Élancourt, A8, FR",https://fr.indeed.com/viewjob?jk=5ec1f8502fc3f07d,2026-08-13,Tech Sales,À postuler
+260,Consultant Senior en Financement de l'Innovation - Spé IT/Data - H/F,Visiativ,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=b7b38e76372f163a,2026-08-12,"Senior / Lead, Data, Tech Sales",À postuler
+261,"Associé CTO Développeur et architecte produit/deeptech EXPERIMENTE, IA appliquée, Image, souveraineté, défense informationnelle, communication stratégique",MUSEIA,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=e766879a67167299,2026-08-06,"AI / IA, Tech Sales",À postuler
+262,Gestionnaire de formation F/H,Ionis Education Group,"Ivry-sur-Seine, A8, FR",https://fr.indeed.com/viewjob?jk=a19c738e24584ad9,2026-08-05,"AI / IA, Tech Sales",À postuler
+263,Lead Tech Data IA - F/H,niji,"Issy-les-Moulineaux, A8, FR",https://fr.indeed.com/viewjob?jk=efd09452f321d42e,2026-08-03,"Senior / Lead, AI / IA, Data, Tech Sales",À postuler
+264,Responsable Développement Commercial F/H,EPITA,"Puteaux, A8, FR",https://fr.indeed.com/viewjob?jk=95dec4080eaa1dfd,2026-08-03,"AI / IA, Tech Sales",À postuler
+265,Responsable Développement Commercial F/H,Ionis Education Group,"Puteaux, A8, FR",https://fr.indeed.com/viewjob?jk=79dd4a60b51e694e,2026-08-03,"AI / IA, Tech Sales",À postuler
+266,Spécialiste des ventes – Solutions de conception – France & Espagne (H/F/*),3M,"Cergy-Pontoise, A8, FR",https://fr.indeed.com/viewjob?jk=26561e7af283036d,2026-07-31,"AI / IA, Tech Sales",À postuler
+267,"Consultant Junior en Systèmes d’Information, IA et transformation numérique territoriale H/F",TACTIS,"Vincennes, A8, FR",https://fr.indeed.com/viewjob?jk=1e71999f6073995f,2026-07-30,"AI / IA, Tech Sales",À postuler
+268,Ingénieur/Ingénieure d'Affaires IT H/F,SPIE,"Malakoff, A8, FR",https://fr.indeed.com/viewjob?jk=665b1815696e7647,2026-07-29,"AI / IA, Tech Sales",À postuler
+269,Responsable d'Offres & Développement Commercial IA,Capgemini,"Issy-les-Moulineaux, A8, FR",https://fr.indeed.com/viewjob?jk=6e1bf221f4bb6751,2026-07-29,"AI / IA, Tech Sales",À postuler
+270,Ingénieur Commercial Impression (H/F),DFM,"Créteil, A8, FR",https://fr.indeed.com/viewjob?jk=97fe914416f3d7be,2026-07-29,"AI / IA, Tech Sales",À postuler
+271,STAGIAIRE Ingénieur - Exploration et prototypage technos IA émergente,ENGIE,"Stains, A8, FR",https://fr.indeed.com/viewjob?jk=03807af43aa540e4,2026-07-28,"AI / IA, Tech Sales",À postuler
+272,Ingénieur électronique et informatique industrielle,CRMA Aero Repair,"Élancourt, A8, FR",https://fr.indeed.com/viewjob?jk=dbeeae426192645c,2026-07-27,Tech Sales,À postuler
+273,Consultant(e) Product Owner - Transport H/F,MC2I,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=7d32ade9d3bd8c0b,2026-07-27,Tech Sales,À postuler
+274,Consultant Conversion Rate Optimization H/F,SYD GROUPE,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=db8e674332f1b8a0,2026-07-24,Tech Sales,À postuler
+275,Solution Engineer - France,Neural Concept,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4441517706,2026-08-14,Tech Sales,À postuler
+276,Machine Learning Engineer,WHIZE,"Neuilly-sur-Seine, Île-de-France, France",https://www.linkedin.com/jobs/view/4453587455,2026-08-14,Tech Sales,À postuler
+277,AI Engineer Expert,AXA Group Operations,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4444453470,2026-08-13,"AI / IA, Tech Sales",À postuler
+278,Applied AI - Commercial Excellence,Nexans,"Puteaux, Île-de-France, France",https://www.linkedin.com/jobs/view/4443728236,2026-08-12,"AI / IA, Tech Sales",À postuler
+279,AI Solutions engineer,Novaspace,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4451834015,2026-08-10,"AI / IA, Tech Sales",À postuler
+280,AI Engineer,Mayday,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4451157437,2026-08-10,"AI / IA, Tech Sales",À postuler
+281,AI Product Engineer,Evaneos,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4426236433,2026-08-07,"AI / IA, Tech Sales",À postuler
+282,AI Business Strategy Manager,Nexans,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448415361,2026-08-06,"AI / IA, Tech Sales",À postuler
+283,Ingénieur IA - H/F,ATEXIS,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4450205713,2026-08-06,"AI / IA, Tech Sales",À postuler
+284,Forward Deployed Engineer,Beamy,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448305389,2026-08-03,Tech Sales,À postuler
+285,KERING AI Engineer,Kering,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4447548330,2026-07-31,"AI / IA, Tech Sales",À postuler
+286,Forward Deployed Engineer,H Company,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4407761868,2026-07-29,Tech Sales,À postuler
+287,AI & Digital Innovation Specialist,HADDAD BRANDS EUROPE,"St.-Denis, Île-de-France, France",https://www.linkedin.com/jobs/view/4445752649,2026-07-28,"AI / IA, Sales Specialist",À postuler
+288,AI Engineer,Pixid,"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4444316506,2026-07-24,"AI / IA, Tech Sales",À postuler
+289,Artificial Intelligence Engineer,Pixid,"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4444921884,2026-07-24,"AI / IA, Tech Sales",À postuler
+290,AI Engineer,Galadrim,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4454254272,2026-07-23,"AI / IA, Tech Sales",À postuler
+291,Applied AI Engineer,Beamy,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4442719887,2026-07-20,"AI / IA, Tech Sales",À postuler
+292,Applied AI Engineer,Sia,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4442594238,2026-07-20,"AI / IA, Tech Sales",À postuler
+293,CDI - IA Solution Engineer (H/F),Hermès,"Pantin, Île-de-France, France",https://www.linkedin.com/jobs/view/4407698236,nan,"AI / IA, Tech Sales",À postuler
+294,Ingénieur solutions/Ingénieure solutions,M ALMATECH,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4455281036,nan,Tech Sales,À postuler
+295,MANAGER R&D et INNOVATION H/F,L'industrie recrute,"Veurey-Voroize, ARA, FR",https://fr.indeed.com/viewjob?jk=0ed3f1661ea9a37c,2026-08-17,Tech Sales,À postuler
+296,Responsable process F/H,KERMENÉ,"Trélivan, A2, FR",https://fr.indeed.com/viewjob?jk=67f5a98b85795fad,2026-08-17,Tech Sales,À postuler
+297,PMO Infrastructure & Réseaux H/F,SYD GROUPE,"Caen, N, FR",https://fr.indeed.com/viewjob?jk=48a980233e3f3d25,2026-08-17,Tech Sales,À postuler
+298,Chef de Projet Technique Infrastructure & Réseaux H/F,SYD GROUPE,"Caen, N, FR",https://fr.indeed.com/viewjob?jk=a599e7cd6dcf129c,2026-08-17,Tech Sales,À postuler
+299,Manager Régional – Conseil en Performance des Entreprises F/H,Visiativ,"Lyon, ARA, FR",https://fr.indeed.com/viewjob?jk=bfd81cbf22d875d6,2026-08-17,Tech Sales,À postuler
+300,Administrateur Systèmes Linux Confirmé / Expert Linux Workplace H/F,SYD GROUPE,"Nantes, B5, FR",https://fr.indeed.com/viewjob?jk=54824b3f49496afd,2026-08-13,Tech Sales,À postuler
+301,Alternant Cybersécurité IA générative H/F à Lille,iQanto,"Villeneuve-d'Ascq, HDF, FR",https://fr.indeed.com/viewjob?jk=be0eec8c8c403f2e,2026-08-13,"AI / IA, Tech Sales",À postuler
+302,Responsable R&D Cosmétique H/F,EA PHARMA,"Mougins, B8, FR",https://fr.indeed.com/viewjob?jk=b6891f1a7db91a9e,2026-08-12,Tech Sales,À postuler
+303,Ingénieur commercial en Sécurité électronique (H/F),DFM,"Saint-Priest, ARA, FR",https://fr.indeed.com/viewjob?jk=77e2bb95aca047b5,2026-08-12,"AI / IA, Tech Sales",À postuler
+304,Ingénieur(e) IA Appliquée & Enablement (H/F),DENTALSOFT,"Dijon, BFC, FR",https://fr.indeed.com/viewjob?jk=678166728fa60eb3,2026-08-12,"AI / IA, Tech Sales",À postuler
+305,Ingénieur commercial (IT-Télécom-Impression) (H/F) - Lille,DFM,"Villeneuve-d'Ascq, HDF, FR",https://fr.indeed.com/viewjob?jk=8866abadcdae69f7,2026-08-10,"AI / IA, Tech Sales",À postuler
+306,Responsable planification semences commerciales France FR/ENG (H/F) - CDI,Syngenta,"Saint-Sauveur, O, FR",https://fr.indeed.com/viewjob?jk=c171b4353b97e0e8,2026-08-05,"AI / IA, Tech Sales",À postuler
+307,Product builder IA,DIGITALISIM,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4452737870,2026-08-12,"AI / IA, Tech Sales",À postuler
+308,CONSULTANT IA & PORTEUR D’OFFRE (H/F),Next Décision,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4452110464,2026-08-11,"AI / IA, Tech Sales",À postuler
+309,Ingénieur(e) IA générative,Innova Solutions,"Valbonne, Provence-Alpes-Côte d'Azur, France",https://www.linkedin.com/jobs/view/4448434538,2026-08-06,"AI / IA, Tech Sales",À postuler
+310,Ingénieur IA,CEVA SANTE ANIMALE,"Libourne, Nouvelle-Aquitaine, France",https://www.linkedin.com/jobs/view/4448948047,2026-08-05,"AI / IA, Tech Sales",À postuler
+311,AI Consultant H/F/NB,Keyrus,"Bordeaux, Nouvelle-Aquitaine, France",https://www.linkedin.com/jobs/view/4439986587,2026-08-05,"AI / IA, Tech Sales",À postuler
+312,Ingénieur IA F/H,GROUPE PIERREVAL,"Plérin, Brittany, France",https://www.linkedin.com/jobs/view/4446641963,2026-08-04,"AI / IA, Tech Sales",À postuler
+313,Strategic Partnership Manager,BCIHC Inc.,"Le Tech, Occitanie, France",https://www.linkedin.com/jobs/view/4448811681,2026-08-04,Tech Sales,À postuler
+314,AI Engineer (H/F/NB),Keyrus,"Bordeaux, Nouvelle-Aquitaine, France",https://www.linkedin.com/jobs/view/4437560092,2026-07-31,"AI / IA, Tech Sales",À postuler
+315,Forward Deployed Engineer,Kleio,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445333545,2026-07-25,Tech Sales,À postuler
+316,Ingénieur IA (H/F),ASI ®,"Lyon, Auvergne-Rhône-Alpes, France",https://www.linkedin.com/jobs/view/4440191242,2026-07-21,"AI / IA, Tech Sales",À postuler
+317,Customer Marketing Manager,Pigment,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=2f0e2112654e8b62,2026-08-17,Tech Sales,À postuler
+318,Sales Regional Manager,ASSA ABLOY Group,"Suresnes, A8, FR",https://fr.indeed.com/viewjob?jk=8d9fdb5abb492856,2026-08-17,Tech Sales,À postuler
+319,IT Support Analyst,Trainline,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=fe5a876ce671a60d,2026-08-17,Tech Sales,À postuler
+320,Staff Corporate Application Engineer H/F,ARTERIS,"Montigny-le-Bretonneux, A8, FR",https://fr.indeed.com/viewjob?jk=8b54870c331628ba,2026-08-17,Tech Sales,À postuler
+321,Business Developer - French fluent,Paradox,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=9c3c8b4c3b8779e9,2026-08-17,BizDev,À postuler
+322,Legal Intern,PHOTOROOM,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=230ca1d13ec5763a,2026-08-11,Tech Sales,À postuler
+323,Data Strategy Director - CDI - F/H,WPP Media,"Levallois-Perret, A8, FR",https://fr.indeed.com/viewjob?jk=340c6fa75e7049b8,2026-08-11,"Senior / Lead, Data, Tech Sales",À postuler
+324,Associate Director Analytics - CDI - F/H,WPP Media,"Levallois-Perret, A8, FR",https://fr.indeed.com/viewjob?jk=9a149d12cadbe9ac,2026-08-11,"Senior / Lead, AI / IA, Tech Sales",À postuler
+325,GTM Data & Automation Intern,Greenly,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=23abe3121af7fef3,2026-08-10,"Data, Tech Sales",À postuler
+326,Team Lead Customer Onboarding,tellent,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=c62a6cf7fc5a22e4,2026-08-10,"Senior / Lead, Tech Sales",À postuler
+327,Product Strategist (ex-Product Designer),SKELLO,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=28656adac9a2f061,2026-08-10,Tech Sales,À postuler
+328,Field Marketing Manager - France,Verkada,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=469ce1be11925bee,2026-08-10,Tech Sales,À postuler
+329,Human Design Program Lead (f/m/d),Kraken,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=3d1329b444eb879f,2026-08-09,"Senior / Lead, Tech Sales",À postuler
+330,AI & Ops Automation,Pennylane,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4407458746,2026-08-15,"AI / IA, Tech Sales",À postuler
+331,"AI Strategist, Generative AI Innovation Center",Amazon Web Services (AWS),"Courbevoie, Île-de-France, France",https://www.linkedin.com/jobs/view/4443050030,2026-08-11,"Generative AI, Tech Sales",À postuler
+332,Solution Architect AI,GALILEO RH,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4448556108,2026-08-04,"AI / IA, Tech Sales",À postuler
+333,Technical Pre-Sales (Europe) H/F,Pasqal,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4420988476,2026-08-02,Tech Sales,À postuler
+334,Technology Enablement Manager,Supermicro,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4430136090,2026-07-30,Tech Sales,À postuler
+335,Forward Deployed Engineer,Albatross,FR,https://fr.indeed.com/viewjob?jk=80d85bdd8460095b,2026-08-17,Tech Sales,À postuler
+336,Key Account Manager (H/F) Client unique - Thizay (36),Gojob,"Thizay, CVL, FR",https://fr.indeed.com/viewjob?jk=e63f357cd5a1a93c,2026-08-13,Tech Sales,À postuler
+337,Senior Fullstack Engineer - Core Branding Team,Teads,"Montpellier, O, FR",https://fr.indeed.com/viewjob?jk=b70ae2621509e304,2026-08-11,"Senior / Lead, Tech Sales",À postuler
+338,Founding Forward Deployed Engineer France (up to 100k€ OTE + Equity),Bonx,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445341299,2026-08-16,Tech Sales,À postuler
+339,AI Agent Orchestration Specialist,Edflex,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4452416595,2026-08-11,"AI / IA, Sales Specialist",À postuler
+340,Sales Director - AI Business Process (CRM),Microsoft,"Issy-les-Moulineaux, Île-de-France, France",https://www.linkedin.com/jobs/view/4434481341,2026-08-10,"Senior / Lead, AI / IA, Tech Sales",À postuler
+341,Forward Deployed Engineer,Lithosquare,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4417098641,2026-08-08,Tech Sales,À postuler
+342,"Applied AI Architect, Digital Natives",OpenAI,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4424349901,2026-08-07,"AI / IA, Tech Sales",À postuler
+343,"Manager, Solutions Consultants, France",Notion,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4449917031,2026-08-05,Tech Sales,À postuler
+344,Senior Sales Engineer - Strategic AI,DDN,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4449012501,2026-08-04,"Senior / Lead, AI / IA, Tech Sales",À postuler
+345,AI Automation Engineer,C12,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4455535327,nan,"AI / IA, Tech Sales",À postuler
+346,Senior Software Engineer (Backend),GitGuardian,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=ac56128b1315d25e,2026-08-06,"Senior / Lead, Tech Sales",À postuler
+347,Enterprise Account Executive,Illumio,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=d1ae8bd93e9c743b,2026-08-05,Account Executive,À postuler
+348,Senior Sales Engineer,DDN,"Meudon, A8, FR",https://fr.indeed.com/viewjob?jk=61f7ee8e0526696b,2026-08-04,"Senior / Lead, Tech Sales",À postuler
+349,"Director, Professional Services",CliniSys,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=59aee1a24f72ca4a,2026-08-04,"Senior / Lead, Tech Sales",À postuler
+350,"Product Marketing Manager, Science",Mistral AI,"Paris, A8, FR",https://fr.indeed.com/viewjob?jk=ce23bc848cb9f718,2026-08-03,Tech Sales,À postuler
+351,Territory Account Executive,Cloudflare,Île-de-France / France,https://www.linkedin.com/jobs/view/4119908599,2026-08-05,Account Executive,À postuler
+352,"Enterprise Account Executive, Growth",MongoDB,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4302023702,2026-08-04,Account Executive,À postuler
+353,Senior Sales Executive,Diabolocom,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4265408704,2026-08-04,"Senior / Lead, Tech Sales",À postuler
+354,Enterprise Account Executive,Keepit,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4431761771,2026-08-04,Account Executive,À postuler
+355,Enterprise Account Executive,MongoDB,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4342228878,2026-07-29,Account Executive,À postuler
+356,"Director, SaaS Migration Program Execution",Wolters Kluwer,"Rue, HDF, FR",https://fr.indeed.com/viewjob?jk=8b04e681cfddf497,2026-08-07,"Senior / Lead, Tech Sales",À postuler
+357,Account Executive,Oodrive,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4437457937,2026-08-14,Account Executive,À postuler
+358,"Account Executive, Enterprise (Paris, France)",Figma,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4137437500,2026-08-06,Account Executive,À postuler
+359,Enterprise Sales Executive,Riverbed Technology,"Puteaux, Île-de-France, France",https://www.linkedin.com/jobs/view/4402978288,2026-08-02,Tech Sales,À postuler
+360,Mid Market Account Executive - English Speaking,Prelude,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4446581631,2026-07-29,Account Executive,À postuler
+361,"Customer Engineer, Google Distributed Cloud, EMEA",Google,"Paris, Île-de-France, France",https://www.linkedin.com/jobs/view/4445744699,2026-07-28,"Cloud, Tech Sales",À postuler
+362,Senior AI Account Executive – Nordics & UK (M/F),MyTraffic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-nordics-uk-m-f-at-mytraffic-4426379136,2 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
+363,Business Development Rep (AI Cloud),Featherless AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-development-rep-ai-cloud-at-featherless-ai-4415386101,3 months ago,"AI / IA, Cloud, Tech Sales",À postuler
+364,Sales Executive,Galadrim,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-executive-at-galadrim-4440677016,1 month ago,Tech Sales,À postuler
+365,Account Executive [Opening soon],Botify,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-opening-soon-at-botify-4415215809,2 months ago,Account Executive,À postuler
+366,Inside Sales Specialist - Paris,Ajax Systems,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/inside-sales-specialist-paris-at-ajax-systems-4427991975,2 months ago,"AI / IA, Sales Specialist",À postuler
+367,"Sales Specialist, Cash Management",Sage,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-cash-management-at-sage-4433352641,1 week ago,"AI / IA, Sales Specialist",À postuler
+368,Sales Specialist LowCode/NoCode F/H,Atos,"Bezons, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-lowcode-nocode-f-h-at-atos-4397029922,1 week ago,"AI / IA, Sales Specialist",À postuler
+369,Cyber Sales Specialist,Cyberr,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/cyber-sales-specialist-at-cyberr-4447118863,2 weeks ago,"AI / IA, Sales Specialist",À postuler
+370,Area Sales Specialist,Waters Corporation,"Guyancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/area-sales-specialist-at-waters-corporation-4429565432,1 month ago,"AI / IA, Sales Specialist",À postuler
+371,Spécialiste Sales (H/F),Pagestreet,"Valbonne, Provence-Alpes-Côte d'Azur, France",https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-sales-h-f-at-pagestreet-4400831539,4 months ago,"AI / IA, Tech Sales",À postuler
+372,Sales Representative - US,SLY,"Sales, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/sales-representative-us-at-sly-4438450178,1 month ago,Tech Sales,À postuler
+373,> Sales Specialist – GMP Services,Cleanroom Technology Austria,"Sales, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/sales-specialist-%E2%80%93-gmp-services-at-cleanroom-technology-austria-4450910731,1 week ago,"AI / IA, Sales Specialist",À postuler
+374,Senior Sales Manager - SaaS / AI / Video,Aive,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-sales-manager-saas-ai-video-at-aive-4438927169,1 month ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
+375,Senior Account Executive | Enterprise & AI Solutions (F/H),ILLUIN Technology,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-account-executive-enterprise-ai-solutions-f-h-at-illuin-technology-4413985792,3 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
+376,"Regional GTM Director, France",Higgsfield AI,France,https://fr.linkedin.com/jobs/view/regional-gtm-director-france-at-higgsfield-ai-4450667937,1 week ago,"Senior / Lead, Tech Sales",À postuler
+377,"Account Executive, Enterprise",Mistral,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-mistral-4439512156,1 month ago,Account Executive,À postuler
+378,"Account Executive Enterprise, FSI",Mistral,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-fsi-at-mistral-4441986767,1 month ago,Account Executive,À postuler
+379,Account Executive Mid-Market / Enterprise,Doctrine,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-mid-market-enterprise-at-doctrine-4436387379,1 month ago,Account Executive,À postuler
+380,Account Executive IA / Commercial(e) H/F - Typix H/F,"PIXALIONE | SEO, PAID, IA, DATA & CRO","Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-ia-commercial-e-h-f-typix-h-f-at-pixalione-seo-paid-ia-data-cro-4444422011,3 weeks ago,"AI / IA, Account Executive",À postuler
+381,Senior AI Account Executive – France (M/F),MyTraffic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-france-m-f-at-mytraffic-4426384100,2 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
+382,Account Executive EMEA,DataDome,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-emea-at-datadome-4443176723,3 weeks ago,Account Executive,À postuler
+383,Senior Account Executive - Data Foundation (MuleSoft + Informatica),Salesforce,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-account-executive-data-foundation-mulesoft-%2B-informatica-at-salesforce-4436771884,1 day ago,"Senior / Lead, Data, Account Executive",À postuler
+384,Enterprise Account Executive - France,Arango,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enterprise-account-executive-france-at-arango-4419475881,2 months ago,Account Executive,À postuler
+385,Account Executive,Massive,France,https://fr.linkedin.com/jobs/view/account-executive-at-massive-4449573456,1 week ago,Account Executive,À postuler
+386,Enterprise Acount Executive,Anaplan,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enterprise-acount-executive-at-anaplan-4440973625,1 week ago,Tech Sales,À postuler
+387,Account Excecutive F/H,Datacend,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-excecutive-f-h-at-datacend-4422411211,2 months ago,Tech Sales,À postuler
+388,Account Executive Confirmé - Data & IA (CDI) - Paris / Remote,JobEgo,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-confirm%C3%A9-data-ia-cdi-paris-remote-at-jobego-4449102747,1 week ago,"AI / IA, Data, Account Executive",À postuler
+389,Account Executive Senior Saas H/F,SP SEARCH,"Guyancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-senior-saas-h-f-at-sp-search-4454358843,3 days ago,"Senior / Lead, Account Executive",À postuler
+390,BUSINESS DEVELOPER INDIA,FLYING WHALES,"Suresnes, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-india-at-flying-whales-4422687756,2 weeks ago,"AI / IA, BizDev",À postuler
+391,Business Developer (H/F),CesGensLaB,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-h-f-at-cesgenslab-4451296659,2 days ago,BizDev,À postuler
+392,"Business Developer - Paris - CDI - Digital, Data, IA",WOLD,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/business-developer-paris-cdi-digital-data-ia-at-wold-4432320794,1 month ago,"AI / IA, Data, BizDev",À postuler
+393,Business developer H/F,AIRRIA,"Meylan, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/business-developer-h-f-at-airria-4426972453,2 months ago,BizDev,À postuler
+394,Business Developer Grand OUEST H/F,IQVIA,"Bordeaux, Nouvelle-Aquitaine, France",https://fr.linkedin.com/jobs/view/business-developer-grand-ouest-h-f-at-iqvia-4443340931,3 weeks ago,BizDev,À postuler
+395,AI Engineer / Sales Engineer,The QA Company,"St-Étienne, Auvergne-Rhône-Alpes, France",https://fr.linkedin.com/jobs/view/ai-engineer-sales-engineer-at-the-qa-company-4412764273,3 months ago,"AI / IA, Tech Sales",À postuler
+396,Senior AI Account Executive – US Retail Market (M/F),MyTraffic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-ai-account-executive-%E2%80%93-us-retail-market-m-f-at-mytraffic-4426382097,2 months ago,"Senior / Lead, AI / IA, Account Executive",À postuler
+397,Head of AI Enablement,Bigblue,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-bigblue-4429980993,2 months ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
+398,Country Manager - France Market Launcher 🇫🇷,Murphy AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/country-manager-france-market-launcher-%F0%9F%87%AB%F0%9F%87%B7-at-murphy-ai-4440776948,1 month ago,Tech Sales,À postuler
+399,"Global Senior Director, RevOps & GTM Operations",Botify,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/global-senior-director-revops-gtm-operations-at-botify-4418773590,2 months ago,"Senior / Lead, Tech Sales",À postuler
+400,Global Head of Engagement,Harmattan AI,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/global-head-of-engagement-at-harmattan-ai-4397379301,1 week ago,"Senior / Lead, Tech Sales",À postuler
+401,Head of AI Ops,Pelico,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-ops-at-pelico-4446573481,2 weeks ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
+402,Head of AI - Healthtech Scale up,Lifen,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-healthtech-scale-up-at-lifen-4455197480,1 day ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
+403,Head of AI Enablement,UpSlide,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/head-of-ai-enablement-at-upslide-4451133130,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
+404,"Senior Strategic Sales Manager, Cloud & AI",Tencent,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-strategic-sales-manager-cloud-ai-at-tencent-4424703907,2 months ago,"Senior / Lead, AI / IA, Cloud, Tech Sales",À postuler
+405,Founding Account Executive - DACH,DeepIP,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founding-account-executive-dach-at-deepip-4435975133,1 month ago,Account Executive,À postuler
+406,Account Executive,Parallel,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-parallel-4434251234,1 month ago,Account Executive,À postuler
+407,GTM Lead,Model ML,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/gtm-lead-at-model-ml-4450088584,1 week ago,"Senior / Lead, Tech Sales",À postuler
+408,Account Executive,Doctrine,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-doctrine-4432965238,1 month ago,Account Executive,À postuler
+409,Strategic Account Manager,Cognite,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/strategic-account-manager-at-cognite-4369214679,1 day ago,Tech Sales,À postuler
+410,Account Executive,Mendo,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-at-mendo-4325776621,8 months ago,Account Executive,À postuler
+411,Senior Enterprise Account Executive - Public Sector,ServiceNow,"Issy-les-Moulineaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-enterprise-account-executive-public-sector-at-servicenow-4389205028,2 weeks ago,"Senior / Lead, Account Executive",À postuler
+412,Account Executive - Core - Mid-market,Salesforce,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-core-mid-market-at-salesforce-4419947007,2 weeks ago,Account Executive,À postuler
+413,Startup Partnerships - France & Southern Europe,Anthropic,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/startup-partnerships-france-southern-europe-at-anthropic-4439468131,1 week ago,Tech Sales,À postuler
+414,Senior Key Account Manager – Robotics & Industrial AI Solutions (f/m/d),MINTH GROUP,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-key-account-manager-%E2%80%93-robotics-industrial-ai-solutions-f-m-d-at-minth-group-4438204944,1 week ago,"Senior / Lead, AI / IA, Tech Sales",À postuler
+415,Senior Account Executive,RAISE Summit,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-account-executive-at-raise-summit-4432371648,2 weeks ago,"Senior / Lead, Account Executive",À postuler
+416,Account Executive / Responsable commercial grands comptes - Transformation IA - F/H,Rocket4Sales,"Boulogne-Billancourt, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-responsable-commercial-grands-comptes-transformation-ia-f-h-at-rocket4sales-4443814807,2 weeks ago,"AI / IA, Account Executive",À postuler
+417,Account Executive Commercial,Genesys,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-commercial-at-genesys-4447677610,1 week ago,"AI / IA, Account Executive",À postuler
+418,ACCOUNT EXECUTIVE - ENTERPRISE,STATION F,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-enterprise-at-station-f-4451489316,1 week ago,Account Executive,À postuler
+419,Sales Specialist Dématérialisation & Facture Électronique,Sage,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-d%C3%A9mat%C3%A9rialisation-facture-%C3%A9lectronique-at-sage-4405636709,1 week ago,"AI / IA, Sales Specialist",À postuler
+420,Founding SDR,Windmill,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/founding-sdr-at-windmill-4408952345,3 months ago,Tech Sales,À postuler
+421,Senior Security Sales Specialist (Cybersecurity) - Paris,Myn,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-security-sales-specialist-cybersecurity-paris-at-myn-4440015229,1 month ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
+422,LIMS/ELN application sales specialist (Paris),AgileBio,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/lims-eln-application-sales-specialist-paris-at-agilebio-4390822660,4 months ago,"AI / IA, Sales Specialist",À postuler
+423,Senior Sales Specialist,BASSETTI France,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-sales-specialist-at-bassetti-france-4441469950,5 days ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
+424,leads generation specialist,REECHO Solutions,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/leads-generation-specialist-at-reecho-solutions-4341234073,8 months ago,"Senior / Lead, AI / IA, Sales Specialist",À postuler
+425,"Specialist Account Executive, ZT Branch",Zscaler,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/specialist-account-executive-zt-branch-at-zscaler-4410772272,2 weeks ago,"AI / IA, Account Executive",À postuler
+426,Sales Manager/Specialist,AUX,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-manager-specialist-at-aux-4452261569,15 hours ago,"AI / IA, Sales Specialist",À postuler
+427,Defense Sales FR - H/F,Alta Ares,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/defense-sales-fr-h-f-at-alta-ares-4425620370,2 months ago,Tech Sales,À postuler
+428,Consultant Entrepreneur,JAB - Sales Performance.,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/consultant-entrepreneur-at-jab-sales-performance-4432805290,4 weeks ago,Tech Sales,À postuler
+429,Sales Specialist Dynamics 365 Business Central,isatech,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-dynamics-365-business-central-at-isatech-4450233118,1 week ago,"AI / IA, Sales Specialist",À postuler
+430,Sales Development Representative - Enterprise,Malt,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-development-representative-enterprise-at-malt-4436899968,2 weeks ago,Tech Sales,À postuler
+431,Sales Specialist - Confirmé - Hybride - CDI,Kiiro,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-confirm%C3%A9-hybride-cdi-at-kiiro-4428736073,2 months ago,"AI / IA, Sales Specialist",À postuler
+432,Sales Development Representative 🇫🇷,Bigblue,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-development-representative-%F0%9F%87%AB%F0%9F%87%B7-at-bigblue-4428102156,2 months ago,Tech Sales,À postuler
+433,Sales Specialist,OVHcloud,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-at-ovhcloud-4446614076,1 week ago,"AI / IA, Sales Specialist",À postuler
+434,UiPath Test Cloud Sales Specialist South Europe,UiPath,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/uipath-test-cloud-sales-specialist-south-europe-at-uipath-4448449113,1 week ago,"AI / IA, Cloud, Sales Specialist",À postuler
+435,AWS Channel Specialist,SoftwareOne,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/aws-channel-specialist-at-softwareone-4447645791,2 weeks ago,"AI / IA, Cloud, Sales Specialist",À postuler
+436,Technical Sales Specialist h/f/d,Hornetsecurity,Greater Lyon Area,https://fr.linkedin.com/jobs/view/technical-sales-specialist-h-f-d-at-hornetsecurity-4446559623,2 weeks ago,"AI / IA, Sales Specialist",À postuler
+437,Sales Specialist Patient Data,IQVIA,"Courbevoie, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-patient-data-at-iqvia-4428053465,2 months ago,"AI / IA, Data, Sales Specialist",À postuler
+438,Sales Specialist Dématérialisation & Facture Électronique – ETI,Sage,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/sales-specialist-d%C3%A9mat%C3%A9rialisation-facture-%C3%A9lectronique-%E2%80%93-eti-at-sage-4405654301,1 week ago,"AI / IA, Sales Specialist",À postuler
+439,Chargé de clientèle IT H/F,Heliaq,"Reims, Grand Est, France",https://fr.linkedin.com/jobs/view/charg%C3%A9-de-client%C3%A8le-it-h-f-at-heliaq-4446081109,2 weeks ago,Tech Sales,À postuler
+440,"Solution Sales Specialist, Machine Identity - France",Palo Alto Networks,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/solution-sales-specialist-machine-identity-france-at-palo-alto-networks-4418761580,1 week ago,"AI / IA, Sales Specialist",À postuler
+441,Account Manager Specialist – Assistance Technique & Infogérance (H/F),SCC France,"Strasbourg, Grand Est, France",https://fr.linkedin.com/jobs/view/account-manager-specialist-%E2%80%93-assistance-technique-infog%C3%A9rance-h-f-at-scc-france-4446839936,2 weeks ago,"AI / IA, Sales Specialist",À postuler
+442,"Enablement Manager, Sales & AI transformation",Mirakl,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/enablement-manager-sales-ai-transformation-at-mirakl-4435675531,2 weeks ago,"AI / IA, Tech Sales",À postuler
+443,Account Executive - EU,DeepIP,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/account-executive-eu-at-deepip-4414031778,2 months ago,Account Executive,À postuler
+444,Product Manager - Sales AI,Alan,"Paris, Île-de-France, France",https://fr.linkedin.com/jobs/view/product-manager-sales-ai-at-alan-4442700126,4 weeks ago,"AI / IA, Tech Sales",À postuler
+445,"Senior Data Center, AI Software Product Strategy & Go-To-Market Lead  — Qualcomm - Europe",Qualcomm,"Issy-les-Moulineaux, Île-de-France, France",https://fr.linkedin.com/jobs/view/senior-data-center-ai-software-product-strategy-go-to-market-lead-%E2%80%94-qualcomm-europe-at-qualcomm-4435213454,3 days ago,"Senior / Lead, AI / IA, Data, Tech Sales",À postuler
