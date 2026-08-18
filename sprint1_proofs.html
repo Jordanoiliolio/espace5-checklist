@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Preuves d'Exécution — Sprint 1 (20 Postes AI Sales)</title>
+  <title>Preuves Authentifiées — Sprint 1 (20 Postes AI Sales)</title>
   <style>
     :root {
       --bg: #0b1120;
@@ -20,7 +20,8 @@
     header { text-align: center; margin-bottom: 32px; }
     h1 { font-size: 2rem; color: #fff; margin-bottom: 8px; font-weight: 800; }
     .subtitle { color: var(--text-muted); font-size: 1rem; }
-    .stats-bar { display: flex; justify-content: center; gap: 24px; margin-bottom: 28px; }
+    .user-badge { display: inline-flex; align-items: center; gap: 8px; background: #064e3b; border: 1px solid #059669; color: #6ee7b7; padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; margin-top: 12px; }
+    .stats-bar { display: flex; justify-content: center; gap: 24px; margin: 28px 0; }
     .stat-badge { background: #1e293b; border: 1px solid var(--border); padding: 10px 20px; border-radius: 12px; text-align: center; }
     .stat-val { font-size: 1.4rem; font-weight: 800; color: var(--accent); }
     .stat-lbl { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
@@ -34,7 +35,7 @@
     .badge-status { background: #065f46; color: #6ee7b7; font-size: 0.75rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; border: 1px solid #059669; }
     h3 { font-size: 1.1rem; color: #fff; margin-bottom: 4px; }
     .company { color: var(--primary); font-size: 0.9rem; font-weight: 700; margin-bottom: 12px; }
-    .screenshot-box { border-radius: 8px; overflow: hidden; margin-bottom: 14px; border: 1px solid var(--border); max-height: 200px; }
+    .screenshot-box { border-radius: 8px; overflow: hidden; margin-bottom: 14px; border: 1px solid var(--border); max-height: 220px; }
     .screenshot-box img { width: 100%; height: auto; display: block; object-fit: cover; object-position: top; }
     .pitch-box { background: #0f172a; padding: 10px 12px; border-radius: 8px; font-size: 0.8rem; color: #cbd5e1; margin-bottom: 14px; border-left: 3px solid var(--primary); }
     .card-footer { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
@@ -48,8 +49,11 @@
 <body>
   <div class="container">
     <header>
-      <h1>📸 Galerie des Preuves — Sprint 1 (20 Postes)</h1>
-      <p class="subtitle">Toutes les 20 opportunités prioritaires traitées avec leurs captures d'écran et dossiers IA</p>
+      <h1>📸 Preuves Authentifiées — Sprint 1 (20 Postes)</h1>
+      <p class="subtitle">Toutes les offres ouvertes avec votre session active (sans mur de connexion ni pop-up)</p>
+      <div class="user-badge">
+        <span>👤 Session active : <strong>Jordan LP (Media Buyer / Business Developer / GTM)</strong></span>
+      </div>
     </header>
 
     <div class="stats-bar">
@@ -59,11 +63,11 @@
       </div>
       <div class="stat-badge">
         <div class="stat-val">100 %</div>
-        <div class="stat-lbl">Preuves Enregistrées</div>
+        <div class="stat-lbl">Session Authentifiée</div>
       </div>
       <div class="stat-badge">
         <div class="stat-val">DeepSeek v4 Pro</div>
-        <div class="stat-lbl">Cerveau IA Connecté</div>
+        <div class="stat-lbl">Pitchs IA Sur-Mesure</div>
       </div>
     </div>
 
@@ -79,26 +83,26 @@
 
   <script>
     const sprint1Jobs = [
-      { num: 1, company: "Amazon Web Services (AWS)", title: "GenAI Sales Specialist, AWS Specialists Team", file: "proof_01_Amazon_Web_Services_AWS.png", url: "https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialists-team-at-amazon-web-services-aws-4446832565", pitch: "Expert GTM & prospection IA formé chez Alegria.tech, j'accompagne l'adoption des solutions d'IA générative et Cloud auprès des grands comptes." },
-      { num: 2, company: "Amazon Web Services (AWS)", title: "GenAI Sales Specialist, France", file: "proof_02_Amazon_Web_Services_AWS.png", url: "https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialist-team-france-at-amazon-web-services-aws-4446162470", pitch: "Spécialiste de l'acquisition B2B et des workflows automatisés sur n8n, je pilote la qualification et le closing d'infrastructures IA Cloud auprès de décideurs C-Level." },
-      { num: 3, company: "Craft AI", title: "Account Executive IA", file: "proof_03_Craft_AI.png", url: "https://fr.linkedin.com/jobs/view/account-executive-ia-at-craft-ai-4448755686", pitch: "Expérience confirmée chez GM Capital dans la vente complexe et l'orchestration de pipelines commerciaux pour des plateformes d'IA d'entreprise." },
-      { num: 4, company: "Neural Concept", title: "Account Executive - France (Deep Learning AI)", file: "proof_04_Neural_Concept.png", url: "https://fr.linkedin.com/jobs/view/account-executive-france-at-neural-concept-4385457517", pitch: "Prospection multicanale et évangélisation technologique d'outils d'IA de rupture auprès de directeurs techniques et R&D." },
-      { num: 5, company: "XXII", title: "Senior Enterprise Account Executive – Robotics & AI", file: "proof_05_XXII.png", url: "https://fr.linkedin.com/jobs/view/senior-enterprise-account-executive-%E2%80%93-robotics-physical-ai-at-xxii-4435038970", pitch: "Chasseur B2B aguerri sur des cycles de vente stratégiques pour solutions d'IA visuelle et vision par ordinateur." },
-      { num: 6, company: "SoftwareOne", title: "Microsoft Solution Sales Specialist - Data & AI", file: "proof_06_SoftwareOne.png", url: "https://fr.linkedin.com/jobs/view/microsoft-solution-sales-specialist-data-ai-at-softwareone-4449764789", pitch: "Maîtrise de l'écosystème Cloud/Data et déploiement de stratégies d'acquisition ciblées sur les directeurs métiers et DSI." },
-      { num: 7, company: "Inetum", title: "Sales Specialist AI Business Solutions Microsoft", file: "proof_07_Inetum.png", url: "https://fr.linkedin.com/jobs/view/sales-specialist-ai-business-solutions-microsoft-h-f-at-inetum-4400591201", pitch: "Développement d'affaires et valorisation ROI des cas d'usage IA et automatisation pour grands comptes." },
-      { num: 8, company: "NTT DATA, Inc.", title: "Data & AI Technology Sales Specialist", file: "proof_08_NTT_DATA_Inc.png", url: "https://fr.linkedin.com/jobs/view/data-ai-technology-sales-specialist-at-ntt-data-inc-4426777859", pitch: "Structuration de partenariats technologiques et pilotage commercial sur des projets Data & IA d'envergure." },
-      { num: 9, company: "DXC Technology", title: "Consultative AI Sales Professional", file: "proof_09_DXC_Technology.png", url: "https://fr.linkedin.com/jobs/view/consultative-ai-sales-professional-at-dxc-technology-4371314015", pitch: "Approche consultative data-driven, de la cartographie des besoins à la contractualisation d'IA d'entreprise." },
-      { num: 10, company: "Qdrant", title: "BDR EMEA (Vector Search & AI Database)", file: "proof_10_Qdrant.png", url: "https://qdrant.tech/careers/", pitch: "Outreach technique et acquisition de comptes intégrant des modèles de recherche vectorielle et RAG." },
-      { num: 11, company: "SCC France", title: "Account Manager Specialist AI Solutions", file: "proof_11_SCC_France.png", url: "https://fr.linkedin.com/jobs/view/account-manager-specialist-ai-solutions-h-f-at-scc-france-4447385966", pitch: "Fidélisation et conquête de nouveaux comptes sur des offres d'infrastructures et d'usages IA." },
-      { num: 12, company: "ATECNA", title: "Business Developer – Projets & Innovation IA", file: "proof_12_ATECNA.png", url: "https://fr.linkedin.com/jobs/view/business-developer-%E2%80%93-projets-innovation-ia-f-h-at-atecna-4448281144", pitch: "Développement commercial agile axé sur les projets d'innovation et d'intégration de briques IA." },
-      { num: 13, company: "Witivio", title: "BDR Produit – SaaS, IA & Solutions Microsoft", file: "proof_13_Witivio__AI_Solutions_for_Microsoft_365.png", url: "https://fr.linkedin.com/jobs/view/business-development-representative-produit-%E2%80%93-saas-ia-solutions-microsoft-at-witivio-ai-solutions-for-microsoft-365-4449768652", pitch: "Génération d'opportunités qualifiées et prospection automatisée multicanale pour éditeur SaaS IA." },
-      { num: 14, company: "ElevenLabs", title: "Deployment Strategist - France / Expansion", file: "proof_14_ElevenLabs.png", url: "https://fr.linkedin.com/jobs/view/deployment-strategist-france-global-expansion-at-elevenlabs-4449760012", pitch: "Accélération du Go-To-Market et intégration de technologies vocales IA auprès d'éditeurs et médias." },
-      { num: 15, company: "WOLD", title: "Business Developer - Data, IA & Digital", file: "proof_15_WOLD.png", url: "https://fr.linkedin.com/jobs/view/business-developer-data-ia-digital-paris-cdi-at-wold-4446654891", pitch: "Prospection et qualification de projets de conseil et d'ingénierie Data & IA." },
-      { num: 16, company: "Daiteo", title: "Sales Full Cycle : Prospection & Closing", file: "proof_16_Daiteo.png", url: "https://fr.linkedin.com/jobs/view/un-e-sales-full-cycle-prospection-cycle-de-vente-suivi-at-daiteo-4448753210", pitch: "Gestion intégrale du cycle commercial, de la génération de leads au closing contractuel." },
-      { num: 17, company: "Capgemini Engineering", title: "Sales Developer AI & Digital", file: "proof_17_Capgemini_Engineering.png", url: "https://fr.linkedin.com/jobs/view/sales-developer-at-capgemini-engineering-4448283311", pitch: "Développement commercial sur des projets d'ingénierie numérique et d'IA de pointe." },
-      { num: 18, company: "Botify", title: "Account Executive SEMEA (Enterprise AI Search)", file: "proof_18_Botify.png", url: "https://fr.linkedin.com/jobs/view/account-executive-semea-at-botify-4446653011", pitch: "Closing de comptes enterprise pour plateforme SaaS d'optimisation par IA des moteurs de recherche." },
-      { num: 19, company: "ILLUIN Technology", title: "BDR (F/H) - Spécialiste IA & NLP", file: "proof_19_ILLUIN_Technology.png", url: "https://fr.linkedin.com/jobs/view/bdr-f-h-at-illuin-technology-4447384102", pitch: "Prospection ciblée sur les directions innovation et métiers pour projets d'IA conversationnelle et générative." },
-      { num: 20, company: "Databricks", title: "Lakebase Sales Associate Director", file: "proof_20_Databricks.png", url: "https://fr.linkedin.com/jobs/view/lakebase-sales-associate-director-at-databricks-4448285520", pitch: "Vente de solutions de données et d'IA unifiées auprès des grands comptes français et internationaux." }
+      { num: 1, company: "Amazon Web Services (AWS)", title: "GenAI Sales Specialist, AWS Specialists Team", file: "auth_proof_01_Amazon_Web_Services_AWS.png", url: "https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialists-team-at-amazon-web-services-aws-4446832565", pitch: "Expert GTM & prospection IA formé chez Alegria.tech, j'accompagne l'adoption des solutions d'IA générative et Cloud auprès des grands comptes." },
+      { num: 2, company: "Amazon Web Services (AWS)", title: "GenAI Sales Specialist, France", file: "auth_proof_02_Amazon_Web_Services_AWS.png", url: "https://fr.linkedin.com/jobs/view/genai-sales-specialist-aws-specialist-team-france-at-amazon-web-services-aws-4446162470", pitch: "Spécialiste de l'acquisition B2B et des workflows automatisés sur n8n, je pilote la qualification et le closing d'infrastructures IA Cloud auprès de décideurs C-Level." },
+      { num: 3, company: "Craft AI", title: "Account Executive IA", file: "auth_proof_03_Craft_AI.png", url: "https://fr.linkedin.com/jobs/view/account-executive-ia-at-craft-ai-4448755686", pitch: "Expérience confirmée chez GM Capital dans la vente complexe et l'orchestration de pipelines commerciaux pour des plateformes d'IA d'entreprise." },
+      { num: 4, company: "Neural Concept", title: "Account Executive - France (Deep Learning AI)", file: "auth_proof_04_Neural_Concept.png", url: "https://fr.linkedin.com/jobs/view/account-executive-france-at-neural-concept-4385457517", pitch: "Prospection multicanale et évangélisation technologique d'outils d'IA de rupture auprès de directeurs techniques et R&D." },
+      { num: 5, company: "XXII", title: "Senior Enterprise Account Executive – Robotics & AI", file: "auth_proof_05_XXII.png", url: "https://fr.linkedin.com/jobs/view/senior-enterprise-account-executive-%E2%80%93-robotics-physical-ai-at-xxii-4435038970", pitch: "Chasseur B2B aguerri sur des cycles de vente stratégiques pour solutions d'IA visuelle et vision par ordinateur." },
+      { num: 6, company: "SoftwareOne", title: "Microsoft Solution Sales Specialist - Data & AI", file: "auth_proof_06_SoftwareOne.png", url: "https://fr.linkedin.com/jobs/view/microsoft-solution-sales-specialist-data-ai-at-softwareone-4449764789", pitch: "Maîtrise de l'écosystème Cloud/Data et déploiement de stratégies d'acquisition ciblées sur les directeurs métiers et DSI." },
+      { num: 7, company: "Inetum", title: "Sales Specialist AI Business Solutions Microsoft", file: "auth_proof_07_Inetum.png", url: "https://fr.linkedin.com/jobs/view/sales-specialist-ai-business-solutions-microsoft-h-f-at-inetum-4400591201", pitch: "Développement d'affaires et valorisation ROI des cas d'usage IA et automatisation pour grands comptes." },
+      { num: 8, company: "NTT DATA, Inc.", title: "Data & AI Technology Sales Specialist", file: "auth_proof_08_NTT_DATA_Inc.png", url: "https://fr.linkedin.com/jobs/view/data-ai-technology-sales-specialist-at-ntt-data-inc-4426777859", pitch: "Structuration de partenariats technologiques et pilotage commercial sur des projets Data & IA d'envergure." },
+      { num: 9, company: "DXC Technology", title: "Consultative AI Sales Professional", file: "auth_proof_09_DXC_Technology.png", url: "https://fr.linkedin.com/jobs/view/consultative-ai-sales-professional-at-dxc-technology-4371314015", pitch: "Approche consultative data-driven, de la cartographie des besoins à la contractualisation d'IA d'entreprise." },
+      { num: 10, company: "Qdrant", title: "BDR EMEA (Vector Search & AI Database)", file: "auth_proof_10_Qdrant.png", url: "https://qdrant.tech/careers/", pitch: "Outreach technique et acquisition de comptes intégrant des modèles de recherche vectorielle et RAG." },
+      { num: 11, company: "SCC France", title: "Account Manager Specialist AI Solutions", file: "auth_proof_11_SCC_France.png", url: "https://fr.linkedin.com/jobs/view/account-manager-specialist-ai-solutions-h-f-at-scc-france-4447385966", pitch: "Fidélisation et conquête de nouveaux comptes sur des offres d'infrastructures et d'usages IA." },
+      { num: 12, company: "ATECNA", title: "Business Developer – Projets & Innovation IA", file: "auth_proof_12_ATECNA.png", url: "https://fr.linkedin.com/jobs/view/business-developer-%E2%80%93-projets-innovation-ia-f-h-at-atecna-4448281144", pitch: "Développement commercial agile axé sur les projets d'innovation et d'intégration de briques IA." },
+      { num: 13, company: "Witivio", title: "BDR Produit – SaaS, IA & Solutions Microsoft", file: "auth_proof_13_Witivio__AI_Solutions_for_Microsoft_365.png", url: "https://fr.linkedin.com/jobs/view/business-development-representative-produit-%E2%80%93-saas-ia-solutions-microsoft-at-witivio-ai-solutions-for-microsoft-365-4449768652", pitch: "Génération d'opportunités qualifiées et prospection automatisée multicanale pour éditeur SaaS IA." },
+      { num: 14, company: "ElevenLabs", title: "Deployment Strategist - France / Expansion", file: "auth_proof_14_ElevenLabs.png", url: "https://fr.linkedin.com/jobs/view/deployment-strategist-france-global-expansion-at-elevenlabs-4449760012", pitch: "Accélération du Go-To-Market et intégration de technologies vocales IA auprès d'éditeurs et médias." },
+      { num: 15, company: "WOLD", title: "Business Developer - Data, IA & Digital", file: "auth_proof_15_WOLD.png", url: "https://fr.linkedin.com/jobs/view/business-developer-data-ia-digital-paris-cdi-at-wold-4446654891", pitch: "Prospection et qualification de projets de conseil et d'ingénierie Data & IA." },
+      { num: 16, company: "Daiteo", title: "Sales Full Cycle : Prospection & Closing", file: "auth_proof_16_Daiteo.png", url: "https://fr.linkedin.com/jobs/view/un-e-sales-full-cycle-prospection-cycle-de-vente-suivi-at-daiteo-4448753210", pitch: "Gestion intégrale du cycle commercial, de la génération de leads au closing contractuel." },
+      { num: 17, company: "Capgemini Engineering", title: "Sales Developer AI & Digital", file: "auth_proof_17_Capgemini_Engineering.png", url: "https://fr.linkedin.com/jobs/view/sales-developer-at-capgemini-engineering-4448283311", pitch: "Développement commercial sur des projets d'ingénierie numérique et d'IA de pointe." },
+      { num: 18, company: "Botify", title: "Account Executive SEMEA (Enterprise AI Search)", file: "auth_proof_18_Botify.png", url: "https://fr.linkedin.com/jobs/view/account-executive-semea-at-botify-4446653011", pitch: "Closing de comptes enterprise pour plateforme SaaS d'optimisation par IA des moteurs de recherche." },
+      { num: 19, company: "ILLUIN Technology", title: "BDR (F/H) - Spécialiste IA & NLP", file: "auth_proof_19_ILLUIN_Technology.png", url: "https://fr.linkedin.com/jobs/view/bdr-f-h-at-illuin-technology-4447384102", pitch: "Prospection ciblée sur les directions innovation et métiers pour projets d'IA conversationnelle et générative." },
+      { num: 20, company: "Databricks", title: "Lakebase Sales Associate Director", file: "auth_proof_20_Databricks.png", url: "https://fr.linkedin.com/jobs/view/lakebase-sales-associate-director-at-databricks-4448285520", pitch: "Vente de solutions de données et d'IA unifiées auprès des grands comptes français et internationaux." }
     ];
 
     const grid = document.getElementById("gallery-grid");
@@ -109,13 +113,13 @@
         <div>
           <div class="card-header">
             <span class="badge-num">#${job.num}</span>
-            <span class="badge-status">✓ Traité & Preuve OK</span>
+            <span class="badge-status">✓ Session Validée</span>
           </div>
           <h3>${job.title}</h3>
           <div class="company">${job.company}</div>
           <div class="screenshot-box">
-            <a href="test_results/sprint1_proofs/${job.file}" target="_blank">
-              <img src="test_results/sprint1_proofs/${job.file}" alt="Preuve ${job.company}" loading="lazy">
+            <a href="test_results/sprint1_authenticated_proofs/${job.file}" target="_blank">
+              <img src="test_results/sprint1_authenticated_proofs/${job.file}" alt="Preuve ${job.company}" loading="lazy">
             </a>
           </div>
           <div class="pitch-box">
@@ -123,7 +127,7 @@
           </div>
         </div>
         <div class="card-footer">
-          <a href="test_results/sprint1_proofs/${job.file}" target="_blank" class="action-btn btn-view">🔍 Voir Capture</a>
+          <a href="test_results/sprint1_authenticated_proofs/${job.file}" target="_blank" class="action-btn btn-view">🔍 Voir Preuve</a>
           <a href="${job.url}" target="_blank" class="action-btn btn-apply">Ouvrir Offre ↗</a>
         </div>
       `;
