@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checklist Inspection & Achat — Renault Espace V 2.0 Blue dCi</title>
+  <style>
+    :root {
+      --primary: #1e3a8a;
+      --primary-hover: #1e40af;
+      --accent: #3b82f6;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --section-header-bg: #f8fafc;
+      --text: #0f172a;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --success: #16a34a;
+      --success-bg: #dcfce7;
+      --success-text: #166534;
+      --warning: #d97706;
+      --warning-bg: #fef3c7;
+      --warning-text: #92400e;
+      --danger: #dc2626;
+      --danger-bg: #fee2e2;
+      --danger-text: #991b1b;
+      --info-bg: #e0f2fe;
+      --info-text: #0369a1;
+      --input-bg: #ffffff;
+      --input-border: #cbd5e1;
+      --notes-bg: #f8fafc;
+      --checked-bg: #f0fdf4;
+      --hover-bg: #f8fafc;
+      --summary-border: #1e3a8a;
+      --nego-bg: #fefce8;
+      --nego-border: #fef08a;
+      --nego-text: #713f12;
+      --radius: 12px;
+      --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.07);
+    }
+
+    [data-theme="dark"] {
+      --primary: #3b82f6;
+      --primary-hover: #60a5fa;
+      --accent: #60a5fa;
+      --bg: #090d16;
+      --card-bg: #131d2e;
+      --section-header-bg: #182337;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #24344d;
+      --success: #10b981;
+      --success-bg: rgba(16, 185, 129, 0.18);
+      --success-text: #6ee7b7;
+      --warning: #f59e0b;
+      --warning-bg: rgba(245, 158, 11, 0.18);
+      --warning-text: #fde68a;
+      --danger: #ef4444;
+      --danger-bg: rgba(239, 68, 68, 0.2);
+      --danger-text: #fca5a5;
+      --info-bg: rgba(56, 189, 248, 0.18);
+      --info-text: #7dd3fc;
+      --input-bg: #0b1320;
+      --input-border: #2b3d5b;
+      --notes-bg: #0e1726;
+      --checked-bg: rgba(16, 185, 129, 0.12);
+      --hover-bg: #182438;
+      --summary-border: #3b82f6;
+      --nego-bg: rgba(245, 158, 11, 0.1);
+      --nego-border: rgba(245, 158, 11, 0.3);
+      --nego-text: #fde68a;
+      --shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.4);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 16px;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding-bottom: 60px;
+    }
+
+    /* En-tête */
+    .header-card {
+      background: linear-gradient(135deg, #091224 0%, #1e3a8a 100%);
+      color: white;
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      margin-bottom: 20px;
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .header-badge {
+      display: inline-block;
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(8px);
+      padding: 4px 12px;
+      border-radius: 9999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .theme-toggle-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255, 255, 255, 0.15);
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      color: white;
+      padding: 6px 14px;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      backdrop-filter: blur(8px);
+      transition: all 0.2s;
+    }
+
+    .theme-toggle-btn:hover {
+      background: rgba(255, 255, 255, 0.25);
+      transform: translateY(-1px);
+    }
+
+    .header-title {
+      font-size: 1.6rem;
+      font-weight: 800;
+      line-height: 1.2;
+      margin-bottom: 8px;
+    }
+
+    .header-subtitle {
+      font-size: 0.95rem;
+      color: #cbd5e1;
+      margin-bottom: 16px;
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 8px;
+      padding: 12px;
+    }
+
+    .meta-item label {
+      display: block;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #94a3b8;
+    }
+
+    .meta-item input {
+      width: 100%;
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+      color: white;
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 4px 0;
+      outline: none;
+    }
+
+    .meta-item input:focus {
+      border-bottom-color: #60a5fa;
+    }
+
+    /* Barre de progression fixe */
+    .progress-bar-container {
+      position: sticky;
+      top: 10px;
+      z-index: 100;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 16px;
+      margin-bottom: 20px;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .progress-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+
+    .progress-track {
+      width: 100%;
+      height: 10px;
+      background: var(--border);
+      border-radius: 9999px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #3b82f6, #10b981);
+      border-radius: 9999px;
+      transition: width 0.3s ease;
+    }
+
+    /* Actions bar */
+    .actions-row {
+      display: flex;
+      gap: 10px;
+      justify-content: flex-end;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .btn-secondary {
+      background: var(--section-header-bg);
+      color: var(--text);
+      border-color: var(--border);
+    }
+
+    .btn-secondary:hover {
+      background: var(--hover-bg);
+    }
+
+    .btn-danger {
+      background: var(--danger-bg);
+      color: var(--danger-text);
+      border-color: var(--danger);
+    }
+
+    .btn-danger:hover {
+      opacity: 0.9;
+    }
+
+    /* Section Cards */
+    .section-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 20px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .section-header {
+      padding: 16px 20px;
+      background: var(--section-header-bg);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .section-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .section-badge {
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 9999px;
+      background: var(--border);
+      color: var(--text-muted);
+    }
+
+    .checkpoint-list {
+      list-style: none;
+      padding: 4px 0;
+    }
+
+    .checkpoint-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s ease;
+    }
+
+    .checkpoint-item:last-child {
+      border-bottom: none;
+    }
+
+    .checkpoint-item:hover {
+      background-color: var(--hover-bg);
+    }
+
+    .checkpoint-item.checked {
+      background-color: var(--checked-bg);
+    }
+
+    .checkpoint-item.checked .item-title {
+      color: var(--success-text);
+      text-decoration: line-through;
+    }
+
+    .checkbox-custom {
+      appearance: none;
+      -webkit-appearance: none;
+      width: 22px;
+      height: 22px;
+      border: 2px solid var(--border);
+      border-radius: 6px;
+      cursor: pointer;
+      outline: none;
+      margin-top: 2px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      background-color: var(--input-bg);
+    }
+
+    .checkbox-custom:checked {
+      background-color: var(--success);
+      border-color: var(--success);
+    }
+
+    .checkbox-custom:checked::after {
+      content: '✓';
+      color: white;
+      font-size: 14px;
+      font-weight: 800;
+    }
+
+    .item-content {
+      flex: 1;
+    }
+
+    .item-title {
+      font-weight: 600;
+      font-size: 0.95rem;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+
+    .item-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    .tag-critical {
+      display: inline-block;
+      background: var(--danger-bg);
+      color: var(--danger-text);
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-right: 6px;
+      text-transform: uppercase;
+      border: 1px solid rgba(239, 68, 68, 0.3);
+    }
+
+    .tag-warning {
+      display: inline-block;
+      background: var(--warning-bg);
+      color: var(--warning-text);
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-right: 6px;
+      text-transform: uppercase;
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+
+    .tag-info {
+      display: inline-block;
+      background: var(--info-bg);
+      color: var(--info-text);
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-right: 6px;
+      text-transform: uppercase;
+      border: 1px solid rgba(56, 189, 248, 0.3);
+    }
+
+    .notes-box {
+      padding: 12px 20px;
+      background: var(--notes-bg);
+      border-top: 1px solid var(--border);
+    }
+
+    .notes-box textarea {
+      width: 100%;
+      min-height: 60px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--input-border);
+      background: var(--input-bg);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.85rem;
+      resize: vertical;
+      outline: none;
+    }
+
+    .notes-box textarea:focus {
+      border-color: var(--accent);
+    }
+
+    /* Score final et conclusion */
+    .summary-card {
+      background: var(--card-bg);
+      border: 2px solid var(--summary-border);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin-top: 30px;
+      box-shadow: var(--shadow);
+    }
+
+    .summary-title {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    .negotiation-points {
+      background: var(--nego-bg);
+      border: 1px solid var(--nego-border);
+      border-radius: 8px;
+      padding: 14px;
+      margin-top: 12px;
+    }
+
+    .negotiation-points h4 {
+      color: var(--warning-text);
+      font-size: 0.9rem;
+      margin-bottom: 6px;
+    }
+
+    .negotiation-points ul {
+      margin-left: 20px;
+      font-size: 0.85rem;
+      color: var(--nego-text);
+    }
+
+    /* Optimisation impression */
+    @media print {
+      body {
+        background: white !important;
+        color: black !important;
+        padding: 0;
+      }
+      .progress-bar-container, .actions-row, button, .theme-toggle-btn {
+        display: none !important;
+      }
+      .section-card {
+        box-shadow: none;
+        border: 1px solid #ccc !important;
+        background: white !important;
+        page-break-inside: avoid;
+        margin-bottom: 12px;
+      }
+      .header-card {
+        background: #1e3a8a !important;
+        color: white !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .item-title, .item-desc, .section-title {
+        color: black !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- En-tête du véhicule -->
+  <header class="header-card">
+    <div class="header-top">
+      <div class="header-badge">Fiche d'Inspection & Checklist d'Achat</div>
+      <button class="theme-toggle-btn" id="theme-btn" onclick="toggleTheme()">
+        <span id="theme-icon">☀️</span>
+        <span id="theme-text">Mode Clair</span>
+      </button>
+    </div>
+    
+    <h1 class="header-title">Renault Espace V — 2.0 Blue dCi 200 / 160 EDC</h1>
+    <p class="header-subtitle">Finition Initiale Paris / Pack 4Control (4 roues directrices)</p>
+    
+    <div class="meta-grid">
+      <div class="meta-item">
+        <label>Kilométrage</label>
+        <input type="text" id="car-km" placeholder="ex: 245 000 km">
+      </div>
+      <div class="meta-item">
+        <label>Prix affiché</label>
+        <input type="text" id="car-price" placeholder="ex: 10 990 €">
+      </div>
+      <div class="meta-item">
+        <label>Vendeur / Garage</label>
+        <input type="text" id="car-seller" placeholder="ex: AUTOS CARS 95">
+      </div>
+      <div class="meta-item">
+        <label>Date de visite</label>
+        <input type="date" id="inspection-date">
+      </div>
+    </div>
+  </header>
+
+  <!-- Barre de progression interactive -->
+  <div class="progress-bar-container">
+    <div class="progress-header">
+      <span>Points de contrôle vérifiés</span>
+      <span id="progress-text">0 / 25 (0%)</span>
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+    <div class="actions-row">
+      <button class="btn btn-secondary" onclick="window.print()">🖨️ Imprimer / Enregistrer PDF</button>
+      <button class="btn btn-danger" onclick="resetChecklist()">🔄 Réinitialiser</button>
+    </div>
+  </div>
+
+  <!-- SECTION 1 : QUESTIONS AU VENDEUR -->
+  <section class="section-card">
+    <div class="section-header">
+      <div class="section-title">
+        <span>📞</span>
+        <span>1. Questions clés à poser au vendeur</span>
+      </div>
+      <span class="section-badge">Préalable</span>
+    </div>
+    <ul class="checkpoint-list">
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="q1">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Historique</span> Quelle était l'utilisation précédente du véhicule ?</div>
+          <div class="item-desc">Société / flotte d'entreprise, VTC/taxi, commercial autoroutier ou particulier ? (L'autoroute préserve la mécanique et le FAP).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="q2">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">Indispensable</span> Rapport HistoVec officiel fourni ?</div>
+          <div class="item-desc">Demander le lien ou PDF HistoVec officiel (gratuit pour le vendeur) pour vérifier le nombre réel de propriétaires et l'absence de sinistre grave déclaré.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="q3">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-warning">Garantie</span> Quelle est l'étendue et la durée de la garantie ?</div>
+          <div class="item-desc">Garantie 3, 6 ou 12 mois ? Couvre-t-elle Moteur + Boîte EDC + Châssis 4Control + Électronique ?</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="q4">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Sécurité</span> Contrôle technique de moins de 6 mois sans contre-visite ?</div>
+          <div class="item-desc">Demander à voir le rapport complet et noter les éventuelles défaillances mineures (rotules, ripage, plaquettes).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="q5">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Frais</span> Quels travaux ont été réalisés pour la mise en vente ?</div>
+          <div class="item-desc">Vidange moteur récente, pneus neufs, remplacement de plaquettes ou révision complète ?</div>
+        </div>
+      </li>
+    </ul>
+    <div class="notes-box">
+      <textarea placeholder="Notes et réponses du vendeur pour cette section..." id="notes-1"></textarea>
+    </div>
+  </section>
+
+  <!-- SECTION 2 : CARNET D'ENTRETIEN & FACTURES -->
+  <section class="section-card">
+    <div class="section-header">
+      <div class="section-title">
+        <span>📜</span>
+        <span>2. Carnet d'entretien & Historique de maintenance</span>
+      </div>
+      <span class="section-badge">Traçabilité</span>
+    </div>
+    <ul class="checkpoint-list">
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="m1">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">Crucial</span> Vidanges de la boîte automatique EDC (DW6)</div>
+          <div class="item-desc">Recommandé tous les 60 000 à 90 000 km. À 245 000 km, la boîte aurait dû être vidangée <strong>au moins 2 à 3 fois</strong> (vers 80k, 160k, 240k km).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="m2">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">Moteur</span> Régularité des vidanges moteur (2.0 Blue dCi)</div>
+          <div class="item-desc">Tous les 20 000 km ou 1 an (norme Renault RN17 / RN17 FE). Présence de 8 à 10 tampons/factures consécutives.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="m3">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-warning">Accessoires</span> Remplacement courroie d'accessoires + pompe à eau</div>
+          <div class="item-desc">À remplacer tous les 5-6 ans ou 150 000 km (même si la chaîne de distribution est à vie). Vérifier si cela a été fait.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="m4">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-warning">4Control</span> Amortisseurs pilotés remplacés ou d'origine ?</div>
+          <div class="item-desc">Des amortisseurs pilotés à 245 000 km d'origine sont fatigués. Le remplacement des 4 coûte ~1 500 € à 2 000 €.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="m5">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Dépollution</span> Historique FAP & Système AdBlue</div>
+          <div class="item-desc">Vérifier s'il y a eu un remplacement de réservoir/injecteur AdBlue ou un nettoyage/remplacement de FAP.</div>
+        </div>
+      </li>
+    </ul>
+    <div class="notes-box">
+      <textarea placeholder="Notes sur les factures et dates d'entretien..." id="notes-2"></textarea>
+    </div>
+  </section>
+
+  <!-- SECTION 3 : INSPECTION VISUELLE (MOTEUR ÉTEINT & À FROID) -->
+  <section class="section-card">
+    <div class="section-header">
+      <div class="section-title">
+        <span>🔍</span>
+        <span>3. Inspection Visuelle & Équipements (Moteur éteint)</span>
+      </div>
+      <span class="section-badge">Statique</span>
+    </div>
+    <ul class="checkpoint-list">
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v1">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-warning">Sous le capot</span> Niveaux et absence de fuites d'huile</div>
+          <div class="item-desc">Niveau d'huile propre (jauge entre min et max), liquide de refroidissement clair sans traces d'huile ni bulles. Pas de suintement gras sous le carter.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v2">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">4Control</span> Usure régulière des 4 pneus</div>
+          <div class="item-desc">Vérifier que les pneus avant ET arrière ne sont pas bouffés à l'intérieur ou "en facette" (témoignerait d'un dérèglement du train arrière 4Control).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v3">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Toit ouvrant</span> Mécanisme et étanchéité du toit panoramique</div>
+          <div class="item-desc">Ouvrir et fermer le toit ouvrant électrique en entier : aucun craquement, coulissement fluide, joint en parfait état, pas de trace d'infiltration d'eau au ciel de toit.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v4">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Modularité</span> Système One-Touch (rabattement électrique des sièges)</div>
+          <div class="item-desc">Appuyer sur les boutons dans le coffre et sur l'écran : les sièges arrière de rang 2 et 3 doivent se rabattre automatiquement sans blocage.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v5">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Initiale Paris</span> Sièges électriques, massants, chauffants & ventilés</div>
+          <div class="item-desc">Tester les réglages électriques, la mémoire conducteur, les 3 modes de massage et la ventilation d'assise des sièges avant.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v6">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Multimédia</span> Écran tactile central (R-Link 2 / Easy Link) & Son Bose</div>
+          <div class="item-desc">Vérifier la réactivité de l'écran, le GPS, la connectivité Bluetooth/CarPlay et le fonctionnement du son surround Bose (sans grésillement).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="v7">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Carrosserie</span> Hayon électrique mains libres & Caméra de recul</div>
+          <div class="item-desc">Tester l'ouverture motorisée du coffre (bouton et passage de pied sous pare-chocs) et la clarté de l'image de la caméra de recul.</div>
+        </div>
+      </li>
+    </ul>
+    <div class="notes-box">
+      <textarea placeholder="Notes sur l'état intérieur, carrosserie et options..." id="notes-3"></textarea>
+    </div>
+  </section>
+
+  <!-- SECTION 4 : DÉMARRAGE & ESSAI ROUTIER DYNAMIQUE -->
+  <section class="section-card">
+    <div class="section-header">
+      <div class="section-title">
+        <span>🚗</span>
+        <span>4. Démarrage & Essai Routier Dynamique (15-20 min)</span>
+      </div>
+      <span class="section-badge">Dynamique</span>
+    </div>
+    <ul class="checkpoint-list">
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d1">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">Démarrage</span> Démarrage immédiat à froid & voyants tableau de bord</div>
+          <div class="item-desc">Moteur part au quart de tour. Tous les voyants s'éteignent. ZÉRO message ("Contrôler antipollution", "Risque casse moteur", "Faire appoint AdBlue"). Pas de fumée suspecte.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d2">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">Boîte EDC</span> Manœuvres à très basse vitesse (Créneau / Rampe)</div>
+          <div class="item-desc">Lâcher le frein sans accélérer : le véhicule doit ramper en douceur sans brouter ni claquer (en marche avant et marche arrière).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d3">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">Boîte EDC</span> Accélération progressive et franche (Kick-down)</div>
+          <div class="item-desc">Passages des 6 rapports imperceptibles, aucun trou à l'accélération, rétrogradage rapide et sans à-coups lors d'une relance franche.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d4">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-critical">4Control</span> Test de braquage complet à basse vitesse (Parking)</div>
+          <div class="item-desc">Faire un tour complet braqué à fond à gauche puis à droite : la voiture doit pivoter très court sans claquement, grincement ni blocage à l'arrière.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d5">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-warning">Suspension</span> Passage de dos d'âne en mode Confort vs Sport</div>
+          <div class="item-desc">Changer les modes Multi-Sense : le mode Confort doit absorber souplement les irrégularités ; le mode Sport doit durcir l'amortissement sans bruits de cognement.</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d6">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-warning">Freinage</span> Freinage appuyé en ligne droite à 80 km/h</div>
+          <div class="item-desc">Le véhicule reste droit, pas de tirage à gauche/droite et AUCUNE vibration dans le volant (disques non voilés).</div>
+        </div>
+      </li>
+      <li class="checkpoint-item">
+        <input type="checkbox" class="checkbox-custom" id="d7">
+        <div class="item-content">
+          <div class="item-title"><span class="tag-info">Aides</span> Régulateur de vitesse adaptatif & Affichage tête haute</div>
+          <div class="item-desc">Vérifier que l'affichage tête haute se déploie et que le régulateur gère bien les distances avec la voiture qui précède.</div>
+        </div>
+      </li>
+    </ul>
+    <div class="notes-box">
+      <textarea placeholder="Comportement ressenti pendant l'essai routier..." id="notes-4"></textarea>
+    </div>
+  </section>
+
+  <!-- SECTION 5 : BILAN & NÉGOCIATION -->
+  <section class="summary-card">
+    <div class="summary-title">⚖️ 5. Bilan d'Évaluation & Arguments de Négociation</div>
+    <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 12px;">
+      Utilisez ces arguments pour négocier le prix si le véhicule vous intéresse :
+    </p>
+
+    <div class="negotiation-points">
+      <h4>💡 Leviers de négociation potentiels :</h4>
+      <ul>
+        <li><strong>Vidange de boîte EDC :</strong> Si non justifiée récemment, demandez une remise de <strong>400 € à 600 €</strong> ou que le garage la fasse avant la livraison.</li>
+        <li><strong>Amortisseurs pilotés :</strong> S'ils sont d'origine à 245 000 km, argumentez sur leur usure future (remplacement coûteux ~1 800 €).</li>
+        <li><strong>Pneus / Freins :</strong> Si usés à plus de 50 %, demandez leur remplacement ou <strong>300 € à 500 €</strong> de réduction.</li>
+        <li><strong>Garantie :</strong> Exigez au minimum une garantie 6 mois boîte/moteur/système 4Control incluse dans le prix.</li>
+      </ul>
+    </div>
+
+    <div class="notes-box" style="margin-top: 16px; background: var(--input-bg); border: 1px solid var(--border); border-radius: 8px;">
+      <label style="font-weight: 700; font-size: 0.9rem; display: block; margin-bottom: 6px;">🎯 Décision Finale & Prix Négocié :</label>
+      <textarea placeholder="Offre proposée, accord avec le vendeur, réserves inscrites sur le bon de commande..." id="notes-final" style="min-height: 80px;"></textarea>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  // Gestion du Thème Sombre / Clair
+  function getPreferredTheme() {
+    const savedTheme = localStorage.getItem('espace5_theme');
+    if (savedTheme) return savedTheme;
+    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    const icon = document.getElementById('theme-icon');
+    const text = document.getElementById('theme-text');
+    if (theme === 'dark') {
+      icon.innerText = '☀️';
+      text.innerText = 'Mode Clair';
+    } else {
+      icon.innerText = '🌙';
+      text.innerText = 'Mode Sombre';
+    }
+    localStorage.setItem('espace5_theme', theme);
+  }
+
+  function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    applyTheme(newTheme);
+  }
+
+  // Appliquer le thème initial
+  applyTheme(getPreferredTheme());
+
+  // Gestion automatique du calcul de progression et persistance localStorage
+  const checkboxes = document.querySelectorAll('.checkbox-custom');
+  const progressText = document.getElementById('progress-text');
+  const progressFill = document.getElementById('progress-fill');
+  const totalCount = checkboxes.length;
+
+  function updateProgress() {
+    let checkedCount = 0;
+    checkboxes.forEach(cb => {
+      const parent = cb.closest('.checkpoint-item');
+      if (cb.checked) {
+        checkedCount++;
+        if (parent) parent.classList.add('checked');
+      } else {
+        if (parent) parent.classList.remove('checked');
+      }
+    });
+
+    const percentage = Math.round((checkedCount / totalCount) * 100);
+    progressText.innerText = `${checkedCount} / ${totalCount} (${percentage}%)`;
+    progressFill.style.width = `${percentage}%`;
+
+    // Sauvegarde de l'état
+    saveState();
+  }
+
+  function saveState() {
+    const state = {};
+    checkboxes.forEach(cb => {
+      state[cb.id] = cb.checked;
+    });
+
+    // Inputs et notes
+    ['car-km', 'car-price', 'car-seller', 'inspection-date', 'notes-1', 'notes-2', 'notes-3', 'notes-4', 'notes-final'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) state[id] = el.value;
+    });
+
+    localStorage.setItem('espace5_inspection_data', JSON.stringify(state));
+  }
+
+  function loadState() {
+    const saved = localStorage.getItem('espace5_inspection_data');
+    if (!saved) {
+      // Date par défaut du jour
+      const today = new Date().toISOString().split('T')[0];
+      const dateEl = document.getElementById('inspection-date');
+      if (dateEl) dateEl.value = today;
+      return;
+    }
+
+    try {
+      const state = JSON.parse(saved);
+      checkboxes.forEach(cb => {
+        if (state[cb.id] !== undefined) {
+          cb.checked = state[cb.id];
+        }
+      });
+
+      ['car-km', 'car-price', 'car-seller', 'inspection-date', 'notes-1', 'notes-2', 'notes-3', 'notes-4', 'notes-final'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el && state[id] !== undefined) el.value = state[id];
+      });
+    } catch (e) {
+      console.error(e);
+    }
+  }
+
+  function resetChecklist() {
+    if (confirm('Voulez-vous vraiment réinitialiser toutes les cases et les notes ?')) {
+      checkboxes.forEach(cb => cb.checked = false);
+      ['car-km', 'car-price', 'car-seller', 'inspection-date', 'notes-1', 'notes-2', 'notes-3', 'notes-4', 'notes-final'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.value = '';
+      });
+      localStorage.removeItem('espace5_inspection_data');
+      updateProgress();
+    }
+  }
+
+  // Écouteurs d'événements
+  checkboxes.forEach(cb => {
+    cb.addEventListener('change', updateProgress);
+  });
+
+  ['car-km', 'car-price', 'car-seller', 'inspection-date', 'notes-1', 'notes-2', 'notes-3', 'notes-4', 'notes-final'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.addEventListener('input', saveState);
+  });
+
+  // Initialisation
+  loadState();
+  updateProgress();
+</script>
+
+</body>
+</html>
